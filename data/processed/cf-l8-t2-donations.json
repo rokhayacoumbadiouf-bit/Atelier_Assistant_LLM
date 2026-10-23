@@ -1,0 +1,608 @@
+{
+ "doc_id": "cf-l8-t2-donations",
+ "metadata": {
+  "id": "cf-l8-t2-donations",
+  "titre": "Code de la famille - Livre VIII Titre II : Des donations entre vifs",
+  "titre_court": "Code de la famille",
+  "organisme": "Ministère de la Justice du Sénégal",
+  "type_document": "normatif",
+  "matiere": "droit de la famille",
+  "url": "https://justice.sec.gouv.sn/wp-content/uploads/2021/01/CODE-DE-LA-FAMILLE.pdf",
+  "format": "pdf",
+  "fichier_local": "code_famille_justice.pdf",
+  "pages_debut": "92",
+  "pages_fin": "95",
+  "filtre": "livre=LIVRE VIII&titre=TITRE II",
+  "options": "intitules=oui",
+  "date_consultation": "2026-10-23",
+  "version_texte": "Loi n° 72-61 du 12 juin 1972, version consolidée diffusée par le Ministère (PDF créé le 20/03/2003)",
+  "sha256": "b32ee374703c5c664f252d175d7bae3a353e403ddaaba23ae9c753409dc08acc",
+  "remplace": "",
+  "ingerer": "oui",
+  "notes": "Extrait du Code de la famille ; l'article 688 est absent du PDF source (saut 687 -> 689)",
+  "sha256_original": "b32ee374703c5c664f252d175d7bae3a353e403ddaaba23ae9c753409dc08acc"
+ },
+ "quality": {
+  "pages": 4,
+  "pages_ocr": 0,
+  "pages_vides": 0,
+  "caracteres": 14112,
+  "ratio_lettres": 0.953,
+  "articles_detectes": 39,
+  "premier_article": "676",
+  "dernier_article": "715",
+  "numeros_dupliques": "",
+  "sauts_numerotation": "687->689",
+  "statut": "ok"
+ },
+ "pages": [
+  {
+   "page": 92,
+   "methode": "texte",
+   "text": "SECTION V - SANCTIONS\n\nDES INCAPACITES DE\n\nDISPOSER ET DE\n\nRECEVOIR\n\nArticle 675\nLes dispositions à titre gratuit, entre vifs ou par testament, entachées de l'une des incapacités visées aux articles 659 et 674, sont nulles.\nLa capacité s'apprécie chez le donateur ou testateur au jour de la donation ou du legs, chez le gratifié au jour de l'acceptation.\n\nTITRE II\n\nDES DONATIONS ENTRE\n\nVIFS\n\nCHAPITRE PREMIER\n\nDES CONDITIONS DE\n\nFORME\n\nSECTION PREMIERE -\nREGLES GENERALES\n\nArticle 676\nDonations immobilières\nTout contrat portant donation d'immeubles ou de droits immobiliers doit être passé devant notaire.\n\nArticle 677\nDonations mobilières\nTout contrat portant donation d'effets mobiliers peut être passé, soit par acte notarié, soit par acte sous seings privés dûment enregistré.\n\nLe contrat n'est valable qu'autant qu'il a été dressé un estimatif des biens donnés, signé du donateur et du donataire, ou de ceux qui acceptent pour lui.\n\nArticle 678\nAcceptation du donataire\nLa donation n'engage le donateur et ne produit son effet que du jour où elle a été expressément acceptée par le donataire; l'acceptation est faite dans la même forme que la donation.\n\nL'acceptation peut être faite dans un acte postérieur, dans ce cas la donation n'a d'effet, à l'égard du donateur, que du jour où cette acceptation lui aura été notifiée.\n\nL'acceptation au nom d'un sourd-muet doit être homologuée par le tribunal compétent.\n\nSECTION Il - SANCTION\n\nDES CONDITIONS DE\n\nFORME\n\nArticle 679\nNullité de principe\nLa donation dépourvue des formes légales est radicalement nulle et ne peut être réparée par aucun acte confirmatif; il faut qu'elle soit refaite en la forme légale.\n\nToutefois, la confirmation ou ratification ou exécution volontaire de la donation, consentie par les héritiers ou ayants cause du donateur, après son décès, emporte renonciation à opposer, soit les vices de formes, soit toute autre exception.\n\nArticle 680\nExceptions\nLa nullité de la donation, irrégulière en la forme, n'emporte pas nécessairement celle de ses dispositions qui ne sont pas soumises aux formes réglées aux articles 676 et 677.\n\nSECTION III - REGLES\n\nSPECIALES AUX DONATIONS DEGUISEES\n\nOU DES PERSONNES\n\nINTERPOSEES\n\nArticle 681\nValidité des donations déguisées\nLe contrat de donation déguisée est celui qui est fait sous l'apparence d'un contrat à titre onéreux.\n\nLa simulation n'est pas une cause de nullité, et le contrat est valable comme donation, lorsque le déguisement a été prouvé.\n\nA l'égard des tiers, la preuve du déguisement peut être rapportée par tous moyens; entre les parties, la preuve doit être rapportée par écrit lorsque la valeur de l'objet du contrat excède la somme prévue à l'article 14 du Code des Obligations Civiles et Commerciales.\n\nArticle 682\nConditions de validité\nLa donation déguisée n'est valable comme donation qu'autant que les conditions de fond des donations ont été réunies et que les conditions de forme de l'acte ostensible ont été respectées.\n\nArticle 683\nApplication des règles de fond des donations\nLorsque la preuve du déguisement est rapportée, la donation est soumise à toutes les règles de fond applicables aux donations.\n\nArticle 684\nDonation au profit d'un incapable\nLa donation déguisée au profit d'un incapable est nulle soit qu'on la déguise sous la forme d'un contrat onéreux, soit qu'on la fasse sous le nom de personnes interposées.\n\nSont réputées personnes interposées les père et mère,"
+  },
+  {
+   "page": 93,
+   "methode": "texte",
+   "text": "les enfants et descendants et le conjoint de la personne incapable, sans préjudice du droit pour les héritiers de prouver l'interposition de toute autre personne eu égard aux circonstances de fait.\n\nSECTION IV - REGLES\n\nSPECIALES AU DON\n\nMANUEL\n\nArticle 685\nValidité du don manuel\nLe don manuel est la donation d'un meuble corporel réalisé par simple tradition, par dérogation aux règles édictées aux articles 676 et 677.\n\nArticle 686\nTradition\nLe don manuel n'est réalisé qu'autant que la tradition a transféré au donataire la possession réelle de l'objet donné, soit directement du donateur, soit par l'intermédiaire d'un tiers chargé de remettre l'objet au donataire.\n\nLa tradition doit avoir lieu du vivant du donateur.\n\nArticle 687\nObjet de don manuel\nLe don manuel ne peut porter que sur des meubles corporels, dont la propriété peut être acquise par simple tradition.\n\nLe don manuel n'est valable qu'autant que les conditions de fond des donations sont réunies.\n\nArticle 689\nPreuve du don manuel par la possession du donataire\nLa preuve du don manuel, par le donataire qui est en possession de l'objet donné, résulte de la possession à titre de propriétaire et sans vices.\n\nLa précarité de la possession doit être prouvée par écrit, elle peut l'être par témoins dans tous les cas où ce mode de preuve est admis par la loi.\n\nLes vices de la possession peuvent être prouvés par tous les moyens.\n\nArticle 690\nAutres moyens de preuve à la disposition du donataire\nSi le donataire n'est pas en possession de la chose donnée, il doit, pour prouver le don manuel, apporter la preuve de la tradition et de la convention de donation.\n\nLa tradition peut être prouvée par tous moyens.\n\nLa convention de donation est soumise aux modes de preuve admis par la loi.\n\nArticle 691\nPreuve par le donateur\nLa preuve du don manuel par le donateur est soumise aux règles édictées aux articles 12 et suivants du Code des Obligations Civiles et Commerciales.\n\nLes héritiers du donateur peuvent prouver le don manuel par tous moyens.\n\nCHAPITRE II\n\nDES CONDITIONS DE\n\nFOND\n\nSECTION PREMIERE - DES\nELEMENTS CONSTITUTIFS\n\nDE LA DONATION\n\nArticle 692\nEnumération\nLes éléments constitutifs de la donation sont:\n\n- l'intention libérale;\n- la transmission sans contrepartie d'un bien, du patrimoine du donateur dans celui du donataire;\n\n- le lien de causalité directe entre l'appauvrissement du donateur et l'enrichissement du donataire.\n\nArticle 693\nIntention libérale\nIl n'y a intention libérale que lorsque le donateur se dépouille irrévocablement de la chose donnée en vue de gratifier le donataire.\n\nArticle 694\nNécessité d'un appauvrissement du donateur\nIl y a pas donation lorsqu'elle n'entraîne aucun appauvrissement du patrimoine du donateur.\n\nArticle 695\nAbsence d'appauvrissement du donateur\nIl n'y a pas donation lorsque la transmission des biens, consentie par le donateur, est assortie d'un avantage soit à son profit, soit au profit d'un tiers.\n\nArticle 696\nLien de causalité\nIl n'y a pas donation lorsqu'il n'existe pas de lien de causalité direct entre l'appauvrissement du donateur et l'enrichissement du donataire.\n\nSECTION Il - DE\nL'IRREVOCABILITE DES\n\nDONATIONS\n\nArticle 697\nPrincipe\nLa donation est un contrat irrévocable dans les conditions prévues aux articles suivants.\n\nArticle 698\nDonation sous condition potestative\nToute donation faite sous des conditions dont l'exécution dépend de la seule volonté du donateur est nulle.\n\nArticle 699\nRéserve de la faculté de disposer\nToute donation par laquelle le donateur se réserve la faculté"
+  },
+  {
+   "page": 94,
+   "methode": "texte",
+   "text": "de disposer de la chose donnée est nulle.\n\nArticle 700\nObligation d'acquitter les dettes\nLa donation est pareillement nulle si elle a été faite sous la condition d'acquitter les dettes futures du donateur.\n\nSECTION III - DES\nEXCEPTIONS A LA REGLE\n\nDE L'IRREVOCABILITE\n\nArticle 701\nDonation avec réserve d'usufruit\nIl est permis au donateur de faire la réserve à son profit, ou de disposer au profit d'un autre, de la jouissance de l'usufruit des biens donnés.\n\nPareillement, le donateur peut stipuler à son profit ou au profit d'un tiers la réserve du droit d'usage et d'habitation sur l'immeuble donné.\n\nArticle 702\nDroit de retour conventionnel\nLe donateur peut stipuler à son profit le droit de retour des objets donnés, soit pour le cas du prédécès du donataire seul, soit pour le cas de prédécès du donataire et de ses descendants.\n\nArticle 703\nEffets\nL'effet du droit de retour emporte résolution de toutes les aliénations des biens donnés et il fait revenir ces biens au donateur, francs et quittes de toutes charges et hypothèques, sauf ce qui est réglé au titre «Des libéralités à caractère familial».\n\nSECTION IV - DE LA\n\nREVOCATION DES\n\nDONATIONS\n\nArticle 704\nCauses de révocation\nLa donation peut être révoquée:\n\n1°) Pour cause d'inexécution des charges ou conditions sous lesquelles elle a été faite;\n\n2°) Pour cause d'ingratitude du donataire;\n\n3°) Pour cause de survenance d'enfant;\n\nToutefois, les donations en vue du mariage ne sont pas révocables pour cause d'ingratitude.\n\nArticle 705\nInexécution des charges\nLes charges doivent être précises et ne pas excéder le montant de la donation.\n\nLa révocation pour cause d'inexécution des charges n'a lieu que si la charge ou la condition a été la cause impulsive et déterminante de la donation.\n\nArticle 706\nEffets de l'inexécution\nDans le cas de la révocation pour cause d'inexécution des conditions, les biens donnés rentrent dans les mains du donateur, francs et quittes de toutes charges et hypothèques du chef du donataire et le donateur a, contre les tiers détenteurs des immeubles donnés, tous les droits qu'il aurait contre le donataire lui-même.\n\nArticle 707\nIngratitude du donataire\nLa révocation de la donation pour cause d'ingratitude ne peut avoir lieu que dans les cas suivants:\n\n1°) Si le donataire a attenté à la vie du donateur;\n\n2°) S'il s'est rendu coupable envers lui de sévices, délits ou injures graves;\n\n3°) S'il lui refuse les aliments dans le besoin.\n\nArticle 708\nEffets de l'ingratitude du donataire\nL'action en révocation pour cause d'ingratitude appartient au donateur, qui peut y renoncer expressément ou tacitement en pardonnant au donataire.\n\nElle doit être intentée dans l'année à compter du jour du délit imputé par le donateur au donataire, ou à compter du jour où le délit a été connu par le donateur.\n\nToutefois les héritiers du donateur peuvent exercer l'action en révocation dans le cas suivant;\n\n1°) Lorsque le donateur est décédé après avoir commencé d'intenter l'action en révocation.\n\n2°) Lorsque le donateur est décédé dans l'année du délit, même sans avoir intenté l'action en révocation.\n\nLa révocation pour cause d'ingratitude ne peut être demandée par le donateur contre les héritiers du donataire.\n\nArticle 709\nEffets à l'égard des tiers\nLa révocation pour cause d'ingratitude n'emporte point d'effet rétroactif contre les tiers.\n\nArticle 710\nSurvenance d'enfant\nToutes donations entre vifs, faites par personnes qui n'avaient point d'enfants légitimes ou naturels actuellement vivants dans le temps de la donation, de quelque valeur que ces donations puissent être, et à quelque titre qu'elles aient été faites, et encore qu'elles soient mutuelles ou rémunératoires, même celles qui auraient été faites en vue du mariage par d'autres que par les ascendants aux conjoints, ou par les conjoints l'un à l'autre, peuvent être révoquées à la suite de la survenance d'un enfant du donateur, même posthume, ou par la légitimation d'un enfant"
+  },
+  {
+   "page": 95,
+   "methode": "texte",
+   "text": "naturel par mariage subséquent, s'il est né depuis la donation.\n\nDans ce cas l'article 706 recevra application.\n\nCHAPITRE III\n\nDES EFFETS DE LA\n\nDONATION\n\nSECTION PREMIERE - DES\n\nOBLIGATIONS DU\n\nDONATEUR\n\nArticle 711\nTransfert de propriété\nLa donation est un contrat translatif de droit et générateur d'obligations à l'encontre du donateur et du donataire.\n\nA l'égard des tiers, l'opposabilité du transfert est subordonnée aux conditions fixées par la loi.\n\nArticle 712\nDélivrance\nLe donateur doit livrer la chose donnée et s'abstenir de tout acte susceptible d'en troubler la jouissance à peine de dommages et intérêts envers le donataire.\n\nArticle 713\nGarantie\nL'obligation de livrer la chose donnée n'emporte pas l'obligation de garantie d'éviction ou des vices cachés, à moins qu'elle n'ait été promise dans une clause spéciale de l'acte portant donation.\n\nSECTION Il - DES\nOBLIGATIONS DU\n\nDONATAIRE\n\nArticle 714\nExécution des charges\nLe donataire doit exécuter les charges imposées par le donateur, soit à son profit, soit dans l'intérêt du donataire, soit au profit d'un tiers.\n\nArticle 715\nIngratitude du donataire\nLe donataire doit s'abstenir de tout acte constitutif d'ingratitude à l'égard du donateur.\n\nTITRE III\n\nDES TESTAMENTS\n\nCHAPITRE PREMIER\n\nDE L.A FORME DES\n\nTESTAMENTS\n\nArticle 716\nFormes du testament\nLe testament ne peut être fait que par écrit et dans les formes ci-après à peine de nullité, savoir:\n\n1°) En la forme olographe;\n2°) Par acte public;\n3°) En la forme mystique.\n\nSECTION PREMIERE - DU\nTESTAMENT OLOGRAPHE\n\nArticle 717\nConditions de forme\nLe testament olographe est celui qui est écrit en entier, daté et signé de la main du testateur.\n\nArticle 718\nTestament à main guidée\nLe testament à main guidée par un tiers est valable si l'intervention du tiers n'a consisté qu'à aider le testateur, en raison de son infirmité, à placer sa main sur le papier et à signer au bon endroit.\n\nArticle 719\nFormes de l'écrit\nLe testament peut être écrit, soit avec de l'encre ou tout autre liquide, soit au crayon.\n\nIl peut être écrit sur du papier ou sur tout autre objet.\n\nIl peut être rédigé en une langue étrangère.\n\nArticle 720\nLa date du testament doit être précisée et indiquer les jour, mois, et an, soit en lettres, soit en chiffres.\n\nToutefois, au cas où la date est incomplète ou erronée, elle peut être complétée ou rectifiée par toutes mentions de l'acte ou par des présomptions qui les corroborent.\n\nArticle 721\nSignature\nLa signature doit être conforme aux habitudes du testateur et permettre de l'identifier.\n\nArticle 722\nOuverture et dépôt du testament\nAu décès du testateur, son testament est présenté au juge du lieu d'ouverture de la succession; celui-ci dresse procès verbal de la présentation, de l'ouverture du testament, s'il est cacheté, et de son état. Il est ensuite ordonné dépôt du testament au rang des minutes d'un notaire.\n\nSECTION Il - DU\nTESTAMENT PAR ACTE\n\nPUBLIC\n\nArticle 723\nConditions de forme\nLe testament par acte public est celui qui est reçu, soit par un notaire, soit par un juge, sous la dictée directe du testateur..\n\nLorsque celui-ci ne sait ni lire ni écrire, la réception de l'acte est faite en la présence réelle de deux témoins majeurs non"
+  }
+ ],
+ "articles": [
+  {
+   "article": "676",
+   "intitule": "Donations immobilières",
+   "text": "Tout contrat portant donation d'immeubles ou de droits immobiliers doit être passé devant notaire.",
+   "page_start": 92,
+   "page_end": 92,
+   "modification": "",
+   "hierarchy": {
+    "livre": "LIVRE VIII - DES DONATIONS ENTRE VIFS ET DES TESTAMENTS",
+    "titre": "TITRE II - DES DONATIONS ENTRE VIFS",
+    "chapitre": "CHAPITRE I - DES CONDITIONS DE FORME",
+    "section": "SECTION I - REGLES GENERALES"
+   }
+  },
+  {
+   "article": "677",
+   "intitule": "Donations mobilières",
+   "text": "Tout contrat portant donation d'effets mobiliers peut être passé, soit par acte notarié, soit par acte sous seings privés dûment enregistré.\nLe contrat n'est valable qu'autant qu'il a été dressé un estimatif des biens donnés, signé du donateur et du donataire, ou de ceux qui acceptent pour lui.",
+   "page_start": 92,
+   "page_end": 92,
+   "modification": "",
+   "hierarchy": {
+    "livre": "LIVRE VIII - DES DONATIONS ENTRE VIFS ET DES TESTAMENTS",
+    "titre": "TITRE II - DES DONATIONS ENTRE VIFS",
+    "chapitre": "CHAPITRE I - DES CONDITIONS DE FORME",
+    "section": "SECTION I - REGLES GENERALES"
+   }
+  },
+  {
+   "article": "678",
+   "intitule": "Acceptation du donataire",
+   "text": "La donation n'engage le donateur et ne produit son effet que du jour où elle a été expressément acceptée par le donataire; l'acceptation est faite dans la même forme que la donation.\nL'acceptation peut être faite dans un acte postérieur, dans ce cas la donation n'a d'effet, à l'égard du donateur, que du jour où cette acceptation lui aura été notifiée.\nL'acceptation au nom d'un sourd-muet doit être homologuée par le tribunal compétent.",
+   "page_start": 92,
+   "page_end": 92,
+   "modification": "",
+   "hierarchy": {
+    "livre": "LIVRE VIII - DES DONATIONS ENTRE VIFS ET DES TESTAMENTS",
+    "titre": "TITRE II - DES DONATIONS ENTRE VIFS",
+    "chapitre": "CHAPITRE I - DES CONDITIONS DE FORME",
+    "section": "SECTION I - REGLES GENERALES"
+   }
+  },
+  {
+   "article": "679",
+   "intitule": "Nullité de principe",
+   "text": "La donation dépourvue des formes légales est radicalement nulle et ne peut être réparée par aucun acte confirmatif; il faut qu'elle soit refaite en la forme légale.\nToutefois, la confirmation ou ratification ou exécution volontaire de la donation, consentie par les héritiers ou ayants cause du donateur, après son décès, emporte renonciation à opposer, soit les vices de formes, soit toute autre exception.",
+   "page_start": 92,
+   "page_end": 92,
+   "modification": "",
+   "hierarchy": {
+    "livre": "LIVRE VIII - DES DONATIONS ENTRE VIFS ET DES TESTAMENTS",
+    "titre": "TITRE II - DES DONATIONS ENTRE VIFS",
+    "chapitre": "CHAPITRE I - DES CONDITIONS DE FORME",
+    "section": "SECTION II - SANCTION DES CONDITIONS DE FORME"
+   }
+  },
+  {
+   "article": "680",
+   "intitule": "Exceptions",
+   "text": "La nullité de la donation, irrégulière en la forme, n'emporte pas nécessairement celle de ses dispositions qui ne sont pas soumises aux formes réglées aux articles 676 et 677.",
+   "page_start": 92,
+   "page_end": 92,
+   "modification": "",
+   "hierarchy": {
+    "livre": "LIVRE VIII - DES DONATIONS ENTRE VIFS ET DES TESTAMENTS",
+    "titre": "TITRE II - DES DONATIONS ENTRE VIFS",
+    "chapitre": "CHAPITRE I - DES CONDITIONS DE FORME",
+    "section": "SECTION II - SANCTION DES CONDITIONS DE FORME"
+   }
+  },
+  {
+   "article": "681",
+   "intitule": "Validité des donations déguisées",
+   "text": "Le contrat de donation déguisée est celui qui est fait sous l'apparence d'un contrat à titre onéreux.\nLa simulation n'est pas une cause de nullité, et le contrat est valable comme donation, lorsque le déguisement a été prouvé.\nA l'égard des tiers, la preuve du déguisement peut être rapportée par tous moyens; entre les parties, la preuve doit être rapportée par écrit lorsque la valeur de l'objet du contrat excède la somme prévue à l'article 14 du Code des Obligations Civiles et Commerciales.",
+   "page_start": 92,
+   "page_end": 92,
+   "modification": "",
+   "hierarchy": {
+    "livre": "LIVRE VIII - DES DONATIONS ENTRE VIFS ET DES TESTAMENTS",
+    "titre": "TITRE II - DES DONATIONS ENTRE VIFS",
+    "chapitre": "CHAPITRE I - DES CONDITIONS DE FORME",
+    "section": "SECTION III - REGLES SPECIALES AUX DONATIONS DEGUISEES OU DES PERSONNES INTERPOSEES"
+   }
+  },
+  {
+   "article": "682",
+   "intitule": "Conditions de validité",
+   "text": "La donation déguisée n'est valable comme donation qu'autant que les conditions de fond des donations ont été réunies et que les conditions de forme de l'acte ostensible ont été respectées.",
+   "page_start": 92,
+   "page_end": 92,
+   "modification": "",
+   "hierarchy": {
+    "livre": "LIVRE VIII - DES DONATIONS ENTRE VIFS ET DES TESTAMENTS",
+    "titre": "TITRE II - DES DONATIONS ENTRE VIFS",
+    "chapitre": "CHAPITRE I - DES CONDITIONS DE FORME",
+    "section": "SECTION III - REGLES SPECIALES AUX DONATIONS DEGUISEES OU DES PERSONNES INTERPOSEES"
+   }
+  },
+  {
+   "article": "683",
+   "intitule": "Application des règles de fond des donations",
+   "text": "Lorsque la preuve du déguisement est rapportée, la donation est soumise à toutes les règles de fond applicables aux donations.",
+   "page_start": 92,
+   "page_end": 92,
+   "modification": "",
+   "hierarchy": {
+    "livre": "LIVRE VIII - DES DONATIONS ENTRE VIFS ET DES TESTAMENTS",
+    "titre": "TITRE II - DES DONATIONS ENTRE VIFS",
+    "chapitre": "CHAPITRE I - DES CONDITIONS DE FORME",
+    "section": "SECTION III - REGLES SPECIALES AUX DONATIONS DEGUISEES OU DES PERSONNES INTERPOSEES"
+   }
+  },
+  {
+   "article": "684",
+   "intitule": "Donation au profit d'un incapable",
+   "text": "La donation déguisée au profit d'un incapable est nulle soit qu'on la déguise sous la forme d'un contrat onéreux, soit qu'on la fasse sous le nom de personnes interposées.\nSont réputées personnes interposées les père et mère, les enfants et descendants et le conjoint de la personne incapable, sans préjudice du droit pour les héritiers de prouver l'interposition de toute autre personne eu égard aux circonstances de fait.",
+   "page_start": 92,
+   "page_end": 93,
+   "modification": "",
+   "hierarchy": {
+    "livre": "LIVRE VIII - DES DONATIONS ENTRE VIFS ET DES TESTAMENTS",
+    "titre": "TITRE II - DES DONATIONS ENTRE VIFS",
+    "chapitre": "CHAPITRE I - DES CONDITIONS DE FORME",
+    "section": "SECTION III - REGLES SPECIALES AUX DONATIONS DEGUISEES OU DES PERSONNES INTERPOSEES"
+   }
+  },
+  {
+   "article": "685",
+   "intitule": "Validité du don manuel",
+   "text": "Le don manuel est la donation d'un meuble corporel réalisé par simple tradition, par dérogation aux règles édictées aux articles 676 et 677.",
+   "page_start": 93,
+   "page_end": 93,
+   "modification": "",
+   "hierarchy": {
+    "livre": "LIVRE VIII - DES DONATIONS ENTRE VIFS ET DES TESTAMENTS",
+    "titre": "TITRE II - DES DONATIONS ENTRE VIFS",
+    "chapitre": "CHAPITRE I - DES CONDITIONS DE FORME",
+    "section": "SECTION IV - REGLES SPECIALES AU DON MANUEL"
+   }
+  },
+  {
+   "article": "686",
+   "intitule": "Tradition",
+   "text": "Le don manuel n'est réalisé qu'autant que la tradition a transféré au donataire la possession réelle de l'objet donné, soit directement du donateur, soit par l'intermédiaire d'un tiers chargé de remettre l'objet au donataire.\nLa tradition doit avoir lieu du vivant du donateur.",
+   "page_start": 93,
+   "page_end": 93,
+   "modification": "",
+   "hierarchy": {
+    "livre": "LIVRE VIII - DES DONATIONS ENTRE VIFS ET DES TESTAMENTS",
+    "titre": "TITRE II - DES DONATIONS ENTRE VIFS",
+    "chapitre": "CHAPITRE I - DES CONDITIONS DE FORME",
+    "section": "SECTION IV - REGLES SPECIALES AU DON MANUEL"
+   }
+  },
+  {
+   "article": "687",
+   "intitule": "Objet de don manuel",
+   "text": "Le don manuel ne peut porter que sur des meubles corporels, dont la propriété peut être acquise par simple tradition.\nLe don manuel n'est valable qu'autant que les conditions de fond des donations sont réunies.",
+   "page_start": 93,
+   "page_end": 93,
+   "modification": "",
+   "hierarchy": {
+    "livre": "LIVRE VIII - DES DONATIONS ENTRE VIFS ET DES TESTAMENTS",
+    "titre": "TITRE II - DES DONATIONS ENTRE VIFS",
+    "chapitre": "CHAPITRE I - DES CONDITIONS DE FORME",
+    "section": "SECTION IV - REGLES SPECIALES AU DON MANUEL"
+   }
+  },
+  {
+   "article": "689",
+   "intitule": "Preuve du don manuel par la possession du donataire",
+   "text": "La preuve du don manuel, par le donataire qui est en possession de l'objet donné, résulte de la possession à titre de propriétaire et sans vices.\nLa précarité de la possession doit être prouvée par écrit, elle peut l'être par témoins dans tous les cas où ce mode de preuve est admis par la loi.\nLes vices de la possession peuvent être prouvés par tous les moyens.",
+   "page_start": 93,
+   "page_end": 93,
+   "modification": "",
+   "hierarchy": {
+    "livre": "LIVRE VIII - DES DONATIONS ENTRE VIFS ET DES TESTAMENTS",
+    "titre": "TITRE II - DES DONATIONS ENTRE VIFS",
+    "chapitre": "CHAPITRE I - DES CONDITIONS DE FORME",
+    "section": "SECTION IV - REGLES SPECIALES AU DON MANUEL"
+   }
+  },
+  {
+   "article": "690",
+   "intitule": "Autres moyens de preuve à la disposition du donataire",
+   "text": "Si le donataire n'est pas en possession de la chose donnée, il doit, pour prouver le don manuel, apporter la preuve de la tradition et de la convention de donation.\nLa tradition peut être prouvée par tous moyens.\nLa convention de donation est soumise aux modes de preuve admis par la loi.",
+   "page_start": 93,
+   "page_end": 93,
+   "modification": "",
+   "hierarchy": {
+    "livre": "LIVRE VIII - DES DONATIONS ENTRE VIFS ET DES TESTAMENTS",
+    "titre": "TITRE II - DES DONATIONS ENTRE VIFS",
+    "chapitre": "CHAPITRE I - DES CONDITIONS DE FORME",
+    "section": "SECTION IV - REGLES SPECIALES AU DON MANUEL"
+   }
+  },
+  {
+   "article": "691",
+   "intitule": "Preuve par le donateur",
+   "text": "La preuve du don manuel par le donateur est soumise aux règles édictées aux articles 12 et suivants du Code des Obligations Civiles et Commerciales.\nLes héritiers du donateur peuvent prouver le don manuel par tous moyens.",
+   "page_start": 93,
+   "page_end": 93,
+   "modification": "",
+   "hierarchy": {
+    "livre": "LIVRE VIII - DES DONATIONS ENTRE VIFS ET DES TESTAMENTS",
+    "titre": "TITRE II - DES DONATIONS ENTRE VIFS",
+    "chapitre": "CHAPITRE I - DES CONDITIONS DE FORME",
+    "section": "SECTION IV - REGLES SPECIALES AU DON MANUEL"
+   }
+  },
+  {
+   "article": "692",
+   "intitule": "Enumération",
+   "text": "Les éléments constitutifs de la donation sont:\n- l'intention libérale; - la transmission sans contrepartie d'un bien, du patrimoine du donateur dans celui du donataire;\n- le lien de causalité directe entre l'appauvrissement du donateur et l'enrichissement du donataire.",
+   "page_start": 93,
+   "page_end": 93,
+   "modification": "",
+   "hierarchy": {
+    "livre": "LIVRE VIII - DES DONATIONS ENTRE VIFS ET DES TESTAMENTS",
+    "titre": "TITRE II - DES DONATIONS ENTRE VIFS",
+    "chapitre": "CHAPITRE II - DES CONDITIONS DE FOND",
+    "section": "SECTION I - DES ELEMENTS CONSTITUTIFS DE LA DONATION"
+   }
+  },
+  {
+   "article": "693",
+   "intitule": "Intention libérale",
+   "text": "Il n'y a intention libérale que lorsque le donateur se dépouille irrévocablement de la chose donnée en vue de gratifier le donataire.",
+   "page_start": 93,
+   "page_end": 93,
+   "modification": "",
+   "hierarchy": {
+    "livre": "LIVRE VIII - DES DONATIONS ENTRE VIFS ET DES TESTAMENTS",
+    "titre": "TITRE II - DES DONATIONS ENTRE VIFS",
+    "chapitre": "CHAPITRE II - DES CONDITIONS DE FOND",
+    "section": "SECTION I - DES ELEMENTS CONSTITUTIFS DE LA DONATION"
+   }
+  },
+  {
+   "article": "694",
+   "intitule": "Nécessité d'un appauvrissement du donateur",
+   "text": "Il y a pas donation lorsqu'elle n'entraîne aucun appauvrissement du patrimoine du donateur.",
+   "page_start": 93,
+   "page_end": 93,
+   "modification": "",
+   "hierarchy": {
+    "livre": "LIVRE VIII - DES DONATIONS ENTRE VIFS ET DES TESTAMENTS",
+    "titre": "TITRE II - DES DONATIONS ENTRE VIFS",
+    "chapitre": "CHAPITRE II - DES CONDITIONS DE FOND",
+    "section": "SECTION I - DES ELEMENTS CONSTITUTIFS DE LA DONATION"
+   }
+  },
+  {
+   "article": "695",
+   "intitule": "Absence d'appauvrissement du donateur",
+   "text": "Il n'y a pas donation lorsque la transmission des biens, consentie par le donateur, est assortie d'un avantage soit à son profit, soit au profit d'un tiers.",
+   "page_start": 93,
+   "page_end": 93,
+   "modification": "",
+   "hierarchy": {
+    "livre": "LIVRE VIII - DES DONATIONS ENTRE VIFS ET DES TESTAMENTS",
+    "titre": "TITRE II - DES DONATIONS ENTRE VIFS",
+    "chapitre": "CHAPITRE II - DES CONDITIONS DE FOND",
+    "section": "SECTION I - DES ELEMENTS CONSTITUTIFS DE LA DONATION"
+   }
+  },
+  {
+   "article": "696",
+   "intitule": "Lien de causalité",
+   "text": "Il n'y a pas donation lorsqu'il n'existe pas de lien de causalité direct entre l'appauvrissement du donateur et l'enrichissement du donataire.",
+   "page_start": 93,
+   "page_end": 93,
+   "modification": "",
+   "hierarchy": {
+    "livre": "LIVRE VIII - DES DONATIONS ENTRE VIFS ET DES TESTAMENTS",
+    "titre": "TITRE II - DES DONATIONS ENTRE VIFS",
+    "chapitre": "CHAPITRE II - DES CONDITIONS DE FOND",
+    "section": "SECTION I - DES ELEMENTS CONSTITUTIFS DE LA DONATION"
+   }
+  },
+  {
+   "article": "697",
+   "intitule": "Principe",
+   "text": "La donation est un contrat irrévocable dans les conditions prévues aux articles suivants.",
+   "page_start": 93,
+   "page_end": 93,
+   "modification": "",
+   "hierarchy": {
+    "livre": "LIVRE VIII - DES DONATIONS ENTRE VIFS ET DES TESTAMENTS",
+    "titre": "TITRE II - DES DONATIONS ENTRE VIFS",
+    "chapitre": "CHAPITRE II - DES CONDITIONS DE FOND",
+    "section": "SECTION II - DE L'IRREVOCABILITE DES DONATIONS"
+   }
+  },
+  {
+   "article": "698",
+   "intitule": "Donation sous condition potestative",
+   "text": "Toute donation faite sous des conditions dont l'exécution dépend de la seule volonté du donateur est nulle.",
+   "page_start": 93,
+   "page_end": 93,
+   "modification": "",
+   "hierarchy": {
+    "livre": "LIVRE VIII - DES DONATIONS ENTRE VIFS ET DES TESTAMENTS",
+    "titre": "TITRE II - DES DONATIONS ENTRE VIFS",
+    "chapitre": "CHAPITRE II - DES CONDITIONS DE FOND",
+    "section": "SECTION II - DE L'IRREVOCABILITE DES DONATIONS"
+   }
+  },
+  {
+   "article": "699",
+   "intitule": "Réserve de la faculté de disposer",
+   "text": "Toute donation par laquelle le donateur se réserve la faculté de disposer de la chose donnée est nulle.",
+   "page_start": 93,
+   "page_end": 94,
+   "modification": "",
+   "hierarchy": {
+    "livre": "LIVRE VIII - DES DONATIONS ENTRE VIFS ET DES TESTAMENTS",
+    "titre": "TITRE II - DES DONATIONS ENTRE VIFS",
+    "chapitre": "CHAPITRE II - DES CONDITIONS DE FOND",
+    "section": "SECTION II - DE L'IRREVOCABILITE DES DONATIONS"
+   }
+  },
+  {
+   "article": "700",
+   "intitule": "Obligation d'acquitter les dettes",
+   "text": "La donation est pareillement nulle si elle a été faite sous la condition d'acquitter les dettes futures du donateur.",
+   "page_start": 94,
+   "page_end": 94,
+   "modification": "",
+   "hierarchy": {
+    "livre": "LIVRE VIII - DES DONATIONS ENTRE VIFS ET DES TESTAMENTS",
+    "titre": "TITRE II - DES DONATIONS ENTRE VIFS",
+    "chapitre": "CHAPITRE II - DES CONDITIONS DE FOND",
+    "section": "SECTION II - DE L'IRREVOCABILITE DES DONATIONS"
+   }
+  },
+  {
+   "article": "701",
+   "intitule": "Donation avec réserve d'usufruit",
+   "text": "Il est permis au donateur de faire la réserve à son profit, ou de disposer au profit d'un autre, de la jouissance de l'usufruit des biens donnés.\nPareillement, le donateur peut stipuler à son profit ou au profit d'un tiers la réserve du droit d'usage et d'habitation sur l'immeuble donné.",
+   "page_start": 94,
+   "page_end": 94,
+   "modification": "",
+   "hierarchy": {
+    "livre": "LIVRE VIII - DES DONATIONS ENTRE VIFS ET DES TESTAMENTS",
+    "titre": "TITRE II - DES DONATIONS ENTRE VIFS",
+    "chapitre": "CHAPITRE II - DES CONDITIONS DE FOND",
+    "section": "SECTION III - DES EXCEPTIONS A LA REGLE DE L'IRREVOCABILITE"
+   }
+  },
+  {
+   "article": "702",
+   "intitule": "Droit de retour conventionnel",
+   "text": "Le donateur peut stipuler à son profit le droit de retour des objets donnés, soit pour le cas du prédécès du donataire seul, soit pour le cas de prédécès du donataire et de ses descendants.",
+   "page_start": 94,
+   "page_end": 94,
+   "modification": "",
+   "hierarchy": {
+    "livre": "LIVRE VIII - DES DONATIONS ENTRE VIFS ET DES TESTAMENTS",
+    "titre": "TITRE II - DES DONATIONS ENTRE VIFS",
+    "chapitre": "CHAPITRE II - DES CONDITIONS DE FOND",
+    "section": "SECTION III - DES EXCEPTIONS A LA REGLE DE L'IRREVOCABILITE"
+   }
+  },
+  {
+   "article": "703",
+   "intitule": "Effets",
+   "text": "L'effet du droit de retour emporte résolution de toutes les aliénations des biens donnés et il fait revenir ces biens au donateur, francs et quittes de toutes charges et hypothèques, sauf ce qui est réglé au titre «Des libéralités à caractère familial».",
+   "page_start": 94,
+   "page_end": 94,
+   "modification": "",
+   "hierarchy": {
+    "livre": "LIVRE VIII - DES DONATIONS ENTRE VIFS ET DES TESTAMENTS",
+    "titre": "TITRE II - DES DONATIONS ENTRE VIFS",
+    "chapitre": "CHAPITRE II - DES CONDITIONS DE FOND",
+    "section": "SECTION III - DES EXCEPTIONS A LA REGLE DE L'IRREVOCABILITE"
+   }
+  },
+  {
+   "article": "704",
+   "intitule": "Causes de révocation",
+   "text": "La donation peut être révoquée:\n1°) Pour cause d'inexécution des charges ou conditions sous lesquelles elle a été faite;\n2°) Pour cause d'ingratitude du donataire;\n3°) Pour cause de survenance d'enfant;\nToutefois, les donations en vue du mariage ne sont pas révocables pour cause d'ingratitude.",
+   "page_start": 94,
+   "page_end": 94,
+   "modification": "",
+   "hierarchy": {
+    "livre": "LIVRE VIII - DES DONATIONS ENTRE VIFS ET DES TESTAMENTS",
+    "titre": "TITRE II - DES DONATIONS ENTRE VIFS",
+    "chapitre": "CHAPITRE II - DES CONDITIONS DE FOND",
+    "section": "SECTION IV - DE LA REVOCATION DES DONATIONS"
+   }
+  },
+  {
+   "article": "705",
+   "intitule": "Inexécution des charges",
+   "text": "Les charges doivent être précises et ne pas excéder le montant de la donation.\nLa révocation pour cause d'inexécution des charges n'a lieu que si la charge ou la condition a été la cause impulsive et déterminante de la donation.",
+   "page_start": 94,
+   "page_end": 94,
+   "modification": "",
+   "hierarchy": {
+    "livre": "LIVRE VIII - DES DONATIONS ENTRE VIFS ET DES TESTAMENTS",
+    "titre": "TITRE II - DES DONATIONS ENTRE VIFS",
+    "chapitre": "CHAPITRE II - DES CONDITIONS DE FOND",
+    "section": "SECTION IV - DE LA REVOCATION DES DONATIONS"
+   }
+  },
+  {
+   "article": "706",
+   "intitule": "Effets de l'inexécution",
+   "text": "Dans le cas de la révocation pour cause d'inexécution des conditions, les biens donnés rentrent dans les mains du donateur, francs et quittes de toutes charges et hypothèques du chef du donataire et le donateur a, contre les tiers détenteurs des immeubles donnés, tous les droits qu'il aurait contre le donataire lui-même.",
+   "page_start": 94,
+   "page_end": 94,
+   "modification": "",
+   "hierarchy": {
+    "livre": "LIVRE VIII - DES DONATIONS ENTRE VIFS ET DES TESTAMENTS",
+    "titre": "TITRE II - DES DONATIONS ENTRE VIFS",
+    "chapitre": "CHAPITRE II - DES CONDITIONS DE FOND",
+    "section": "SECTION IV - DE LA REVOCATION DES DONATIONS"
+   }
+  },
+  {
+   "article": "707",
+   "intitule": "Ingratitude du donataire",
+   "text": "La révocation de la donation pour cause d'ingratitude ne peut avoir lieu que dans les cas suivants:\n1°) Si le donataire a attenté à la vie du donateur;\n2°) S'il s'est rendu coupable envers lui de sévices, délits ou injures graves;\n3°) S'il lui refuse les aliments dans le besoin.",
+   "page_start": 94,
+   "page_end": 94,
+   "modification": "",
+   "hierarchy": {
+    "livre": "LIVRE VIII - DES DONATIONS ENTRE VIFS ET DES TESTAMENTS",
+    "titre": "TITRE II - DES DONATIONS ENTRE VIFS",
+    "chapitre": "CHAPITRE II - DES CONDITIONS DE FOND",
+    "section": "SECTION IV - DE LA REVOCATION DES DONATIONS"
+   }
+  },
+  {
+   "article": "708",
+   "intitule": "Effets de l'ingratitude du donataire",
+   "text": "L'action en révocation pour cause d'ingratitude appartient au donateur, qui peut y renoncer expressément ou tacitement en pardonnant au donataire.\nElle doit être intentée dans l'année à compter du jour du délit imputé par le donateur au donataire, ou à compter du jour où le délit a été connu par le donateur.\nToutefois les héritiers du donateur peuvent exercer l'action en révocation dans le cas suivant;\n1°) Lorsque le donateur est décédé après avoir commencé d'intenter l'action en révocation.\n2°) Lorsque le donateur est décédé dans l'année du délit, même sans avoir intenté l'action en révocation.\nLa révocation pour cause d'ingratitude ne peut être demandée par le donateur contre les héritiers du donataire.",
+   "page_start": 94,
+   "page_end": 94,
+   "modification": "",
+   "hierarchy": {
+    "livre": "LIVRE VIII - DES DONATIONS ENTRE VIFS ET DES TESTAMENTS",
+    "titre": "TITRE II - DES DONATIONS ENTRE VIFS",
+    "chapitre": "CHAPITRE II - DES CONDITIONS DE FOND",
+    "section": "SECTION IV - DE LA REVOCATION DES DONATIONS"
+   }
+  },
+  {
+   "article": "709",
+   "intitule": "Effets à l'égard des tiers",
+   "text": "La révocation pour cause d'ingratitude n'emporte point d'effet rétroactif contre les tiers.",
+   "page_start": 94,
+   "page_end": 94,
+   "modification": "",
+   "hierarchy": {
+    "livre": "LIVRE VIII - DES DONATIONS ENTRE VIFS ET DES TESTAMENTS",
+    "titre": "TITRE II - DES DONATIONS ENTRE VIFS",
+    "chapitre": "CHAPITRE II - DES CONDITIONS DE FOND",
+    "section": "SECTION IV - DE LA REVOCATION DES DONATIONS"
+   }
+  },
+  {
+   "article": "710",
+   "intitule": "Survenance d'enfant",
+   "text": "Toutes donations entre vifs, faites par personnes qui n'avaient point d'enfants légitimes ou naturels actuellement vivants dans le temps de la donation, de quelque valeur que ces donations puissent être, et à quelque titre qu'elles aient été faites, et encore qu'elles soient mutuelles ou rémunératoires, même celles qui auraient été faites en vue du mariage par d'autres que par les ascendants aux conjoints, ou par les conjoints l'un à l'autre, peuvent être révoquées à la suite de la survenance d'un enfant du donateur, même posthume, ou par la légitimation d'un enfant naturel par mariage subséquent, s'il est né depuis la donation.\nDans ce cas l'article 706 recevra application.",
+   "page_start": 94,
+   "page_end": 95,
+   "modification": "",
+   "hierarchy": {
+    "livre": "LIVRE VIII - DES DONATIONS ENTRE VIFS ET DES TESTAMENTS",
+    "titre": "TITRE II - DES DONATIONS ENTRE VIFS",
+    "chapitre": "CHAPITRE II - DES CONDITIONS DE FOND",
+    "section": "SECTION IV - DE LA REVOCATION DES DONATIONS"
+   }
+  },
+  {
+   "article": "711",
+   "intitule": "Transfert de propriété",
+   "text": "La donation est un contrat translatif de droit et générateur d'obligations à l'encontre du donateur et du donataire.\nA l'égard des tiers, l'opposabilité du transfert est subordonnée aux conditions fixées par la loi.",
+   "page_start": 95,
+   "page_end": 95,
+   "modification": "",
+   "hierarchy": {
+    "livre": "LIVRE VIII - DES DONATIONS ENTRE VIFS ET DES TESTAMENTS",
+    "titre": "TITRE II - DES DONATIONS ENTRE VIFS",
+    "chapitre": "CHAPITRE III - DES EFFETS DE LA DONATION",
+    "section": "SECTION I - DES OBLIGATIONS DU DONATEUR"
+   }
+  },
+  {
+   "article": "712",
+   "intitule": "Délivrance",
+   "text": "Le donateur doit livrer la chose donnée et s'abstenir de tout acte susceptible d'en troubler la jouissance à peine de dommages et intérêts envers le donataire.",
+   "page_start": 95,
+   "page_end": 95,
+   "modification": "",
+   "hierarchy": {
+    "livre": "LIVRE VIII - DES DONATIONS ENTRE VIFS ET DES TESTAMENTS",
+    "titre": "TITRE II - DES DONATIONS ENTRE VIFS",
+    "chapitre": "CHAPITRE III - DES EFFETS DE LA DONATION",
+    "section": "SECTION I - DES OBLIGATIONS DU DONATEUR"
+   }
+  },
+  {
+   "article": "713",
+   "intitule": "Garantie",
+   "text": "L'obligation de livrer la chose donnée n'emporte pas l'obligation de garantie d'éviction ou des vices cachés, à moins qu'elle n'ait été promise dans une clause spéciale de l'acte portant donation.",
+   "page_start": 95,
+   "page_end": 95,
+   "modification": "",
+   "hierarchy": {
+    "livre": "LIVRE VIII - DES DONATIONS ENTRE VIFS ET DES TESTAMENTS",
+    "titre": "TITRE II - DES DONATIONS ENTRE VIFS",
+    "chapitre": "CHAPITRE III - DES EFFETS DE LA DONATION",
+    "section": "SECTION I - DES OBLIGATIONS DU DONATEUR"
+   }
+  },
+  {
+   "article": "714",
+   "intitule": "Exécution des charges",
+   "text": "Le donataire doit exécuter les charges imposées par le donateur, soit à son profit, soit dans l'intérêt du donataire, soit au profit d'un tiers.",
+   "page_start": 95,
+   "page_end": 95,
+   "modification": "",
+   "hierarchy": {
+    "livre": "LIVRE VIII - DES DONATIONS ENTRE VIFS ET DES TESTAMENTS",
+    "titre": "TITRE II - DES DONATIONS ENTRE VIFS",
+    "chapitre": "CHAPITRE III - DES EFFETS DE LA DONATION",
+    "section": "SECTION II - DES OBLIGATIONS DU DONATAIRE"
+   }
+  },
+  {
+   "article": "715",
+   "intitule": "Ingratitude du donataire",
+   "text": "Le donataire doit s'abstenir de tout acte constitutif d'ingratitude à l'égard du donateur.",
+   "page_start": 95,
+   "page_end": 95,
+   "modification": "",
+   "hierarchy": {
+    "livre": "LIVRE VIII - DES DONATIONS ENTRE VIFS ET DES TESTAMENTS",
+    "titre": "TITRE II - DES DONATIONS ENTRE VIFS",
+    "chapitre": "CHAPITRE III - DES EFFETS DE LA DONATION",
+    "section": "SECTION II - DES OBLIGATIONS DU DONATAIRE"
+   }
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    { "name": "Ingestion (tout le manifeste)", "type": "debugpy", "request": "launch",
+      "program": "${workspaceFolder}/src/ingest.py", "cwd": "${workspaceFolder}", "env": { "PYTHONUTF8": "1" }, "console": "integratedTerminal" },
+    { "name": "Ingestion d'un seul document", "type": "debugpy", "request": "launch",
+      "program": "${workspaceFolder}/src/ingest.py", "args": ["--only", "${input:docId}"], "cwd": "${workspaceFolder}", "env": { "PYTHONUTF8": "1" }, "console": "integratedTerminal" },
+    { "name": "Contrôle de traçabilité", "type": "debugpy", "request": "launch",
+      "program": "${workspaceFolder}/src/ingest.py", "args": ["--controle", "--sample", "3"], "cwd": "${workspaceFolder}", "env": { "PYTHONUTF8": "1" }, "console": "integratedTerminal" }
+  ],
+  "inputs": [ { "id": "docId", "type": "promptString", "description": "id du document dans data/manifest.csv (ex. constitution)" } ]
+}

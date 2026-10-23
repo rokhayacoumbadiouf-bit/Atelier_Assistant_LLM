@@ -1,0 +1,30 @@
+id,titre,pages,pages_ocr,pages_vides,caracteres,ratio_lettres,articles_detectes,premier_article,dernier_article,numeros_dupliques,sauts_numerotation,statut
+cf-l1-personnes,"Code de la famille - Livre I : Des personnes (nom, domicile, absence, état civil)",15,0,0,65316,0.955,99,1,99,,,ok
+cf-l2-lien-matrimonial,"Code de la famille - Livre II : Du lien matrimonial (fiançailles, mariage, divorce, séparation de corps)",14,0,0,59640,0.956,88,100,187,,,ok
+cf-l3-filiation,"Code de la famille - Livre III : De la filiation (filiation d'origine, adoption)",9,0,0,35831,0.947,66,188,253,,,ok
+cf-l4-parente-alliance,Code de la famille - Livre IV : De la parenté et de l'alliance (obligation alimentaire),4,0,0,13193,0.958,19,254,272,,,ok
+cf-l5-incapacites,"Code de la famille - Livre V : Des incapacités (mineurs, autorité parentale, tutelle, majeurs incapables)",15,0,0,63514,0.958,95,273,367,,,ok
+cf-l6-regimes-matrimoniaux,Code de la famille - Livre VI : Des régimes matrimoniaux,6,0,0,22737,0.961,28,368,395,,,ok
+cf-l7-t1-successions-general,Code de la famille - Livre VII Titre I : Successions ab intestat - dispositions générales,12,0,0,49709,0.959,119,396,514,,,ok
+cf-l7-t2-successions-droit-commun,Code de la famille - Livre VII Titre II : Successions ab intestat de droit commun,7,0,0,27801,0.955,56,515,570,,,ok
+cf-l7-t3-successions-musulman,Code de la famille - Livre VII Titre III : Successions de droit musulman,10,0,0,35605,0.945,83,571,653,,,ok
+cf-l8-t1-liberalites-general,Code de la famille - Livre VIII Titre I : Libéralités - dispositions générales communes,3,0,0,10638,0.957,22,654,675,,,ok
+cf-l8-t2-donations,Code de la famille - Livre VIII Titre II : Des donations entre vifs,4,0,0,14112,0.953,39,676,715,,687->689,ok
+cf-l8-t3-testaments,Code de la famille - Livre VIII Titre III : Des testaments,8,0,0,31190,0.954,74,716,789,,,ok
+cf-l8-t4-liberalites-familiales,"Code de la famille - Livre VIII Titre IV : Libéralités à caractère familial (substitutions, mariage, partages d'ascendants)",4,0,0,15844,0.949,39,790,828,,,ok
+cf-dispositions-finales,"Code de la famille - Dispositions finales (application dans le temps, conflits de lois, conflits de juridictions)",5,0,0,22050,0.962,26,829,854,,,ok
+constitution,"Constitution de la République du Sénégal (loi n° 2001-03 du 22 janvier 2001, modifiée), version consolidée",47,0,0,80971,0.918,109,preambule,103,,,ok
+constitution-historique,Constitution du Sénégal - Historique et note explicative de la consolidation,7,0,0,14945,0.889,0,,,,,ok
+an-reglement-interieur,Loi organique n° 2025-11 du 18 août 2025 portant Règlement intérieur de l'Assemblée nationale,82,0,2,105580,0.959,136,preambule,135,,,ok
+cocc,Code des obligations civiles et commerciales (COCC) - export texte,102,0,0,323954,0.957,923,preambule,826-4,,391->433 472->496 583->639,ok
+guide-adoption-internationale,Guide de l'adoption internationale au Sénégal,34,0,0,71268,0.929,0,,,,,ok
+snpe,Stratégie nationale de protection de l'enfant (SNPE),60,0,3,128558,0.955,0,,,,,ok
+desps-outils,Outils d'intervention harmonisés et validés par les services de la DESPS,81,0,0,91689,0.941,0,,,,,ok
+desps-audit,Audit des offres d'apprentissage et de formation de la DESPS - Rapport,133,0,0,273347,0.928,0,,,,,ok
+code-construction,Loi n° 2023-21 du 29 décembre 2023 portant Code de la Construction,46,46,0,124062,0.951,212,preambule,L.211,,,ocr_a_verifier
+code-urbanisme,Loi n° 2023-20 du 29 décembre 2023 portant Code de l'Urbanisme,44,44,0,208328,0.947,334,preambule,L.333,,,ocr_a_verifier
+code-electoral-legislatif,"Code électoral - Partie législative (loi n° 2021-35 du 23 juillet 2021, modifiée)",112,112,0,249432,0.944,355,L.1,L.355,,,ocr_a_verifier
+code-electoral-reglementaire,"Code électoral - Partie réglementaire (décret n° 2021-1196 du 20 septembre 2021, modifié)",39,39,0,79978,0.945,118,R.1,R.118,,,ocr_a_verifier
+ohada-au-dcg,Acte uniforme OHADA portant sur le droit commercial général (révisé),78,78,1,175631,0.954,308,preambule,307,,,ocr_a_verifier
+ohada-au-suretes,Acte uniforme OHADA portant organisation des sûretés (révisé),58,58,0,122618,0.957,228,preambule,228,,178->180,ocr_a_verifier
+somisen-code-conduite,Code de conduite et d'éthique de la SOMISEN SA (Société des Mines du Sénégal),21,21,0,49296,0.945,44,preambule,43,30,30->32,ocr_a_verifier

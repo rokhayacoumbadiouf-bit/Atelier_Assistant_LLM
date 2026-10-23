@@ -1,0 +1,31 @@
+{
+  "version": "2.0.0",
+  "options": { "env": { "PYTHONUTF8": "1" } },
+  "tasks": [
+    {
+      "label": "1. Installer l'environnement Python",
+      "type": "shell",
+      "command": "python -m venv .venv; .venv\\Scripts\\python -m pip install -r requirements.txt",
+      "problemMatcher": []
+    },
+    {
+      "label": "2. Ingestion + contrôle de traçabilité",
+      "type": "shell",
+      "command": ".venv\\Scripts\\python src\\ingest.py",
+      "problemMatcher": [],
+      "group": { "kind": "build", "isDefault": true }
+    },
+    {
+      "label": "3. Contrôle de traçabilité seul",
+      "type": "shell",
+      "command": ".venv\\Scripts\\python src\\ingest.py --controle --sample 3",
+      "problemMatcher": []
+    },
+    {
+      "label": "4. OCR des pages scannées manquantes, puis ingestion",
+      "type": "shell",
+      "command": ".venv\\Scripts\\python src\\ingest.py --ocr",
+      "problemMatcher": []
+    }
+  ]
+}

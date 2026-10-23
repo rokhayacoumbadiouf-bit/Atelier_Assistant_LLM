@@ -1,0 +1,1486 @@
+{
+ "doc_id": "constitution",
+ "metadata": {
+  "id": "constitution",
+  "titre": "Constitution de la République du Sénégal (loi n° 2001-03 du 22 janvier 2001, modifiée), version consolidée",
+  "titre_court": "Constitution",
+  "organisme": "Conseil constitutionnel, publiée par Vie-Publique.sn",
+  "type_document": "normatif",
+  "matiere": "droit constitutionnel",
+  "url": "https://www.vie-publique.sn/code-senegal/constitution-senegal",
+  "format": "pdf",
+  "fichier_local": "constitution_viepublique.pdf",
+  "pages_debut": "2",
+  "pages_fin": "48",
+  "filtre": "",
+  "options": "",
+  "date_consultation": "2026-10-23",
+  "version_texte": "Version compilée et consolidée par le Conseil constitutionnel, à jour de la loi constitutionnelle n° 2018-14 du 11 mai 2018 (page imprimée depuis Vie-Publique.sn le 18/02/2025)",
+  "sha256": "",
+  "remplace": "",
+  "ingerer": "oui",
+  "notes": "Les notes de consolidation (« Article N de la loi constitutionnelle n° ... ») sont rangées dans le champ modification. Les révisions postérieures à 2018 ne figurent pas dans la liste des lois intégrées : à vérifier avant de répondre sur le Premier ministre ou les institutions",
+  "sha256_original": "2bccefc869dc615df94112ee0b699082c1b922c10fd187a9c5f2f99dd6eb4093"
+ },
+ "quality": {
+  "pages": 47,
+  "pages_ocr": 0,
+  "pages_vides": 0,
+  "caracteres": 80971,
+  "ratio_lettres": 0.918,
+  "articles_detectes": 109,
+  "premier_article": "preambule",
+  "dernier_article": "103",
+  "numeros_dupliques": "",
+  "sauts_numerotation": "",
+  "statut": "ok"
+ },
+ "pages": [
+  {
+   "page": 2,
+   "methode": "texte",
+   "text": "TEXTE\n\nVersion référendum du 7 janvier 2001\n\nLe Président du Conseil constitutionnel\n\nLoi n° 2001-03 du 22 janvier 2001 portant Constitution, modifiée\n\n(JORS, numéro spécial 5963 du 22 janvier 2001, p. 27)\n\nPREAMBULE\n\nLe Peuple du Sénégal souverain,\n\nPROFONDEMENT attaché à ses valeurs culturelles fondamentales qui\n\nconstituent le ciment de l'unité nationale ;\n\nCONVAINCU de la volonté de tous les citoyens, hommes et femmes, d'assumer\n\nun destin commun par la solidarité, le travail et l'engagement patriotique ;\n\nCONSIDERANT que la construction nationale repose sur la liberté individuelle\n\net le respect de la personne humaine, sources de créativité ;\n\nCONSCIENT de la nécessité d'affirmer et de consolider les fondements de la\n\nNation et de l'Etat ;\n\nATTACHE à l'idéal de l'unité africaine :\n\nAFFIRME :\n\n- son adhésion à la Déclaration des Droits de l'Homme et du Citoyen de 1789\n\net aux instruments internationaux adoptés par l'Organisation des Nations Unies\n\net l'Organisation de l'Unité africaine, notamment la Déclaration Universelle des\n\nDroits de l'Homme du 10 décembre 1948, la Convention sur l'élimination de\n\ntoutes les formes de discrimination à l'égard des femmes du 18 décembre\n\n1979, la Convention relative aux Droits de l'Enfant du 20 novembre 1989 et la\n\nCharte africaine des Droits de l'Homme et des Peuples du 27 juin 1981 ;"
+  },
+  {
+   "page": 3,
+   "methode": "texte",
+   "text": "- son attachement à la transparence dans la conduite et la gestion des affaires\n\npubliques ainsi qu'au principe de bonne gouvernance ;\n\n- sa détermination à lutter pour la paix et la fraternité avec tous les peuples du\n\nmonde ;\n\nPROCLAME :\n\n- le principe intangible de l'intégrité du territoire national et de l'unité\n\nnationale dans le respect des spécificités culturelles de toutes les composantes\n\nde la Nation ; - l'inaltérabilité de la souveraineté nationale qui s'exprime à\n\ntravers des procédures et consultations transparentes et démocratiques ; - la\n\nséparation et l'équilibre des pouvoirs conçus et exercés à travers des\n\nprocédures démocratiques ; - le respect des libertés fondamentales et des\n\ndroits du citoyen comme base de la société sénégalaise ; - le respect et la\n\nconsolidation d'un Etat de droit dans lequel l'Etat et les citoyens sont soumis\n\naux mêmes normes juridiques sous le contrôle d'une justice indépendante et\n\nimpartiale ; - l'accès de tous les citoyens, sans discrimination, à l'exercice du\n\npouvoir à tous les niveaux ; - l'égal accès de tous les citoyens aux services\n\npublics ; - le rejet et l'élimination, sous toutes leurs formes, de l'injustice, des\n\ninégalités et des discriminations ; - la volonté du Sénégal d'être un Etat\n\nmoderne qui fonctionne selon le jeu loyal et équitable entre une majorité qui\n\ngouverne et une opposition démocratique, et un Etat qui reconnaît cette\n\nopposition comme un pilier fondamental de la démocratie et un rouage\n\nindispensable au bon fonctionnement du mécanisme démocratique ;\n\nAPPROUVE ET ADOPTE LA PRESENTE\n\nCONSTITUTION DONT LE PREAMBULE\n\nEST PARTIE INTEGRANTE.\n\nConstitution du Sénégal\n\nTITRE PREMIER\n\n“DE L'ETAT ET DE LA SOUVERAINETE”\n\nArticle premier"
+  },
+  {
+   "page": 4,
+   "methode": "texte",
+   "text": "La République du Sénégal est laïque, démocratique et sociale. Elle assure\n\nl'égalité devant la loi de tous les citoyens, sans distinction d'origine, de race, de\n\nsexe, de religion. Elle respecte toutes les croyances.\n\nLa langue officielle de la République du Sénégal est le Français. Les langues\n\nnationales sont le Diola, le Malinké, le Pular, le Sérère, le Soninké, le Wolof et\n\ntoute autre langue nationale qui sera codifiée.\n\nLa devise de la République du Sénégal est : « Un Peuple - Un But - Une Foi ».\n\nLe drapeau de la République du Sénégal est composé de trois bandes\n\nverticales et égales, de couleur verte, or et rouge. Il porte, en vert, au centre de\n\nla bande or, une étoile à cinq branches.\n\nLa loi détermine le sceau et l'hymne national.\n\nLe principe de la République du Sénégal est : gouvernement du peuple par le\n\npeuple et pour le peuple.\n\nArticle 2\n\nLa capitale de la République du Sénégal est Dakar. Elle peut être transférée en\n\ntout autre lieu du territoire national.\n\nArticle 3\n\nLa souveraineté nationale appartient au peuple sénégalais qui l'exerce par ses\n\nreprésentants ou par la voie du référendum.\n\nAucune section du peuple, ni aucun individu, ne peut s'attribuer l'exercice de la\n\nsouveraineté.\n\nLe suffrage peut être direct ou indirect. Il est toujours universel, égal et secret.\n\nTous les nationaux sénégalais des deux sexes, âgés de 18 ans accomplis,\n\njouissant de leurs droits civils et politiques, sont électeurs dans les conditions\n\ndéterminées par la loi.\n\nArticle 4"
+  },
+  {
+   "page": 5,
+   "methode": "texte",
+   "text": "Article premier de la loi constitutionnelle n° 2016-10 du 05 avril 2016 portant\n\nrévision de la Constitution (JORS, numéro spécial 6926 du 07 avril 2016, p. 505),\n\narticle modifiant et remplaçant l'article 4 de la Constitution.\n\n« Les partis politiques et coalitions de partis politiques concourent à\n\nl'expression du suffrage dans les conditions fixées par la Constitution et par la\n\nloi. Ils œuvrent à la formation des citoyens, à la promotion de leur participation\n\nà la vie nationale et à la gestion des affaires publiques.\n\nLa Constitution garantit aux candidats indépendants la participation à tous les\n\ntypes d'élection dans les conditions définies par la loi.\n\nLes partis politiques et coalitions de partis politiques, de même que les\n\ncandidats indépendants, sont tenus de respecter la Constitution ainsi que les\n\nprincipes de la souveraineté nationale et de la démocratie. Il leur est interdit de\n\ns'identifier à une race, à une ethnie, à un sexe, à une religion, à une secte, à une\n\nlangue ou à une partie du territoire.\n\nLes partis politiques sont également tenus de respecter strictement les règles\n\nde bonne gouvernance associative sous peine de sanctions susceptibles de\n\nconduire à la suspension et à la dissolution.\n\nLa Constitution garantit des droits égaux aux partis politiques, y compris ceux\n\nqui s'opposent à la politique du Gouvernement en place.\n\nLes règles de constitution, de suspension et de dissolution des partis politiques,\n\nles conditions dans lesquelles ceux-ci exercent leurs activités et bénéficient\n\nd'un financement public sont déterminées par la loi ».\n\nArticle 5\n\nTout acte de discrimination raciale, ethnique ou religieuse, de même que toute\n\npropagande régionaliste pouvant porter atteinte à la sécurité intérieure de\n\nl'Etat ou à l'intégrité du territoire de la République sont punis par la loi.\n\nArticle 6\n\nArticle premier de la loi constitutionnelle n° 2016-10 du 05 avril 2016 portant\n\nrévision de la Constitution (JORS, numéro spécial 6926 du 07 avril 2016, p. 505),\n\narticle modifiant et remplaçant l'article 6 de la Constitution."
+  },
+  {
+   "page": 6,
+   "methode": "texte",
+   "text": "« Les Institutions de la République sont :\n\n- le Président de la République;\n\n- l'Assemblée nationale;\n\n- le Gouvernement;\n\n- le Haut Conseil des Collectivités territoriales;\n\n- le Conseil économique, social et environnemental;\n\n- le Conseil constitutionnel, la Cour suprême, la Cour des Comptes et les Cours\n\net Tribunaux; ».\n\nTITRE II\n\nArticle 2 de la loi constitutionnelle n° 2016-10 du 05 avril 2016 portant révision\n\nde la Constitution (JORS, numéro spécial 6926 du 07 avril 2016, p. 505), article\n\nmodifiant l'intitulé du TITRE II de la Constitution.\n\n“« DES DROITS ET LIBERTES FONDAMENTAUX ET DES DEVOIRS DES\n\nCITOYENS »”\n\nArticle 7\n\nLa personne humaine est sacrée. Elle est inviolable. L'Etat a l'obligation de la\n\nrespecter et de la protéger.\n\nTout individu a droit à la vie, à la liberté, à la sécurité, au libre développement\n\nde sa personnalité, à l'intégrité corporelle notamment à la protection contre\n\ntoutes mutilations physiques.\n\nLe peuple sénégalais reconnaît l'existence des droits de l'homme inviolables et\n\ninaliénables comme base de toute communauté humaine, de la paix et de la\n\njustice dans le monde.\n\nTous les êtres humains sont égaux devant la loi. Les hommes et les femmes\n\nsont égaux en droit."
+  },
+  {
+   "page": 7,
+   "methode": "texte",
+   "text": "Article unique de la loi constitutionnelle n° 2008-30 du 7 août 2008, modifiant\n\nles articles 7, 63, 68, 71 et 82 de la Constitution (JORS numéro spécial 6420 du\n\n8 août 2008, p. 752), alinéa inséré par cet article unique. « La loi favorise l'égal\n\naccès des femmes et des hommes aux mandats et fonctions ».\n\nIl n'y a au Sénégal ni sujet, ni privilège de lieu de naissance, de personne ou de\n\nfamille.\n\nArticle 8\n\nLa République du Sénégal garantit à tous les citoyens les libertés individuelles\n\nfondamentales, les droits économiques et sociaux ainsi que les droits collectifs.\n\nCes libertés et droits sont notamment :\n\n- les libertés civiles et politiques : liberté d'opinion, liberté d'expression, liberté\n\nde la presse, liberté d'association, liberté de réunion, liberté de déplacement,\n\nliberté de manifestation,\n\n§ les libertés culturelles, § les libertés religieuses, § les libertés philosophiques, §\n\nles libertés syndicales, § la liberté d'entreprendre, § le droit à l'éducation, § le\n\ndroit de savoir lire et écrire, § le droit de propriété, § le droit au travail, § le droit\n\nà la santé, § le droit à un environnement sain, § le droit à l'information plurielle,\n\nCes libertés et ces droits s'exercent dans les conditions prévues par la loi.\n\nArticle 9\n\nArticle premier de la loi constitutionnelle n° 2008-33 du 7 août 2008 (JORS,\n\nnuméro spécial 6420 du 8 août 2008, p. 754), article modifiant les articles 9 et\n\n95 et complétant les articles 62 et 92 de la Constitution.\n\n« Toute atteinte aux libertés et toute entrave volontaire à l'exercice d'une\n\nliberté sont punies par la loi.\n\nNul ne peut être condamné si ce n'est en vertu la rentrée en vigueur avant\n\nl'acte commis.\n\nNB : La rédaction malencontreuse de cet alinéa résulte de la loi\n\nconstitutionnelle n° 2008-33 du 7 août 2008 (JORS, numéro spécial 6420 du 8\n\naoût 2008, p. 754)"
+  },
+  {
+   "page": 8,
+   "methode": "texte",
+   "text": "Toutefois, les dispositions de l'alinéa précédent ne s'opposent pas à la\n\npoursuite, au jugement et à la condamnation de tout individu en raison d'actes\n\nou omission qui, au moment où ils ont été commis, étaient tenus pour\n\ncriminels d'après les règles du droit international relatives aux faits de\n\ngénocide, crimes contre l'humanité, crime de guerres.\n\nLa défense est un droit absolu dans tous les Etats et à tous les degrés de la\n\nprocédure ».\n\nArticle 10\n\nChacun a le droit d'exprimer et de diffuser librement ses opinions par la parole,\n\nla plume, l'image, la marche pacifique, pourvu que l'exercice de ces droits ne\n\nporte atteinte ni à l'honneur et à la considération d'autrui, ni à l'ordre public.\n\nArticle 11\n\nLa création d'un organe de presse pour l'information politique, économique,\n\nculturelle, sportive, sociale, récréative ou scientifique est libre et n'est soumise à\n\naucune autorisation préalable.\n\nLe régime de la presse est fixé par la loi.\n\nArticle 12\n\nTous les citoyens ont le droit de constituer librement des associations, des\n\ngroupements économiques, culturels et sociaux ainsi que des sociétés, sous\n\nréserve de se conformer aux formalités édictées par les lois et règlements.\n\nLes groupements dont le but ou l'activité est contraire aux lois pénales ou\n\ndirigé contre l'ordre public sont prohibés.\n\nArticle 13\n\nLe secret de la correspondance, des communications postales, télégraphiques,\n\ntéléphoniques et électroniques est inviolable. Il ne peut être ordonné de\n\nrestriction à cette inviolabilité qu'en application de la loi.\n\nArticle 14"
+  },
+  {
+   "page": 9,
+   "methode": "texte",
+   "text": "Tous les citoyens de la République ont le droit de se déplacer et de s'établir\n\nlibrement aussi bien sur toute l'étendue du territoire national qu'à l'étranger.\n\nCes libertés s'exercent dans les conditions prévues par la loi.\n\nArticle 15\n\nLe droit de propriété est garanti par la présente Constitution. Il ne peut y être\n\nporté atteinte que dans le cas de nécessité publique légalement constatée,\n\nsous réserve d'une juste et préalable indemnité.\n\nL'homme et la femme ont également le droit d'accéder à la possession et à la\n\npropriété de la terre dans les conditions déterminées par la loi.\n\nArticle 16\n\nLe domicile est inviolable.\n\nIl ne peut être ordonné de perquisition que par le juge ou par les autres\n\nautorités désignées par la loi. Les perquisitions ne peuvent être exécutées que\n\ndans les formes prescrites par celle-ci. Des mesures portant atteinte à\n\nl'inviolabilité du domicile ou la restreignant ne peuvent être prises que pour\n\nparer à un danger collectif ou protéger des personnes en péril de mort.\n\nCes mesures peuvent être également prises, en application de la loi, pour\n\nprotéger l'ordre public contre les menaces imminentes, singulièrement pour\n\nlutter contre les risques d'épidémie ou pour protéger la jeunesse en danger.\n\nMARIAGE ET FAMILLE\n\nArticle 17\n\nLe mariage et la famille constituent la base naturelle et morale de la\n\ncommunauté humaine. Ils sont placés sous la protection de l'Etat.\n\nL'Etat et les collectivités publiques ont le devoir de veiller à la santé physique et\n\nmorale de la famille et, en particulier des personnes handicapées et des\n\npersonnes âgées.\n\nL'Etat garantit aux familles en général et à celles vivant en milieu rural en\n\nparticulier l'accès aux services de santé et au bien-être. Il garantit également"
+  },
+  {
+   "page": 10,
+   "methode": "texte",
+   "text": "aux femmes en général et à celles vivant en milieu rural en particulier, le droit à\n\nl'allègement de leurs conditions de vie.\n\nArticle 18\n\nLe mariage forcé est une violation de la liberté individuelle. Elle est interdite et\n\npunie dans les conditions fixées par la loi.\n\nArticle 19\n\nLa femme a le droit d'avoir son patrimoine propre comme le mari. Elle a le droit\n\nde gestion personnelle de ses biens.\n\nArticle 20\n\nLes parents ont le droit naturel et le devoir d'élever leurs enfants. Ils sont\n\nsoutenus, dans cette tâche, par l'Etat et les collectivités publiques.\n\nLa jeunesse est protégée par l'Etat et les collectivités publiques contre\n\nl'exploitation, la drogue, les stupéfiants, l'abandon moral et la délinquance.\n\nEDUCATION\n\nArticle 21\n\nL'Etat et les collectivités publiques créent les conditions préalables et les\n\ninstitutions publiques qui garantissent l'éducation des enfants.\n\nArticle 22\n\nL'Etat a le devoir et la charge de l'éducation et de la formation de la jeunesse\n\npar des écoles publiques.\n\nTous les enfants, garçons et filles, en tous lieux du territoire national, ont le\n\ndroit d'accéder à l'école.\n\nLes institutions et les communautés religieuses ou non religieuses sont\n\négalement reconnues comme moyens d'éducation.\n\nToutes les institutions nationales, publiques ou privées, ont le devoir\n\nd'alphabétiser leurs membres et de participer à l'effort national"
+  },
+  {
+   "page": 11,
+   "methode": "texte",
+   "text": "d'alphabétisation dans l'une des langues nationales.\n\nArticle 23\n\nDes écoles privées peuvent être ouvertes avec l'autorisation et sous le contrôle\n\nde l'Etat.\n\nRELIGIONS ET COMMUNAUTES RELIGIEUSES\n\nArticle 24\n\nLa liberté de conscience, les libertés et les pratiques religieuses ou cultuelles, la\n\nprofession d'éducateur religieux sont garanties à tous sous réserve de l'ordre\n\npublic.\n\nLes institutions et les communautés religieuses ont le droit de se développer\n\nsans entrave. Elles sont dégagées de la tutelle de l'Etat. Elles règlent et\n\nadministrent leurs affaires d'une manière autonome.\n\nTRAVAIL\n\nArticle 25\n\nChacun a le droit de travailler et le droit de prétendre à un emploi. Nul ne peut\n\nêtre lésé dans son travail en raison de ses origines, de son sexe, de ses\n\nopinions, de ses choix politiques ou de ses croyances. Le travailleur peut\n\nadhérer à un syndicat et défendre ses droits par l'action syndicale.\n\nToute discrimination entre l'homme et la femme devant l'emploi, le salaire et\n\nl'impôt est interdite.\n\nLa liberté de créer des associations syndicales ou professionnelles est reconnue\n\nà tous les travailleurs.\n\nLe droit de grève est reconnu. Il s'exerce dans le cadre des lois qui le régissent.\n\nIl ne peut en aucun cas ni porter atteinte à la liberté de travail, ni mettre\n\nl'entreprise en péril.\n\nTout travailleur participe, par l'intermédiaire de ses délégués, à la détermination\n\ndes conditions de travail dans l'entreprise. L'Etat veille aux conditions sanitaires\n\net humaines dans les lieux de travail."
+  },
+  {
+   "page": 12,
+   "methode": "texte",
+   "text": "Des lois particulières fixent les conditions d'assistance et de protection que\n\nl'Etat et l'entreprise accordent aux travailleurs.\n\nArticle 3 de la loi constitutionnelle n° 2016-10 du 05 avril 2016 portant révision\n\nde la Constitution (JORS, numéro spécial 6926 du 07 avril 2016, p. 505), article\n\najoutant les articles 25-1, 25-2 et 25-3 après l'article 25.\n\n« Article 25-1\n\nLes ressources naturelles appartiennent au peuple. Elles sont utilisées pour\n\nl'amélioration de ses conditions de vie.\n\nL'exploitation et la gestion des ressources naturelles doivent se faire dans la\n\ntransparence et de façon à générer une croissance économique, à promouvoir\n\nle bien-être de la population en général et à être écologiquement durables.\n\nL'Etat et les collectivités territoriales ont l'obligation de veiller à la préservation\n\ndu patrimoine foncier.\n\nArticle 25-2\n\nChacun a droit à un environnement sain.\n\nLa défense, la préservation et l'amélioration de l'environnement incombent aux\n\npouvoirs publics.\n\nLes pouvoirs publics ont l'obligation de préserver, de restaurer les processus\n\nécologiques essentiels, de pourvoir à la gestion responsable des espèces et des\n\nécosystèmes, de préserver la diversité et l'intégrité du patrimoine génétique,\n\nd'exiger l'évaluation environnementale pour les plans, projets ou programmes,\n\nde promouvoir l'éducation environnementale et d'assurer la protection des\n\npopulations dans l'élaboration et la mise en œuvre des projets et programmes\n\ndont les impacts sociaux et environnementaux sont significatifs.\n\nArticle 25-3\n\nTout citoyen est tenu de respecter scrupuleusement la Constitution, les lois et\n\nrèglements, notamment, d'accomplir ses devoirs civiques et de respecter les\n\ndroits d'autrui. Il doit veiller à s'acquitter de ses obligations fiscales et à\n\nparticiper à l'œuvre de développement économique et social de la Nation."
+  },
+  {
+   "page": 13,
+   "methode": "texte",
+   "text": "Tout citoyen a le devoir de défendre la patrie contre toute agression et de\n\ncontribuer à la lutte contre la corruption et la concussion.\n\nTout citoyen a le devoir de respecter et de faire respecter le bien public, mais\n\naussi de s'abstenir de tous actes de nature à compromettre l'ordre, la sécurité,\n\nla salubrité et la tranquillité publics.\n\nTout citoyen a le devoir de préserver les ressources naturelles et\n\nl'environnement du pays et d'œuvrer pour le développement durable au profit\n\ndes générations présentes et futures.\n\nTout citoyen a le devoir d'inscrire à l'état civil les actes le concernant et ceux qui\n\nsont relatifs à sa famille dans les conditions déterminées par la loi ».\n\nTITRE III\n\n“DU PRESIDENT DE LA REPUBLIQUE”\n\nArticle 26\n\nArticle premier de la loi constitutionnelle n° 2016-10 du 05 avril 2016 portant\n\nrévision de la Constitution (JORS, numéro spécial 6926 du 07 avril 2016, p. 505),\n\narticle modifiant et remplaçant l'article 26.\n\n« Le Président de la République est élu au suffrage universel direct et à la\n\nmajorité absolue des suffrages exprimés ».\n\nArticle 27\n\nArticle premier de la loi constitutionnelle n° 2016-10 du 05 avril 2016 portant\n\nrévision de la Constitution (JORS, numéro spécial 6926 du 07 avril 2016, p. 505),\n\narticle modifiant et remplaçant l'article 27.\n\n« La durée du mandat du Président de la République est de cinq ans.\n\nNul ne peut exercer plus de deux mandats consécutifs ».\n\nArticle 28"
+  },
+  {
+   "page": 14,
+   "methode": "texte",
+   "text": "Article premier de la loi constitutionnelle n° 2016-10 du 05 avril 2016 portant\n\nrévision de la Constitution (JORS, numéro spécial 6926 du 07 avril 2016, p. 505),\n\narticle modifiant et remplaçant l'article 28.\n\n« Tout candidat à la Présidence de la République doit être exclusivement de\n\nnationalité sénégalaise, jouir de ses droits civils et politiques, être âgé de trente\n\ncinq (35) ans au moins et de soixante quinze (75) ans au plus le jour du scrutin.\n\nIl doit savoir écrire, lire et parler couramment la langue officielle ».\n\nArticle 29\n\nArticle unique de la loi constitutionnelle n° 2018-14 du 11 mai 2018 portant\n\nrévision de la Constitution (JORS, n° 7094 du 12 mai 2018, p. 551), article\n\nunique donnant une nouvelle rédaction à l'article 29 de la Constitution.\n\n« Les candidatures sont déposées au greffe du Conseil constitutionnel, soixante\n\njours francs au moins et soixante-quinze jours francs au plus avant le premier\n\ntour du scrutin.\n\nToutefois, en cas de décès d'un candidat, le dépôt de nouvelles candidatures\n\nest possible à tout moment et jusqu'à la veille du scrutin.\n\nDans ce cas, les élections sont reportées à une nouvelle date par le Conseil\n\nconstitutionnel.\n\nLes candidatures sont présentées par un parti politique ou une coalition de\n\npartis politiques légalement constitués ou par une entité regroupant des\n\npersonnes indépendantes.\n\nPour être recevable, toute candidature doit être accompagnée de la signature\n\nd'électeurs représentant, au minimum, 0,8 % et, au maximum, 1 % du fichier\n\nélectoral général.\n\nCes électeurs doivent être domiciliés dans au moins sept régions à raison de\n\ndeux mille au moins par région.\n\nUn électeur ne peut parrainer qu'un candidat.\n\nLes modalités du contrôle des listes de parrainage sont fixées par la loi."
+  },
+  {
+   "page": 15,
+   "methode": "texte",
+   "text": "Les candidats indépendants, comme les partis politiques, sont tenus de se\n\nconformer à l'article 4 de la Constitution. Chaque parti ou coalition de partis ne\n\npeut présenter qu'une seule candidature ».\n\nArticle 30\n\nArticle unique de la loi constitutionnelle n° 2018-14 du 11 mai 2018 portant\n\nrévision de la Constitution (JORS, n° 7094 du 12 mai 2018, p. 551), article\n\nunique donnant une nouvelle rédaction à l'article 30 de la Constitution.\n\n« Trente-cinq jours francs avant le premier tour du scrutin, le Conseil\n\nconstitutionnel arrête et publie la liste des candidats.\n\nLes électeurs sont convoqués par décret ».\n\nArticle 31\n\nLe scrutin pour l'élection du Président de la République a lieu quarante-cinq\n\njours francs au plus et trente jours francs au moins avant la date de l'expiration\n\ndu mandat du Président de la République en fonction.\n\nSi la Présidence est vacante, par démission, empêchement définitif ou décès, le\n\nscrutin aura lieu dans les soixante jours au moins et quatre vingt dix jours au\n\nplus, après la constatation de la vacance par le Conseil constitutionnel.\n\nArticle 32\n\nLes Cours et Tribunaux veillent à la régularité de la campagne électorale et à\n\nl'égalité des candidats pour l'utilisation des moyens de propagande, dans les\n\nconditions déterminées par une loi organique.\n\nArticle 33\n\nArticle unique de la loi constitutionnelle n° 2018-14 du 11 mai 2018 portant\n\nrévision de la Constitution (JORS, n° 7094 du 12 mai 2018, p. 551), article\n\nunique donnant une nouvelle rédaction à l'article 33 de la Constitution.\n\n« Le scrutin a lieu un dimanche dans les conditions fixées par la loi.\n\nNul n'est élu au premier tour s'il n'a obtenu la majorité absolue des suffrages\n\nexprimés. Si aucun candidat n'a obtenu la majorité requise, il est procédé à un"
+  },
+  {
+   "page": 16,
+   "methode": "texte",
+   "text": "second tour de scrutin le deuxième dimanche qui suit la décision du Conseil\n\nconstitutionnel.\n\nSont admis à se présenter à ce second tour, les deux candidats arrivés en tête\n\nau premier tour ».\n\nEn cas de contestation, le second tour a lieu le deuxième dimanche suivant le\n\njour du prononcé de la décision du Conseil constitutionnel.\n\nAu second tour, la majorité relative suffit pour être élu ».\n\nArticle 34\n\nArticle unique de la loi constitutionnelle n° 2007- 19 du 19 février 2007,\n\nmodifiant l'article 34 de la Constitution (JORS du 19 février 2007, p. 2210),\n\narticle abrogeant et remplaçant l'alinéa premier. «En cas d'empêchement\n\ndéfinitif ou de retrait d'un des candidats entre l'arrêt de publication de la liste\n\ndes candidats et le premier tour, l'élection est poursuivie avec les autres\n\ncandidats en lice. Le Conseil Constitutionnel modifie en conséquence la liste\n\ndes candidats. La date du scrutin est maintenue ».\n\nEn cas de décès, d'empêchement définitif ou de retrait d'un des deux candidats\n\narrivés en tête entre le scrutin du premier tour et la proclamation provisoire des\n\nrésultats, ou entre cette proclamation provisoire et la proclamation définitive\n\ndes résultats du premier tour par le Conseil constitutionnel, le candidat suivant\n\ndans l'ordre des suffrages est admis à se présenter au second tour.\n\nEn cas de décès, d'empêchement définitif ou de retrait d'un des deux candidats\n\narrivés en tête entre la proclamation des résultats définitifs du premier tour et\n\nle scrutin du deuxième tour, le candidat suivant sur la liste des résultats du\n\npremier tour est admis au deuxième tour.\n\nDans les cas précédents, le Conseil constitutionnel constate le décès,\n\nl'empêchement définitif ou le retrait et fixe une nouvelle date du scrutin.\n\nEn cas de décès, d'empêchement définitif ou de retrait d'un des deux candidats\n\narrivés en tête selon les résultats provisoires du deuxième tour, et avant la\n\nproclamation des résultats définitifs du deuxième tour par le Conseil\n\nconstitutionnel, le seul candidat restant est déclaré élu."
+  },
+  {
+   "page": 17,
+   "methode": "texte",
+   "text": "Article 35\n\nLes Cours et Tribunaux veillent à la régularité du scrutin dans les conditions\n\ndéterminées par une loi organique.\n\nLa régularité des opérations électorales peut être contestée par l'un des\n\ncandidats devant le Conseil constitutionnel dans les soixante douze heures qui\n\nsuivent la proclamation provisoire des résultats par une commission nationale\n\nde recensement des votes instituée par une loi organique.\n\nSi aucune contestation n'a été déposée dans les délais au greffe du Conseil\n\nconstitutionnel, le Conseil proclame immédiatement les résultats définitifs du\n\nscrutin.\n\nEn cas de contestation, le Conseil statue sur la réclamation dans les cinq jours\n\nfrancs du dépôt de celle-ci. Sa décision emporte proclamation définitive du\n\nscrutin ou annulation de l'élection.\n\nEn cas d'annulation, il est procédé à un nouveau tour du scrutin dans les vingt\n\net un jours francs qui suivent.\n\nArticle 36\n\nLe Président de la République élu entre en fonction après la proclamation\n\ndéfinitive de son élection et l'expiration du mandat de son prédécesseur.\n\nLe Président de la République en exercice reste en fonction jusqu'à l'installation\n\nde son successeur.\n\nAu cas où le Président de la République élu décède, se trouve définitivement\n\nempêché ou renonce au bénéfice de son élection avant son entrée en fonction,\n\nil est procédé à de nouvelles élections dans les conditions prévues à l'article 31.\n\nArticle 37\n\nLe Président de la République est installé dans ses fonctions après avoir prêté\n\nserment devant le Conseil constitutionnel en séance publique.\n\nLe serment est prêté dans les termes suivants : “Devant Dieu et devant la\n\nNation sénégalaise, je jure de remplir fidèlement la charge de Président de la"
+  },
+  {
+   "page": 18,
+   "methode": "texte",
+   "text": "République du Sénégal, d'observer comme de faire observer scrupuleusement\n\nles dispositions de la Constitution et des lois, de consacrer toutes mes forces à\n\ndéfendre les institutions constitutionnelles, l'intégrité du territoire et\n\nl'indépendance nationale, de ne ménager enfin aucun effort pour la réalisation\n\nde l'unité africaine”.\n\nLe Président de la République nouvellement élu fait une déclaration écrite de\n\npatrimoine déposée au Conseil constitutionnel qui la rend publique.\n\nArticle 38\n\nLa charge de Président de la République est incompatible avec l'appartenance\n\nà toute assemblée élective, Assemblée nationale ou assemblées locales, et avec\n\nl'exercice de toute autre fonction, publique ou privée, rémunérée.\n\nToutefois, il a la faculté d'exercer des fonctions dans un parti politique ou d'être\n\nmembre d'académies dans un des domaines du savoir.\n\nArticle 39\n\nArticle 4 de la loi constitutionnelle n° 2012-16 du 28 septembre 2012 portant\n\nrévision de la Constitution (JORS, numéro spécial 6688 du 28 septembre 2012,\n\np. 1187), article donnant une nouvelle rédaction à l'article 39.\n\n« En cas de démission, d'empêchement ou de décès, le Président de la\n\nRépublique est suppléé par le Président de l'Assemblée nationale.\n\nAu cas où celui-ci serait lui-même dans l'un des cas ci-dessus, la suppléance est\n\nassurée par l'un des vice-présidents de l'Assemblée nationale dans l'ordre de\n\npréséance ».\n\nArticle 40\n\nPendant la durée de la suppléance, les dispositions des articles 49, 51, 86, 87 et\n\n103 ne sont pas applicables.\n\nArticle 41\n\nLa démission, l'empêchement ou le décès du Président de la République sont\n\nconstatés par le Conseil constitutionnel saisi par le Président de la République"
+  },
+  {
+   "page": 19,
+   "methode": "texte",
+   "text": "en cas de démission, par l'autorité appelée à le suppléer en cas\n\nd'empêchement ou de décès.\n\nArticle premier de la loi constitutionnelle n° 2012-16 du 28 septembre 2012\n\nportant révision de la constitution (JORS, numéro spécial 6688 du 28\n\nseptembre 2012, p. 1187), article remplaçant les mots « Président du Sénat »\n\npar les mots « Président de l'Assemblée nationale ». Il en est de même de la\n\nconstatation de la démission, de l'empêchement ou du décès du « Président de\n\nl'Assemblée nationale » ou des personnes appelées à le suppléer.\n\nArticle 42\n\nLe Président de la République est le gardien de la Constitution. Il est le premier\n\nProtecteur des Arts et des Lettres du Sénégal.\n\nIl incarne l'unité nationale.\n\nIl est le garant du fonctionnement régulier des institutions, de l'indépendance\n\nnationale et de l'intégrité du territoire.\n\nIl détermine la politique de la Nation.\n\nIl préside le Conseil des Ministres.\n\nArticle 43\n\nLe Président de la République signe les ordonnances et les décrets.\n\nArticle 2 de la loi constitutionnelle n° 2009-22 du 19 juin 2009 instituant un\n\nposte de Vice-président de la République (JORS, numéro spécial du 19 juin\n\n2009, p. 651), article ajoutant « 26, alinéa 2 à 5 » avant 45. Les actes du\n\nPrésident de la République, à l'exception de ceux qu'il accomplit en vertu des\n\narticles « 26, alinéa 2 à 5 » (référence à supprimer, l'article 26 ne comportant\n\nplus depuis la réforme de 2016 les alinéas 2 à 5), 45, 46, 47, 48, 49 alinéa 1, 52,\n\n74, 76 alinéa 2, 78, 79, 83, 87, 89 et 90 sont contresignés par le Premier\n\nMinistre.\n\nArticle 44\n\nLe Président de la République nomme aux emplois civils."
+  },
+  {
+   "page": 20,
+   "methode": "texte",
+   "text": "Article 45\n\nLe Président de la République est responsable de la Défense nationale. Il\n\npréside le Conseil supérieur de la Défense nationale et le Conseil national de\n\nSécurité.\n\nIl est le Chef suprême des Armées ; il nomme à tous les emplois militaires et\n\ndispose de la force armée.\n\nArticle 46\n\nLe Président de la République accrédite les ambassadeurs et les envoyés\n\nextraordinaires auprès des puissances étrangères.\n\nLes ambassadeurs et les envoyés extraordinaires des puissances étrangères\n\nsont accrédités auprès de lui.\n\nArticle 47\n\nLe Président de la République a le droit de faire grâce.\n\nArticle 48\n\nLe Président de la République peut adresser des messages à la Nation.\n\nArticle 49\n\nLe Président de la République nomme le Premier Ministre et met fin à ses\n\nfonctions.\n\nSur proposition du Premier Ministre, le Président de la République nomme les\n\nMinistres, fixe leurs attributions et met fin à leurs fonctions.\n\nArticle 50\n\nArticle 3 de la loi constitutionnelle n° 2012-16 du 28 septembre 2012 portant\n\nrévision de la Constitution (JORS, numéro spécial 6688 du 28 septembre 2012,\n\np. 1187), article supprimant après « certains pouvoirs » les mots « au Viceprésident ». Le Président de la République peut déléguer par décret certains\n\npouvoirs au Premier Ministre ou aux autres membres du Gouvernement à"
+  },
+  {
+   "page": 21,
+   "methode": "texte",
+   "text": "l'exception des pouvoirs prévus aux articles 42, 46, 47, 49, 51, 52, 72, 73, 87, 89\n\net 90.\n\nIl peut en outre autoriser le Premier Ministre à prendre des décisions par\n\ndécret.\n\nArticle 51\n\nArticle 4 de la loi constitutionnelle n° 2012-16 du 28 septembre 2012 portant\n\nrévision de la Constitution (JORS, numéro spécial 6688 du 28 septembre 2012,\n\np. 1187), article supprimant les références « au Président du Sénat » introduites\n\npar la loi constitutionnelle n° 2007-06 du 12 février 2007 créant un Sénat (JORS\n\ndu 10 mars 2007, p. 2387). Le Président de la République peut, après avoir\n\nrecueilli l'avis du Président de l'Assemblée nationale et du Conseil\n\nconstitutionnel, soumettre tout projet de loi constitutionnelle au référendum.\n\nIl peut, sur proposition du Premier Ministre et après avoir recueilli l'avis des\n\nautorités indiquées ci-dessus, soumettre tout projet de loi au référendum.\n\nLes Cours et Tribunaux veillent à la régularité des opérations de référendum. Le\n\nConseil constitutionnel en proclame les résultats.\n\nArticle 52\n\nLorsque les institutions de la République, l'indépendance de la Nation,\n\nl'intégrité du territoire national ou l'exécution des engagements internationaux\n\nsont menacées d'une manière grave et immédiate, et que le fonctionnement\n\nrégulier des pouvoirs publics ou des institutions est interrompu, le Président de\n\nla République dispose de pouvoirs exceptionnels.\n\nIl peut, après en avoir informé la Nation par un message, prendre toute mesure\n\ntendant à rétablir le fonctionnement régulier des pouvoirs publics et des\n\ninstitutions et à assurer la sauvegarde de la Nation.\n\nIl ne peut, en vertu des pouvoirs exceptionnels, procéder à une révision\n\nconstitutionnelle.\n\nArticle 5 de la loi constitutionnelle n° 2007-06 du 12 février 2007 créant un\n\nSénat (JORS du 10 mars 2007, p. 2387), article modifiant les quatrième,\n\ncinquième et sixième alinéas."
+  },
+  {
+   "page": 22,
+   "methode": "texte",
+   "text": "Article 2 de la loi constitutionnelle n° 2012-16 du 28 septembre 2012 portant\n\nrévision de la Constitution (JORS, numéro spécial 6688 du 28 septembre 2012,\n\np. 1187), article substituant les mots « Assemblée nationale » au mot «\n\nParlement » introduit par la loi constitutionnelle n° 2007-06 du 12 février 2007\n\ncréant un Sénat (JORS du 10 mars 2007, p. 2387). « L'Assemblée nationale » se\n\nréunit de plein droit.\n\nArticle 2 de la loi constitutionnelle n° 2012-16 du 28 septembre 2012 portant\n\nrévision de la Constitution (JORS, numéro spécial 6688 du 28 septembre 2012,\n\np. 1187), article substituant les mots « Assemblée nationale » au mot «\n\nParlement » introduit par la loi constitutionnelle n° 2007-06 du 12 février 2007\n\ncréant un Sénat (JORS du 10 mars 2007, p. 2387). « Il est saisi » (lire elle est\n\nsaisie, s'agissant de l'Assemblée nationale) pour ratification, dans les quinze\n\njours de leur promulgation, des mesures de nature législative mises en vigueur\n\npar le Président. « Il » (lire elle, s'agissant de l'Assemblée nationale) peut les\n\namender ou les rejeter à l'occasion du vote de la loi de ratification. Ces mesures\n\ndeviennent caduques si le projet de loi de ratification n'est pas déposé sur le\n\nbureau de l'Assemblée nationale dans ledit délai.\n\nArticle 5 de la loi constitutionnelle n° 2007-06 du 12 février 2007 créant un\n\nSénat (JORS du 10 mars 2007, p. 2387), article modifiant les quatrième,\n\ncinquième et sixième alinéas. « L'Assemblée nationale » ne peut être dissoute\n\npendant l'exercice des pouvoirs exceptionnels. Lorsque ceux-ci sont exercés\n\naprès la dissolution de l'Assemblée nationale, la date des scrutins fixée par le\n\ndécret de dissolution ne peut être reportée, sauf cas de force majeure constaté\n\npar le Conseil constitutionnel ».\n\nTITRE IV\n\n“DU GOUVERNEMENT”\n\nArticle 53\n\nLe Gouvernement comprend le Premier Ministre, chef du Gouvernement, et les\n\nMinistres.\n\nLe Gouvernement conduit et coordonne la politique de la Nation sous la\n\ndirection du Premier Ministre. Il est responsable devant le Président de la"
+  },
+  {
+   "page": 23,
+   "methode": "texte",
+   "text": "République et devant l'Assemblée nationale dans les conditions prévues par les\n\narticles 85 et 86 de la Constitution.\n\nArticle 54\n\nLa qualité de membre du Gouvernement est incompatible avec un mandat\n\nparlementaire et toute activité professionnelle publique ou privée rémunérée.\n\nLes modalités d'application du présent article sont fixées par une loi organique.\n\nArticle 55\n\nAprès sa nomination, le Premier Ministre fait sa déclaration de politique\n\ngénérale devant l'Assemblée nationale. Cette déclaration est suivie d'un débat\n\nqui peut, à la demande du Premier Ministre, donner lieu à un vote de\n\nconfiance.\n\nEn cas de vote de confiance, celle-ci est accordée à la majorité absolue des\n\nmembres de l'Assemblée nationale.\n\nArticle 56\n\nLe Gouvernement est une institution collégiale et solidaire. La démission ou la\n\ncessation des fonctions du Premier Ministre entraîne la démission de\n\nl'ensemble des membres du Gouvernement.\n\nArticle 57\n\nLe Premier Ministre dispose de l'administration et nomme aux emplois civils\n\ndéterminés par la loi.\n\nIl assure l'exécution des lois et dispose du pouvoir réglementaire sous réserve\n\ndes dispositions de l'article 43 de la Constitution.\n\nLes actes réglementaires du Premier Ministre sont contresignés par les\n\nmembres du Gouvernement chargés de leur exécution.\n\nLe Premier Ministre préside les Conseils interministériels. Il préside les réunions\n\nministérielles ou désigne, à cet effet, un Ministre.\n\nIl peut déléguer certains de ses pouvoirs aux Ministres."
+  },
+  {
+   "page": 24,
+   "methode": "texte",
+   "text": "TITRE V\n\n“DE L'OPPOSITION”\n\nArticle 58\n\nArticle premier de la loi constitutionnelle n° 2016-10 du 05 avril 2016 portant\n\nrévision de la Constitution (JORS, numéro spécial 6926 du 07 avril 2016, p. 505),\n\narticle modifiant et remplaçant l'article 58.\n\n« La Constitution garantit aux partis politiques qui s'opposent à la politique du\n\nGouvernement le droit de s'opposer.\n\nLa Constitution garantit à l'opposition un statut qui lui permet de s'acquitter de\n\nses missions.\n\nLa loi définit ce statut et fixe les droits et devoirs y afférents ainsi que ceux du\n\nChef de l'opposition ».\n\nTITRE VI\n\nArticle 2 de la loi constitutionnelle n° 2012-16 du 28 septembre 2012 portant\n\nrévision de la Constitution (JORS, numéro spécial 6688 du 28 septembre 2012\n\np. 1187), article donnant au TITRE VI l'intitulé « DE L'ASSEMBLEE NATIONALE »\n\nen remplacement de l'intitulé « Du Parlement» introduit par la loi\n\nconstitutionnelle n° 2007-06 du 12 février 2007 créant un Sénat (JORS du 10\n\nmars 2007, p. 2387).\n\n“« DE L'ASSEMBLEE NATIONALE »”\n\nArticle 59\n\nArticle premier de la loi constitutionnelle n° 2016-10 du 05 avril 2016 portant\n\nrévision de la Constitution (JORS, numéro spécial 6926 du 07 avril 2016, p. 505),\n\narticle modifiant et remplaçant l'article 59.\n\n« L'Assemblée représentative de la République du Sénégal porte le nom\n\nd'Assemblée nationale. Elle exerce le pouvoir législatif. Elle vote, seule, la loi,\n\ncontrôle l'action du Gouvernement et évalue les politiques publiques."
+  },
+  {
+   "page": 25,
+   "methode": "texte",
+   "text": "Les membres de l'Assemblée nationale portent le titre de député.\n\nLes députés sont élus au suffrage universel direct. Leur mandat est de cinq ans.\n\nIl ne peut être abrégé que par dissolution de l'Assemblée nationale.\n\nLes Sénégalais de l'extérieur élisent des députés.\n\nLes cours et tribunaux veillent à la régularité de la campagne électorale et du\n\nscrutin dans les conditions déterminées par une loi organique.\n\nUne loi organique fixe le nombre des membres de l'Assemblée nationale, leurs\n\nindemnités, les conditions d'éligibilité, le régime des inéligibilités et des\n\nincompatibilités ».\n\nArticle 60\n\nArticle premier de la loi constitutionnelle n° 2016-10 du 05 avril 2016 portant\n\nrévision de la Constitution (JORS, numéro spécial 6926 du 07 avril 2016, p. 505),\n\narticle modifiant et remplaçant l'article 60.\n\n« Tout député qui démissionne de son parti en cours de législature est\n\nautomatiquement déchu de son mandat. Il est remplacé dans les conditions\n\ndéterminées par une loi organique ».\n\nArticle 61\n\nArticle 10 de la loi constitutionnelle n° 2007-06 du 12 février 2007 créant un\n\nSénat (JORS du 10 mars 2007, p. 2387), article donnant une nouvelle rédaction\n\nà l'article 61.\n\nArticle 2 de la loi constitutionnelle n° 2012-16 du 28 septembre 2012 portant\n\nrévision de la Constitution (JORS, numéro spécial 6688 du 28 septembre 2012\n\np. 1187), article substituant les mots « de l'Assemblée nationale » aux mots «\n\ndu Parlement ».\n\nAucun membre « de l'Assemblée nationale » ne peut être poursuivi, recherché,\n\narrêté, détenu ou jugé à l'occasion des opinions ou votes émis par lui dans\n\nl'exercice de ses fonctions."
+  },
+  {
+   "page": 26,
+   "methode": "texte",
+   "text": "Aucun membre « de l'Assemblée nationale » ne peut, pendant la durée des\n\nsessions, être poursuivi ou arrêté, en matière criminelle ou correctionnelle,\n\nqu'avec l'autorisation de l'assemblée dont il fait partie.\n\nLe membre « de l'Assemblée nationale » ne peut, hors session, être arrêté\n\nqu'avec l'autorisation du bureau de l'assemblée dont il fait partie, sauf en cas\n\nde crime ou de délit flagrant tel que prévu par l'alinéa précédent ou de\n\ncondamnation pénale définitive.\n\nLa poursuite d'un membre « de l'Assemblée nationale » ou sa détention du fait\n\nde cette poursuite est suspendue si l'assemblée dont il fait partie le requiert.\n\nLe membre « de l'Assemblée nationale » qui fait l'objet d'une condamnation\n\npénale définitive est radié de la liste des parlementaires sur demande du\n\nMinistre de la Justice.\n\nArticle 62\n\nArticle premier de la loi constitutionnelle n° 2016-10 du 05 avril 2016 portant\n\nrévision de la Constitution (JORS, numéro spécial 6926 du 07 avril 2016, p. 505),\n\narticle modifiant et remplaçant l'article 62.\n\n« La loi organique portant Règlement intérieur de l'Assemblée nationale\n\ndétermine : - la composition, les règles de fonctionnement du bureau, ainsi\n\nque les pouvoirs, prérogatives et durée du mandat de son Président ; - le\n\nnombre, le mode de désignation, la composition, le rôle et la compétence de\n\nses commissions permanentes, sans préjudice du droit, pour l'Assemblée\n\nnationale, de créer des commissions spéciales temporaires ; - l'organisation des\n\nservices administratifs placés sous l'autorité du Président de l'Assemblée,\n\nassisté d'un secrétaire général administratif ; - les conditions de constitution\n\ndes groupes parlementaires et d'affiliation des députés auxdits groupes ;\n\n- le régime disciplinaire de ses membres ;\n\n- les différents modes de scrutin, à l'exclusion de ceux prévus expressément\n\npar la Constitution ; - d'une façon générale, toutes les règles ayant pour objet\n\nle fonctionnement de l'Assemblée nationale dans le cadre de sa compétence\n\nconstitutionnelle ».\n\nArticle 63"
+  },
+  {
+   "page": 27,
+   "methode": "texte",
+   "text": "Article premier de la loi constitutionnelle n° 2012-16 du 28 septembre 2012\n\nportant révision de la Constitution (JORS, numéro spécial 6688 du 28\n\nseptembre 2012, p. 1187), article modifiant l'article 63 tel que déjà modifié par\n\nles lois constitutionnelles n° 2007-06 du 12 février 2007 (JORS du 10 mars\n\n2007, p. 2387) et n° 2008-30 du 7 août 2008 (JORS du 8 août 2008, p. 752).\n\n« A l'exception de la date d'ouverture de la première session de l'Assemblée\n\nnationale nouvellement élu, qui est fixée par le Président de la République,\n\nl'Assemblée nationale fixe, la date d'ouverture et la durée de la Session\n\nordinaire unique du Parlement. Celles-ci sont toutefois régies par les règles ciaprès.\n\nL'Assemblée se réunit de plein droit en une session ordinaire unique qui\n\ncommence dans la première quinzaine du mois d'octobre et qui prend fin dans\n\nla seconde quinzaine du mois de juin de l'année suivante.\n\nAu cas où la session ordinaire ou une session extraordinaire est close sans que\n\nl'Assemblée nationale n'ait fixé la date d'ouverture de sa prochaine session\n\nordinaire, celle-ci est fixée en temps utile par le Bureau de l'Assemblée\n\nnationale.\n\nLe Parlement est, en outre, réuni en session extraordinaire sur un ordre du jour\n\ndéterminé, soit :\n\n- sur demande écrite de plus de la moitié des députés, adressée au Président\n\nde l'Assemblée nationale ;\n\n- sur décision du Président de la République, seul ou sur proposition du\n\nPremier Ministre.\n\nArticle unique de la loi constitutionnelle n° 2008-30 du 7 août 2008 (JORS du 8\n\naoût 2008, p. 752), article supprimant les mots « sauf dans les cas prévus à\n\nl'article 68 ». Toutefois, la durée de chaque session extraordinaire ne peut\n\ndépasser quinze jours.\n\nLes sessions extraordinaires sont closes sitôt l'ordre du jour épuisé ».\n\nArticle 64"
+  },
+  {
+   "page": 28,
+   "methode": "texte",
+   "text": "Article 10 de la loi constitutionnelle n° 2007-06 du 12 février 2007 créant un\n\nSénat (JORS du 10 mars 2007, p. 2387), article donnant une nouvelle rédaction\n\nà l'article 64.\n\nArticle 2 de la loi constitutionnelle n° 2012-16 du 28 septembre 2012 portant\n\nrévision de la Constitution (JORS, numéro spécial 6688 du 28 septembre 2012,\n\np. 1187), article substituant les mots « de l'Assemblée nationale » aux mots «\n\ndu Parlement ». Le vote des membres « de l'Assemblée nationale » est\n\npersonnel. Tout mandat impératif est nul.\n\nLa loi organique peut autoriser, exceptionnellement, la délégation de vote.\n\nDans ce cas, nul ne peut recevoir délégation de plus d'un mandat.\n\nArticle 65\n\nArticle 10 de la loi constitutionnelle n° 2007-06 du 12 février 2007 créant un\n\nSénat (JORS du 10 mars 2007, p. 2387), article donnant une nouvelle rédaction\n\nà l'article 65.\n\nArticle premier de la loi constitutionnelle n° 2012-16 du 28 septembre 2012\n\nportant révision de la Constitution, (JORS, numéro spécial 6688 du 28\n\nseptembre 2012, p. 1187), article supprimant les mots « et le Sénat ». «\n\nL'Assemblée nationale peut déléguer à sa commission des délégations le\n\npouvoir de prendre des mesures qui sont du domaine de la loi.\n\nArticle premier de la loi constitutionnelle n° 2012-16 du 28 septembre 2012\n\nportant révision de la Constitution, (JORS, numéro spécial 6688 du 28\n\nseptembre 2012, p. 1187), article remplaçant le mot « intéressée » par «\n\nnationale ». Cette délégation s'effectue par une résolution de l'Assemblée «\n\nnationale » dont le Président de la République est immédiatement informé.\n\nDans les limites de temps et de compétence fixées par la résolution prévue cidessus, la commission des délégations prend des délibérations qui sont\n\npromulguées comme des lois. Ces délibérations sont déposées sur le bureau\n\nde l'Assemblée nationale. Faute d'avoir été modifiées par l'Assemblée nationale\n\ndans les quinze jours de la session, elles deviennent définitives ».\n\nArticle 66"
+  },
+  {
+   "page": 29,
+   "methode": "texte",
+   "text": "Article 10 de la loi constitutionnelle n° 2007-06 du 12 février 2007 créant un\n\nSénat (JORS du 10 mars 2007, p. 2387), article donnant une nouvelle rédaction\n\nà l'article 66.\n\nArticle 2 de la loi constitutionnelle n° 2012-16 du 28 septembre 2012 portant\n\nrévision de la Constitution (JORS, numéro spécial 6688 du 28 septembre 2012,\n\np. 1187), article substituant les mots « de l'Assemblée nationale » aux mots «\n\ndu Parlement ». « Les séances « de l'Assemblée nationale » sont publiques. Le\n\nhuis clos n'est prononcé qu'exceptionnellement et pour une durée limitée.\n\nLe compte-rendu intégral des débats ainsi que les documents parlementaires\n\nsont publiés dans le journal des débats ou au journal officiel ».\n\nArticle 4 de la loi constitutionnelle n° 2016-10 du 05 avril 2016 portant révision\n\nde la Constitution (JORS, numéro spécial 6926 du 07 avril 2016, p. 505), article\n\najoutant un « TITRE VI BIS » après l'article 66.\n\nTITRE VI BIS\n\n“DU HAUT CONSEIL DES COLLECTIVITES TERRITORIALES »”\n\nArticle 4 de la loi constitutionnelle n° 2016-10 du 05 avril 2016 portant révision\n\nde la Constitution (JORS, numéro spécial 6926 du 07 avril 2016, p. 505), article\n\ncréant l'article 66-1.\n\n« Article 66-1\n\nLe Haut Conseil des Collectivités territoriales est une Assemblée consultative. Il\n\ndonne un avis motivé sur les politiques de décentralisation et d'aménagement\n\ndu territoire.\n\nUne loi organique détermine le mode de désignation, le nombre et le titre des\n\nmembres, ainsi que les conditions d'organisation et de fonctionnement de\n\nl'institution ».\n\nTITRE VII\n\n“DES RAPPORTS ENTRE LE POUVOIR EXECUTIF ET LE POUVOIR\n\nLEGISLATIF”"
+  },
+  {
+   "page": 30,
+   "methode": "texte",
+   "text": "Article 67\n\nArticle 11 de la loi constitutionnelle n° 2007-06 du 12 février 2007 créant un\n\nSénat (JORS du 10 mars 2007, p. 2387), article donnant une nouvelle rédaction\n\nà l'alinéa premier et article 2 de la loi constitutionnelle n° 2012-16 du 28\n\nseptembre 2012 substituant les mots « l'Assemblée nationale » aux mots « le\n\nParlement ». « La loi est votée par l'Assemblée nationale ».\n\nLa loi fixe les règles concernant :\n\n- les droits civiques et les garanties fondamentales accordées aux citoyens\n\npour l'exercice des libertés publiques, les sujétions imposées par la Défense\n\nnationale aux citoyens en leur personne et en leurs biens,\n\n- le statut de l'opposition,\n\n- la nationalité, l'état et la capacité des personnes, les régimes matrimoniaux,\n\nles successions et libéralités,\n\n- la détermination des crimes et délits ainsi que les peines qui leur sont\n\napplicables, la procédure pénale, l'amnistie, la création de nouveaux ordres de\n\njuridictions et le statut des magistrats,\n\n- l'assiette, le taux et les modalités de recouvrement des impositions de toutes\n\nnatures, le régime d'émission de la monnaie,\n\nArticle premier de la loi constitutionnelle n° 2012-16 du 28 septembre 2012\n\nportant révision de la Constitution (JORS, numéro spécial du 28 septembre\n\n2012, p. 1187), article supprimant les mots « et du Sénat » introduits par la loi\n\nconstitutionnelle n° 2007-06 du 12 février 2007. - le régime électoral de\n\nl'Assemblée nationale et des assemblées locales,\n\n- les garanties fondamentales accordées aux fonctionnaires civils et militaires\n\nde l'Etat,\n\n- les nationalisations d'entreprises et les transferts de propriété d'entreprises\n\ndu secteur public au secteur privé.\n\nLa loi détermine les principes fondamentaux :"
+  },
+  {
+   "page": 31,
+   "methode": "texte",
+   "text": "- de l'organisation générale de la Défense nationale,\n\n- de la libre administration des collectivités locales, de leurs compétences et de\n\nleurs ressources,\n\n- de l'enseignement,\n\n- du régime de la propriété, des droits réels et des obligations civiles et\n\ncommerciales, du droit du travail, du droit syndical et de la sécurité sociale,\n\n- du régime de rémunération des agents de l'Etat.\n\nLes lois de finances déterminent les ressources et les charges de l'Etat dans les\n\nconditions et sous les réserves prévues par une loi organique. Les créations et\n\ntransformations d'emplois publics ne peuvent être opérées que par les lois de\n\nfinances.\n\nLes lois de programme déterminent les objectifs de l'action économique et\n\nsociale de l'Etat. Le plan est approuvé par la loi.\n\nLes dispositions du présent article peuvent être précisées et complétées par\n\nune loi organique.\n\n- Dernier alinéa abrogé par l'article premier de la loi constitutionnelle n° 2012-\n\n16 du 28 septembre 2012 portant révision de la Constitution (JORS, numéro\n\nspécial du 28 septembre 2012, p. 1187).\n\nArticle 68\n\nArticle premier de la loi constitutionnelle n° 2012-16 du 28 septembre 2012\n\nportant révision de la Constitution (JORS, numéro spécial du 28 septembre\n\n2012, p. 1187), article donnant une nouvelle rédaction à l'article 68.\n\n« L'Assemblée nationale vote les projets de lois de finances dans les conditions\n\nprévues par une loi organique.\n\nLe projet de loi de finances de l'année, qui comprend notamment le budget,\n\nest déposé sur le bureau de l'Assemblée nationale, au plus tard le jour de\n\nl'ouverture de la session ordinaire unique."
+  },
+  {
+   "page": 32,
+   "methode": "texte",
+   "text": "L'Assemblée nationale dispose de soixante jours au plus pour voter les projets\n\nde lois de finances.\n\nSi, par suite d'un cas de force majeure, le Président de la République n'a pu\n\ndéposer le projet de loi de finances de l'année en temps utile pour que\n\nl'Assemblée dispose, avant la fin de la session fixée, du délai prévu à l'alinéa\n\nprécédent, la session est immédiatement et de plein droit prolongée jusqu'à\n\nl'adoption de la loi de finances.\n\nSi le projet de loi de finances n'est pas voté définitivement à l'expiration du\n\ndélai de soixante jours prévu ci-dessus, il est mis en vigueur par décret, compte\n\ntenu des amendements votés par l'Assemblée nationale et acceptés par le\n\nPrésident de la République.\n\nSi compte-tenu de la procédure prévue ci-dessus, la loi de finances de l'année\n\nn'a pu être mise en vigueur avant le début de l'année financière, le Président de\n\nla République est autorisé à reconduire, par décret, les services votés.\n\nLa Cour des Comptes assiste le Président de la République, le Gouvernement et\n\nl'Assemblée nationale, dans le contrôle de l'exécution des lois de finances ».\n\nArticle 69\n\nL'Etat de siège, comme l'état d'urgence, est décrété par le Président de la\n\nRépublique. L'Assemblée nationale se réunit alors de plein droit, si elle n'est en\n\nsession.\n\nLe décret proclamant l'état de siège ou l'état d'urgence cesse d'être en vigueur\n\naprès douze jours, à moins que l'Assemblée nationale, saisie par le Président de\n\nla République, n'en ait autorisé la prorogation.\n\nLes modalités d'application de l'état de siège et de l'état d'urgence sont\n\ndéterminées par la loi.\n\nArticle 70\n\nLa déclaration de guerre est autorisée par l'Assemblée nationale.\n\nLes droits et devoirs des citoyens, pendant la guerre ou en cas d'invasion ou\n\nd'attaque du territoire national par des forces de l'extérieur, font l'objet d'une"
+  },
+  {
+   "page": 33,
+   "methode": "texte",
+   "text": "loi organique.\n\nArticle 71\n\nArticle premier de la loi constitutionnelle n° 2016-10 du 05 avril 2016 portant\n\nrévision de la Constitution (JORS, numéro spécial 6926 du 07 avril 2016, p. 505),\n\narticle donnant une nouvelle rédaction à l'article 71.\n\n« Après son adoption par l'Assemblée nationale à la majorité absolue des\n\nsuffrages exprimés, la loi est transmise sans délai au Président de la République\n\npour promulgation ».\n\nArticle 72\n\nLe Président de la République promulgue les lois définitivement adoptées dans\n\nles huit jours francs qui suivent l'expiration des délais de recours visés à l'article\n\n74.\n\nLe délai de promulgation est réduit de moitié en cas d'urgence déclarée par\n\nl'Assemblée nationale.\n\nArticle 73\n\nDans le délai fixé pour la promulgation, le Président de la République peut, par\n\nun message motivé, demander à l'Assemblée une nouvelle délibération qui ne\n\npeut être refusée. La loi ne peut être votée en seconde lecture que si les trois\n\ncinquièmes des membres composant l'Assemblée nationale se sont prononcés\n\nen sa faveur.\n\nArticle 74\n\nLe Conseil constitutionnel peut être saisi d'un recours visant à faire déclarer\n\nune loi inconstitutionnelle :\n\n- par le Président de la République dans les six jours francs qui suivent la\n\ntransmission à lui faite de la loi définitivement adoptée,\n\n- par un nombre de députés au moins égal au dixième des membres de\n\nl'Assemblée nationale, dans les six jours francs qui suivent son adoption\n\ndéfinitive."
+  },
+  {
+   "page": 34,
+   "methode": "texte",
+   "text": "- un troisième tiret, ajouté à l'article 74 par l'article 14 de la loi constitutionnelle\n\nn° 2007-06 du 12 février 2007 a été supprimé par l'article premier de la loi\n\nconstitutionnelle n° 2012-16 du 28 septembre 2012 portant révision de la\n\nConstitution (JORS, numéro spécial du 28 septembre 2012, p. 1187).\n\nArticle 75\n\nLe délai de la promulgation est suspendu jusqu'à l'issue de la seconde\n\ndélibération de l'Assemblée nationale ou de la décision du Conseil\n\nconstitutionnel déclarant la loi conforme à la Constitution.\n\nDans tous les cas, à l'expiration des délais constitutionnels, la promulgation est\n\nde droit ; il y est pourvu par le Président de l'Assemblée nationale.\n\nArticle 76\n\nLes matières qui ne sont pas du domaine législatif en vertu de la présente\n\nConstitution ont un caractère réglementaire.\n\nLes textes de forme législative intervenus en ces matières peuvent être\n\nmodifiés par décret si le Conseil constitutionnel, à la demande du Président de\n\nla République ou du Premier Ministre, a déclaré qu'ils ont un caractère\n\nréglementaire en vertu de l'alinéa précédent.\n\nArticle 77\n\nArticle 15 de la loi constitutionnelle n°2007-06 du 12 février 2007 créant un\n\nSénat, (JORS du 10 mars 2007, p. 2387), donnant une nouvelle rédaction à\n\nl'article 77 et article 2 de la loi constitutionnelle n° 2012-16 du 28 septembre\n\n2012 portant révision de la Constitution (JORS, numéro spécial 6688 du 28\n\nseptembre 2012, p. 1187), article substituant les mots « l'Assemblée nationale »\n\naux mots « le Parlement ».\n\n« L'Assemblée nationale » peut habiliter par une loi le Président de la\n\nRépublique à prendre des mesures qui sont normalement du domaine de la loi.\n\nDans les limites de temps et de compétence fixées par la loi d'habilitation, le\n\nPrésident de la République prend des ordonnances qui entrent en vigueur dès\n\nleur publication mais deviennent caduques si le projet de loi de ratification\n\nn'est pas déposé sur le bureau de l'Assemblée nationale avant la date fixée par"
+  },
+  {
+   "page": 35,
+   "methode": "texte",
+   "text": "la loi d'habilitation. « L'Assemblée nationale » peut les amender à l'occasion du\n\nvote de la loi de ratification.\n\nArticle 78\n\nArticle premier de la loi constitutionnelle n° 2016-10 du 05 avril 2016 portant\n\nrévision de la Constitution (JORS, numéro spécial 6926 du 07 avril 2016, p. 505),\n\narticle donnant une nouvelle rédaction à l'article 78.\n\n« Les lois qualifiées organiques par la Constitution sont votées et modifiées à la\n\nmajorité absolue des membres composant l'Assemblée nationale.\n\nElles ne peuvent être promulguées si le Conseil constitutionnel,\n\nobligatoirement saisi par le Président de la République, ne les a déclarées\n\nconformes à la Constitution.\n\nLes articles 65 et 77 de la présente Constitution ne sont pas applicables aux lois\n\norganiques ».\n\nArticle 79\n\nArticle 15 de la loi constitutionnelle n°2007-06 du 12 février 2007 créant un\n\nSénat, (JORS du 10 mars 2007, p. 2387), donnant une nouvelle rédaction à\n\nl'article 79 et article premier de la loi constitutionnelle n° 2012-16 du 28\n\nseptembre 2012 portant révision de la Constitution (JORS, numéro spécial 6688\n\ndu 28 septembre 2012, p. 1187), article supprimant les mots « et le Sénat »\n\naprès les mots « Assemblée nationale ».\n\nLe Président de la République communique avec l'Assemblée nationale par des\n\nmessages qu'il prononce ou qu'il fait lire et qui ne donnent lieu à aucun débat.\n\nArticle 80\n\nArticle premier de la loi constitutionnelle n° 2012-16 du 28 septembre 2012\n\nportant révision de la Constitution (JORS, numéro spécial 6688 du 28\n\nseptembre 2012, p. 1187), article donnant une nouvelle rédaction à l'article 80.\n\n« L'initiative des lois appartient concurremment au Président de la République,\n\nau Premier Ministre et aux députés »."
+  },
+  {
+   "page": 36,
+   "methode": "texte",
+   "text": "Article 81\n\nArticle premier de la loi constitutionnelle n° 2016-10 du 05 avril 2016 portant\n\nrévision de la Constitution (JORS, numéro spécial 6926 du 07 avril 2016, p. 505),\n\narticle donnant une nouvelle rédaction à l'article 81.\n\n« Le Premier Ministre et les autres membres du Gouvernement peuvent être\n\nentendus à tout moment par l'Assemblée nationale et ses commissions. Ils\n\npeuvent se faire assister par des collaborateurs.\n\nLes commissions permanentes de l'Assemblée nationale peuvent entendre les\n\ndirecteurs généraux des établissements publics, des sociétés nationales et des\n\nagences d'exécution.\n\nCes auditions et moyens de contrôle sont exercés dans les conditions\n\ndéterminées par la loi organique portant Règlement intérieur de l'Assemblée\n\nnationale ».\n\nArticle 82\n\nArticle 15 de la loi constitutionnelle n° 2007-06 du 12 février 2007 créant un\n\nSénat, (JORS du 10 mars 2007, p. 2387).\n\nLe Président de la République, le Premier Ministre, les députés et les sénateurs\n\nont le droit d'amendement. Les amendements du Président de la République\n\nsont présentés par le Premier Ministre et les autres membres du\n\nGouvernement.\n\nNB : le groupe de mots « et les sénateurs » subsiste à l'alinéa premier\n\nnonobstant la suppression du Sénat en 2012.\n\nArticle premier de la loi constitutionnelle n° 2012-16 du 28 septembre 2012\n\nportant révision de la Constitution (JORS, numéro spécial 6688 du 28\n\nseptembre 2012, p. 1187), article supprimant les mots « et les sénateurs » après\n\nles mots « les députés ». Les propositions et amendements formulés par les\n\ndéputés ne sont pas recevables lorsque leur adoption aurait pour conséquence,\n\nsoit une diminution des ressources publiques, soit la création ou l'aggravation\n\nd'une charge publique, à moins que ces propositions ou amendements ne\n\nsoient assortis de propositions de recettes compensatrices."
+  },
+  {
+   "page": 37,
+   "methode": "texte",
+   "text": "Article unique de la loi constitutionnelle n° 2008-30 du 7 août 2008 (JORS du 8\n\naoût 2008, p. 752), article ajoutant un nouvel alinéa à l'article 82 et article 2 de\n\nla loi constitutionnelle n° 2012-16 du 28 septembre 2012 substituant les mots «\n\nl'Assemblée nationale » aux mots « le Parlement » . Toutefois, aucun article\n\nadditionnel ni amendement à un projet de lois de finances ne peut être\n\nproposé par « l'Assemblée nationale », sauf s'il tend à supprimer ou à réduire\n\neffectivement une dépense, à créer ou à accroître une recette.\n\nSi le Gouvernement le demande, l'assemblée saisie se prononce par un seul\n\nvote sur tout ou partie du texte en discussion, en ne retenant que les\n\namendements proposés ou acceptés par le Gouvernement.\n\nArticle 83\n\nArticle 15 de la loi constitutionnelle n° 2007-06 du 12 février 2007 créant un\n\nSénat (JORS du 10 mars 2007, p. 2387), article donnant une nouvelle rédaction\n\nà l'article 83.\n\n« S'il apparaît, au cours de la procédure législative, qu'une proposition ou un\n\namendement n'est pas du domaine de la loi, le Premier Ministre et les autres\n\nmembres du Gouvernement peuvent opposer l'irrecevabilité.\n\nArticle premier de la loi constitutionnelle n° 2012-16 du 28 septembre 2012\n\nportant révision de la Constitution (JORS, numéro spécial 6688 du 28\n\nseptembre 2012, p. 1187), article supprimant le mot « Sénat » après les mots «\n\nde l'Assemblée nationale ». En cas de désaccord, le Conseil constitutionnel, à la\n\ndemande du Président de la République, de l'Assemblée nationale ou du\n\nPremier Ministre, statue dans les huit jours ».\n\nArticle 84\n\nArticle 15 de la loi constitutionnelle n° 2007-06 du 12 février 2007 créant un\n\nSénat (JORS du 10 mars 2007, p. 2387), article donnant une nouvelle rédaction\n\nà l'article 84.\n\n« L'inscription, par priorité, à l'ordre du jour de l'Assemblée nationale ou du\n\nSénat d'un projet ou d'une proposition de loi ou d'une déclaration de politique\n\ngénérale, est de droit si le Président de la République ou le Premier Ministre en\n\nfait la demande »."
+  },
+  {
+   "page": 38,
+   "methode": "texte",
+   "text": "NB : (La modification de l'article 84 annoncée par l'article premier de la loi\n\nconstitutionnelle n°2012-16 du 28 septembre 2012 portant révision de la\n\nConstitution n'a pas été mise en œuvre. Par conséquent, les mots « ou du\n\nSénat » subsistent dans cet article).\n\nArticle 85\n\nArticle premier de la loi constitutionnelle n° 2016-10 du 05 avril 2016 portant\n\nrévision de la Constitution (JORS, numéro spécial 6926 du 07 avril 2016, p. 505),\n\narticle donnant une nouvelle rédaction à l'article 85.\n\n« Les députés peuvent poser, au Premier Ministre et aux autres membres du\n\nGouvernement, qui sont tenus d'y répondre, des questions écrites.\n\nLes députés peuvent poser au Premier Ministre et aux membres du\n\nGouvernement, qui sont tenus d'y répondre, des questions orales et des\n\nquestions d'actualité. Les questions et les réponses y afférentes ne sont pas\n\nsuivies de vote.\n\nLe Premier Ministre et les autres membres du Gouvernement se présentent à\n\nl'Assemblée nationale, selon une périodicité à fixer d'accord parties, pour\n\nrépondre aux questions d'actualité des députés.\n\nL'Assemblée nationale peut désigner, en son sein, des commissions d'enquête.\n\nLa loi détermine les conditions d'organisation et de fonctionnement ainsi que\n\nles pouvoirs des commissions d'enquête ».\n\nArticle 86\n\nArticle premier de la loi constitutionnelle n° 2016-10 du 05 avril 2016 portant\n\nrévision de la Constitution (JORS, numéro spécial 6926 du 07 avril 2016, p. 505),\n\narticle donnant une nouvelle rédaction à l'article 86.\n\n« Le Premier Ministre peut, après délibération en Conseil des ministres, décider\n\nde poser la question de confiance sur un programme ou une déclaration de\n\npolitique générale. Le vote sur la question de confiance ne peut intervenir que\n\ndeux jours francs après qu'elle a été posée."
+  },
+  {
+   "page": 39,
+   "methode": "texte",
+   "text": "La confiance est refusée au scrutin public à la majorité absolue des membres\n\ncomposant l'Assemblée nationale. Le refus de confiance entraîne la démission\n\ncollective du Gouvernement.\n\nL'Assemblée nationale peut provoquer la démission du Gouvernement par le\n\nvote d'une motion de censure.\n\nLa motion de censure doit, à peine d'irrecevabilité, être revêtue de la signature\n\nd'un dixième (1/10ème) des membres composant l'Assemblée nationale. Le\n\nvote de la motion de censure ne peut intervenir que deux jours francs après\n\nson dépôt sur le bureau de l'Assemblée nationale.\n\nLa motion de censure est votée au scrutin public, à la majorité absolue des\n\nmembres composant l'Assemblée nationale ; seuls sont recensés les votes\n\nfavorables à la motion de censure. Si la motion de censure est adoptée, le\n\nPremier Ministre remet immédiatement la démission du Gouvernement au\n\nPrésident de la République. Une motion de censure ne peut être déposée au\n\ncours de la même session.\n\nLe Premier Ministre peut, après délibération du Conseil des ministres, engager\n\nla responsabilité du Gouvernement devant l'Assemblée nationale sur le vote\n\nd'un projet de loi de finances. Dans ce cas, ce projet est considéré comme\n\nadopté, sauf si une motion de censure, déposée dans les vingt-quatre heures\n\nqui suivent, est votée dans les conditions prévues à l'alinéa précédent. Le\n\nPremier Ministre peut, en outre, recourir à cette procédure pour un autre projet\n\nou une proposition de loi par session ».\n\nArticle 87\n\nLe Président de la République peut, après avoir recueilli l'avis du Premier\n\nMinistre et celui du Président de l'Assemblée nationale, prononcer, par décret,\n\nla dissolution de l'Assemblée nationale.\n\nToutefois, la dissolution ne peut intervenir durant les deux premières années de\n\nlégislature.\n\nLe décret de dissolution fixe la date du scrutin pour l'élection des députés. Le\n\nscrutin a lieu soixante jours au moins et quatre vingt dix jours au plus après la\n\ndate de publication dudit décret."
+  },
+  {
+   "page": 40,
+   "methode": "texte",
+   "text": "L'Assemblée nationale dissoute ne peut se réunir. Toutefois, le mandat des\n\ndéputés n'expire qu'à la date de la proclamation de l'élection des membres de\n\nla nouvelle Assemblée nationale.\n\nArticle 2 de la loi constitutionnelle n° 2003-15 du 19 juin 2003 portant révision\n\nde la Constitution et instituant un Conseil de la République pour les Affaires\n\néconomiques et sociales (JORS, numéro spécial 6107 du 19 juin 2003, p.613),\n\narticle ajoutant après l'article 87 un TITRE VII-1 intitulé « DU CONSEIL DE LA\n\nREPUBLIQUE POUR LES AFFAIRES ECONOMIQUES ET SOCIALES »\n\n« TITRE VII-1\n\nArticle 5 de la loi constitutionnelle n° 2012-16 du 28 septembre 2012 portant\n\nrévision de la constitution (JORS, numéro spécial 6688 du 28 septembre 2012,\n\np. 1187), article créant le Conseil économique social et environnemental, en\n\nremplacement du Conseil économique et social institué par la loi\n\nconstitutionnelle n° 2008-32 du 7 août 2008 ( JORS du 8 août 2008, p. 754) qui\n\na été adoptée à la suite de l'abrogation, par la loi constitutionnelle n° 2008-31\n\ndu 7 août 2008 ( JORS du 8 août 2008, p. 753), de la loi constitutionnelle n°\n\n2003-15 du 19 juin 2003.\n\nDU CONSEIL ECONOMIQUE, SOCIAL ET ENVIRONNEMENTAL\n\nArticle 87-1\n\nArticle 5 de la loi constitutionnelle n° 2012-16 du 28 septembre 2012 portant\n\nrévision de la Constitution (JORS, numéro spécial 6688 du 28 septembre 2012,\n\np. 1187), article donnant une nouvelle rédaction à l'article 87-1.\n\nLe Conseil économique, social et environnemental peut être consulté par le\n\nPrésident de la République, l'Assemblée nationale et le Gouvernement sur tout\n\nproblème de caractère économique, social ou environnemental. Tout plan ou\n\ntout projet de loi de programmation à caractère économique, social ou\n\nenvironnemental lui est soumis pour avis.\n\nIl peut aussi, de sa propre initiative, émettre un avis sur l'ensemble des\n\nquestions d'ordre économique, social ou environnemental intéressant les\n\ndifférents secteurs d'activités de la Nation."
+  },
+  {
+   "page": 41,
+   "methode": "texte",
+   "text": "Une loi organique détermine le mode de désignation des membres du Conseil\n\néconomique, social et environnemental ainsi que les conditions d'organisation\n\net de fonctionnement de l'institution ».\n\nTITRE VIII\n\n“DU POUVOIR JUDICIAIRE”\n\nArticle 88\n\nArticle unique de la loi constitutionnelle n° 2008-34 du 7 août 2008 portant\n\nrévision de la Constitution (JORS du 8 août 2008, p. 755), article remplaçant les\n\nmots « Conseil d'Etat, Cour de Cassation » par « Cour suprême ».\n\nLe pouvoir judiciaire est indépendant du pouvoir législatif et du pouvoir\n\nexécutif. Il est exercé par le Conseil constitutionnel, la « Cour suprême », la\n\nCour des Comptes et les Cours et Tribunaux.\n\nArticle 89\n\nArticle premier de la loi constitutionnelle n° 2016-10 du 05 avril 2016 portant\n\nrévision de la Constitution (JORS, numéro spécial 6926 du 07 avril 2016, p. 505),\n\narticle donnant une nouvelle rédaction à l'article 89.\n\n« Le Conseil constitutionnel comprend sept (07) membres dont un président,\n\nun vice-président et cinq (05) juges.\n\nLa durée de leur mandat est de six (06) ans.\n\nLe Président de la République nomme les membres du Conseil constitutionnel\n\ndont deux sur une liste de quatre personnalités proposées par le Président de\n\nl'Assemblée nationale.\n\nLe président du Conseil constitutionnel est nommé par le Président de la\n\nRépublique. Il a voix prépondérante en cas de partage.\n\nLes conditions à remplir pour pouvoir être nommé membre du Conseil\n\nconstitutionnel sont déterminées par la loi organique.\n\nLe mandat des membres du Conseil constitutionnel ne peut être renouvelé."
+  },
+  {
+   "page": 42,
+   "methode": "texte",
+   "text": "Il ne peut être mis fin aux fonctions des membres du Conseil constitutionnel\n\navant l'expiration de leur mandat que sur leur demande ou pour incapacité\n\nphysique, et dans les conditions prévues par la loi organique ».\n\nArticle 90\n\nLes magistrats autres que les membres du Conseil constitutionnel et de la Cour\n\ndes Comptes sont nommés par le Président de la République après avis du\n\nConseil supérieur de la Magistrature. Les magistrats de la Cour des Comptes\n\nsont nommés par le Président de la République après avis du Conseil supérieur\n\nde la Cour des Comptes.\n\nLes juges ne sont soumis qu'à l'autorité de la loi dans l'exercice de leurs\n\nfonctions.\n\nLes magistrats du siège sont inamovibles.\n\nLa compétence, l'organisation et le fonctionnement du Conseil supérieur de la\n\nMagistrature ainsi que le statut des magistrats sont fixés par une loi organique.\n\nLa compétence, l'organisation et le fonctionnement du Conseil supérieur de la\n\nCour des Comptes ainsi que le statut des magistrats de la Cour des Comptes\n\nsont fixés par une loi organique.\n\nArticle 91\n\nLe pouvoir judiciaire est gardien des droits et libertés définis par la Constitution\n\net la loi.\n\nArticle 92\n\nArticle premier de la loi constitutionnelle n° 2016-10 du 05 avril 2016 portant\n\nrévision de la Constitution (JORS, numéro spécial 6926 du 07 avril 2016, p. 505),\n\narticle donnant une nouvelle rédaction à l'article 92.\n\n« Le Conseil constitutionnel connaît de la constitutionnalité des lois et des\n\nengagements internationaux, des conflits de compétence entre le pouvoir\n\nexécutif et le pouvoir législatif, ainsi que des exceptions d'inconstitutionnalité\n\nsoulevées devant la Cour d'Appel ou la Cour suprême."
+  },
+  {
+   "page": 43,
+   "methode": "texte",
+   "text": "Le Conseil constitutionnel peut être saisi par le Président de la République pour\n\navis.\n\nLe Conseil constitutionnel juge de la régularité des élections nationales et des\n\nconsultations référendaires et en proclame les résultats.\n\nLes décisions du Conseil constitutionnel ne sont susceptibles d'aucune voie de\n\nrecours. Elles s'imposent aux pouvoirs publics et à toutes les autorités\n\nadministratives et juridictionnelles.\n\nLa Cour des Comptes juge les comptes des comptables publics. Elle vérifie la\n\nrégularité des recettes et des dépenses et s'assure du bon emploi des crédits,\n\nfonds et valeurs gérés par les services de l'Etat ou par les autres personnes\n\nmorales de droit public. Elle assure la vérification des comptes et de la gestion\n\ndes entreprises publiques et organismes à participation financière publique.\n\nElle déclare et apure les gestions de fait. Elle sanctionne les fautes de gestion\n\ncommises à l'égard de l'Etat, des collectivités territoriales et des organismes\n\nsoumis à son contrôle ».\n\nArticle 93\n\nArticle unique de la loi constitutionnelle n° 2008-34 du 7 août 2008 portant\n\nrévision de la Constitution (JORS du 8 août 2008, p. 755), article remplaçant les\n\nmots « Conseil d'Etat, Cour de Cassation » par « Cour suprême ».\n\nSauf cas de flagrant délit, les membres du Conseil constitutionnel ne peuvent\n\nêtre poursuivis, arrêtés, détenus ou jugés en matière pénale qu'avec\n\nl'autorisation du Conseil et dans les mêmes conditions que les membres de la «\n\nCour suprême » et de la Cour des Comptes.\n\nSauf cas de flagrant délit, les membres de la « Cour suprême » et de la Cour\n\ndes Comptes ne peuvent être poursuivis, arrêtés, détenus ou jugés en matière\n\npénale que dans les conditions prévues par la loi organique portant statut des\n\nmagistrats.\n\nArticle 94\n\nArticle unique de la loi constitutionnelle n° 2008-34 du 7 août 2008 portant\n\nrévision de la Constitution (JORS du 8 août 2008, p. 755), article remplaçant les\n\nmots « Conseil d'Etat, Cour de Cassation » par « Cour suprême »."
+  },
+  {
+   "page": 44,
+   "methode": "texte",
+   "text": "Des lois organiques déterminent les autres compétences du Conseil\n\nconstitutionnel, de la « Cour suprême » et de la Cour des comptes ainsi que\n\nleur organisation, les règles de désignation de leurs membres et la procédure\n\nsuivie devant elles.\n\nTITRE IX\n\n“DES TRAITES INTERNATIONAUX”\n\nArticle 95\n\nLe Président de la République négocie les engagements internationaux.\n\nArticle 2 de la loi constitutionnelle n° 2012-16 du 28 septembre 2012 portant\n\nrévision de la Constitution (JORS, numéro spécial 6688 du 28 septembre 2012,\n\np. 1187), article substituant les mots « de l'Assemblée nationale » aux mots «\n\ndu Parlement » auxquels faisait référence la loi constitutionnelle n° 2008-33 du\n\n7 août 2008 (JORS du 8 août 2008, p. 754). Il les ratifie ou les approuve\n\néventuellement sur autorisation « de l'Assemblée nationale ».\n\nArticle 96\n\nLes traités de paix, les traités de commerce, les traités ou accords relatifs à\n\nl'organisation internationale, ceux qui engagent les finances de l'Etat, ceux qui\n\nmodifient les dispositions de nature législative, ceux qui sont relatifs à l'état des\n\npersonnes, ceux qui comportent cession, échange ou adjonction de territoire\n\nne peuvent être ratifiés ou approuvés qu'en vertu d'une loi.\n\nIls ne prennent effet qu'après avoir été ratifiés ou approuvés.\n\nNulle cession, nulle adjonction de territoire n'est valable sans le consentement\n\ndes populations intéressées.\n\nLa République du Sénégal peut conclure avec tout Etat africain des accords\n\nd'association ou de communauté comprenant abandon partiel ou total de\n\nsouveraineté en vue de réaliser l'unité africaine.\n\nArticle 97"
+  },
+  {
+   "page": 45,
+   "methode": "texte",
+   "text": "Si le Conseil constitutionnel a déclaré qu'un engagement international\n\ncomporte une clause contraire à la Constitution, l'autorisation de le ratifier ou\n\nde l'approuver ne peut intervenir qu'après la révision de la Constitution.\n\nArticle 98\n\nLes traités ou accords régulièrement ratifiés ou approuvés ont, dès leur\n\npublication, une autorité supérieure à celle des lois, sous réserve, pour chaque\n\naccord ou traité, de son application par l'autre partie.\n\nTITRE X\n\n“DE LA HAUTE COUR DE JUSTICE”\n\nArticle 99\n\nIl est institué une Haute Cour de Justice.\n\nArticle 100\n\nArticle 16 de la loi constitutionnelle n° 2007-06 du 12 février 2007 créant un\n\nSénat (JORS du 10 mars 2007, p. 2387), article donnant une nouvelle rédaction\n\nà l'article 100.\n\nArticle premier de la loi constitutionnelle n° 2012-16 du 28 septembre 2012\n\nportant révision de la constitution (JORS, numéro spécial 6688 du 28\n\nseptembre 2012, p. 1187), article supprimant après les mots « de membres élus\n\n», les mots « en nombre égal », après les mots « par l'Assemblée nationale »,\n\nles mots « et le Sénat » et après les mots « chaque renouvellement », les mots\n\n« de ces assemblées ». « La Haute Cour de Justice est composée de membres\n\nélus par l'Assemblée nationale après chaque renouvellement.\n\nElle est présidée par un magistrat.\n\nL'organisation de la Haute Cour de Justice et la procédure suivie devant elle\n\nsont déterminées par une loi organique ».\n\nArticle 101"
+  },
+  {
+   "page": 46,
+   "methode": "texte",
+   "text": "Article 16 de la loi constitutionnelle n° 2007-06 du 12 février 2007 créant un\n\nSénat (JORS du 10 mars 2007, p. 2387), article donnant une nouvelle rédaction\n\nà l'article 101.\n\nArticle 2 de la loi constitutionnelle n° 2012-16 du 28 septembre 2012 portant\n\nrévision de la Constitution (JORS, numéro spécial 6688 du 28 septembre 2012,\n\np. 1187), article substituant les mots « de l'Assemblée nationale » aux mots «\n\ndes deux assemblées ». « Le Président de la République n'est responsable des\n\nactes accomplis dans l'exercice de ses fonctions qu'en cas de haute trahison. Il\n\nne peut être mis en accusation que par l'Assemblée nationale, statuant par un\n\nvote identique au scrutin secret, à la majorité des trois cinquièmes des\n\nmembres les composant ; il est jugé par la Haute Cour de Justice.\n\nNB : en modifiant l'alinéa premier pour substituer les mots « Assemblée\n\nnationale » aux mots « des assemblées », la loi constitutionnelle de 2012 a omis\n\nd'en tirer les conséquences et de supprimer l'adjectif « identique » après « un\n\nvote » et de remplacer, avant « composant », l'article « les » par l'article « la ».\n\nLe Premier Ministre et les autres membres du Gouvernement sont pénalement\n\nresponsables des actes accomplis dans l'exercice de leurs fonctions et qualifiés\n\ncrimes ou délits au moment où ils ont été commis. Ils sont jugés par la Haute\n\nCour de Justice. La procédure définie ci-dessus leur est applicable, ainsi qu'à\n\nleurs complices, dans le cas de complot contre la sûreté de l'Etat. Dans les cas\n\nprévus au présent alinéa, la Haute Cour est liée par la définition des crimes et\n\ndélits ainsi que par la détermination des peines, telles qu'elles résultent des lois\n\npénales en vigueur au moment où les faits ont été commis ».\n\nTITRE XI\n\nArticle 2 de la loi constitutionnelle n° 2016-10 du 05 avril 2016 portant révision\n\nde la Constitution (JORS, numéro spécial 6926 du 07 avril 2016, p. 505), article\n\nmodifiant l'intitulé du titre XI.\n\n“« DES COLLECTIVITES TERRITORIALES »”\n\nArticle 102\n\nArticle premier de la loi constitutionnelle n° 2016-10 du 05 avril 2016 portant\n\nrévision de la Constitution (JORS, numéro spécial 6926 du 07 avril 2016, p. 505),"
+  },
+  {
+   "page": 47,
+   "methode": "texte",
+   "text": "article donnant une nouvelle rédaction à l'article 102.\n\n« Les collectivités territoriales constituent le cadre institutionnel de la\n\nparticipation des citoyens à la gestion des affaires publiques. Elles\n\ns'administrent librement par des assemblées élues au suffrage universel direct.\n\nElles participent, à la territorialisation des politiques publiques, à la mise en\n\nœuvre de la politique générale de l'Etat ainsi qu'à l'élaboration et au suivi des\n\nprogrammes de développement spécifiques à leurs territoires.\n\nNB : les mots « à la faveur de » figurant dans l'alinéa premier du texte\n\npromulgué par le Président de la République, après les mots « Elles participent\n\n», ont été omis dans l'édition du Journal officiel, donnant ainsi une autre\n\ncompréhension de la disposition.\n\nLeur organisation, leur composition et leur fonctionnement sont déterminés\n\npar la loi.\n\nLa mise en œuvre de la décentralisation est accompagnée par la\n\ndéconcentration qui est la règle générale de répartition des compétences et\n\ndes moyens entre les administrations civiles de l'Etat ».\n\nTITRE XII\n\n“DE LA REVISION”\n\nArticle 103\n\nArticle premier de la loi constitutionnelle n° 2016-10 du 05 avril 2016 portant\n\nrévision de la Constitution (JORS, numéro spécial 6926 du 07 avril 2016, p. 505),\n\narticle donnant une nouvelle rédaction à l'article 103.\n\n« L'initiative de la révision de la Constitution appartient concurremment au\n\nPrésident de la République et aux députés.\n\nLe Premier Ministre peut proposer au Président de la République une révision\n\nde la Constitution.\n\nLe projet ou la proposition de révision de la Constitution est adopté par\n\nl'Assemblée nationale selon la procédure prévue à l'article 71 de la présente"
+  },
+  {
+   "page": 48,
+   "methode": "texte",
+   "text": "Constitution. La révision est définitive après avoir été approuvée par\n\nréférendum.\n\nToutefois, le projet ou la proposition n'est pas présenté au référendum lorsque\n\nle Président de la République décide de le soumettre à l'Assemblée nationale.\n\nDans ce cas, le projet ou la proposition n'est approuvé que s'il réunit la\n\nmajorité des trois cinquièmes (3/5) des suffrages exprimés.\n\nLes articles 65 et 77 de la présente Constitution ne sont pas applicables aux lois\n\nconstitutionnelles.\n\nLa forme républicaine de l'Etat, le mode d'élection, la durée et le nombre de\n\nmandats consécutifs du Président de la République ne peuvent faire l'objet de\n\nrévision.\n\nL'alinéa 7 du présent article ne peut être l'objet de révision ».\n\nTITRE XIII\n\n“DISPOSITIONS TRANSITOIRES”\n\nArticle 5 de la loi constitutionnelle n° 2016-10 du 5 avril 2016 portant révision\n\nde la Constitution (JORS, numéro spécial 6926 du 07 avril 2016, p. 505), article\n\nabrogeant les articles 104 à 108 de la Constitution.\n\nHistorique et Note explicative\n\nÀ l'épreuve du temps, la Constitution, adoptée lors du référendum du 7 janvier\n\n2001, promulguée et publiée au Journal officiel n° 5963 du 22 janvier 2001,\n\nprésente un nouveau visage, en raison des nombreuses lois constitutionnelles\n\nqui ont modifié, abrogé ou remplacé la plupart de ses dispositions.\n\nCes différentes lois ont introduit des changements majeurs tant dans l'esprit\n\nque dans la lettre des dispositions concernées.\n\nCependant, malgré ces importantes modifications, aucune action concertée des\n\nautorités compétentes permettant aux citoyens de disposer d'un texte unique,"
+  }
+ ],
+ "articles": [
+  {
+   "article": "preambule",
+   "intitule": "Texte précédant le premier article",
+   "text": "TEXTE Version référendum du 7 janvier 2001 Le Président du Conseil constitutionnel Loi n° 2001-03 du 22 janvier 2001 portant Constitution, modifiée (JORS, numéro spécial 5963 du 22 janvier 2001, p. 27) PREAMBULE Le Peuple du Sénégal souverain, PROFONDEMENT attaché à ses valeurs culturelles fondamentales qui constituent le ciment de l'unité nationale ; CONVAINCU de la volonté de tous les citoyens, hommes et femmes, d'assumer un destin commun par la solidarité, le travail et l'engagement patriotique ; CONSIDERANT que la construction nationale repose sur la liberté individuelle et le respect de la personne humaine, sources de créativité ; CONSCIENT de la nécessité d'affirmer et de consolider les fondements de la Nation et de l'Etat ; ATTACHE à l'idéal de l'unité africaine : AFFIRME : - son adhésion à la Déclaration des Droits de l'Homme et du Citoyen de 1789 et aux instruments internationaux adoptés par l'Organisation des Nations Unies et l'Organisation de l'Unité africaine, notamment la Déclaration Universelle des Droits de l'Homme du 10 décembre 1948, la Convention sur l'élimination de toutes les formes de discrimination à l'égard des femmes du 18 décembre 1979, la Convention relative aux Droits de l'Enfant du 20 novembre 1989 et la Charte africaine des Droits de l'Homme et des Peuples du 27 juin 1981 ; - son attachement à la transparence dans la conduite et la gestion des affaires publiques ainsi qu'au principe de bonne gouvernance ; - sa détermination à lutter pour la paix et la fraternité avec tous les peuples du monde ; PROCLAME : - le principe intangible de l'intégrité du territoire national et de l'unité nationale dans le respect des spécificités culturelles de toutes les composantes de la Nation ; - l'inaltérabilité de la souveraineté nationale qui s'exprime à travers des procédures et consultations transparentes et démocratiques ; - la séparation et l'équilibre des pouvoirs conçus et exercés à travers des procédures démocratiques ; - le respect des libertés fondamentales et des droits du citoyen comme base de la société sénégalaise ; - le respect et la consolidation d'un Etat de droit dans lequel l'Etat et les citoyens sont soumis aux mêmes normes juridiques sous le contrôle d'une justice indépendante et impartiale ; - l'accès de tous les citoyens, sans discrimination, à l'exercice du pouvoir à tous les niveaux ; - l'égal accès de tous les citoyens aux services publics ; - le rejet et l'élimination, sous toutes leurs formes, de l'injustice, des inégalités et des discriminations ; - la volonté du Sénégal d'être un Etat moderne qui fonctionne selon le jeu loyal et équitable entre une majorité qui gouverne et une opposition démocratique, et un Etat qui reconnaît cette opposition comme un pilier fondamental de la démocratie et un rouage indispensable au bon fonctionnement du mécanisme démocratique ; APPROUVE ET ADOPTE LA PRESENTE CONSTITUTION DONT LE PREAMBULE EST PARTIE INTEGRANTE. Constitution du Sénégal",
+   "page_start": 2,
+   "page_end": 3,
+   "modification": "",
+   "hierarchy": {}
+  },
+  {
+   "article": "1",
+   "intitule": "",
+   "text": "La République du Sénégal est laïque, démocratique et sociale. Elle assure l'égalité devant la loi de tous les citoyens, sans distinction d'origine, de race, de sexe, de religion. Elle respecte toutes les croyances.\nLa langue officielle de la République du Sénégal est le Français. Les langues nationales sont le Diola, le Malinké, le Pular, le Sérère, le Soninké, le Wolof et toute autre langue nationale qui sera codifiée.\nLa devise de la République du Sénégal est : « Un Peuple - Un But - Une Foi ».\nLe drapeau de la République du Sénégal est composé de trois bandes verticales et égales, de couleur verte, or et rouge. Il porte, en vert, au centre de la bande or, une étoile à cinq branches.\nLa loi détermine le sceau et l'hymne national.\nLe principe de la République du Sénégal est : gouvernement du peuple par le peuple et pour le peuple.",
+   "page_start": 3,
+   "page_end": 4,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE I - DE L'ETAT ET DE LA SOUVERAINETE"
+   }
+  },
+  {
+   "article": "2",
+   "intitule": "",
+   "text": "La capitale de la République du Sénégal est Dakar. Elle peut être transférée en tout autre lieu du territoire national.",
+   "page_start": 4,
+   "page_end": 4,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE I - DE L'ETAT ET DE LA SOUVERAINETE"
+   }
+  },
+  {
+   "article": "3",
+   "intitule": "",
+   "text": "La souveraineté nationale appartient au peuple sénégalais qui l'exerce par ses représentants ou par la voie du référendum.\nAucune section du peuple, ni aucun individu, ne peut s'attribuer l'exercice de la souveraineté.\nLe suffrage peut être direct ou indirect. Il est toujours universel, égal et secret.\nTous les nationaux sénégalais des deux sexes, âgés de 18 ans accomplis, jouissant de leurs droits civils et politiques, sont électeurs dans les conditions déterminées par la loi.",
+   "page_start": 4,
+   "page_end": 4,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE I - DE L'ETAT ET DE LA SOUVERAINETE"
+   }
+  },
+  {
+   "article": "4",
+   "intitule": "",
+   "text": "« Les partis politiques et coalitions de partis politiques concourent à l'expression du suffrage dans les conditions fixées par la Constitution et par la loi. Ils œuvrent à la formation des citoyens, à la promotion de leur participation à la vie nationale et à la gestion des affaires publiques.\nLa Constitution garantit aux candidats indépendants la participation à tous les types d'élection dans les conditions définies par la loi.\nLes partis politiques et coalitions de partis politiques, de même que les candidats indépendants, sont tenus de respecter la Constitution ainsi que les principes de la souveraineté nationale et de la démocratie. Il leur est interdit de s'identifier à une race, à une ethnie, à un sexe, à une religion, à une secte, à une langue ou à une partie du territoire.\nLes partis politiques sont également tenus de respecter strictement les règles de bonne gouvernance associative sous peine de sanctions susceptibles de conduire à la suspension et à la dissolution.\nLa Constitution garantit des droits égaux aux partis politiques, y compris ceux qui s'opposent à la politique du Gouvernement en place.\nLes règles de constitution, de suspension et de dissolution des partis politiques, les conditions dans lesquelles ceux-ci exercent leurs activités et bénéficient d'un financement public sont déterminées par la loi ».",
+   "page_start": 4,
+   "page_end": 5,
+   "modification": "Article premier de la loi constitutionnelle n° 2016-10 du 05 avril 2016 portant révision de la Constitution (JORS, numéro spécial 6926 du 07 avril 2016, p. 505), article modifiant et remplaçant l'article 4 de la Constitution.",
+   "hierarchy": {
+    "titre": "TITRE I - DE L'ETAT ET DE LA SOUVERAINETE"
+   }
+  },
+  {
+   "article": "5",
+   "intitule": "",
+   "text": "Tout acte de discrimination raciale, ethnique ou religieuse, de même que toute propagande régionaliste pouvant porter atteinte à la sécurité intérieure de l'Etat ou à l'intégrité du territoire de la République sont punis par la loi.",
+   "page_start": 5,
+   "page_end": 5,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE I - DE L'ETAT ET DE LA SOUVERAINETE"
+   }
+  },
+  {
+   "article": "6",
+   "intitule": "",
+   "text": "« Les Institutions de la République sont :\n- le Président de la République;\n- l'Assemblée nationale;\n- le Gouvernement;\n- le Haut Conseil des Collectivités territoriales;\n- le Conseil économique, social et environnemental;\n- le Conseil constitutionnel, la Cour suprême, la Cour des Comptes et les Cours et Tribunaux; ».",
+   "page_start": 5,
+   "page_end": 6,
+   "modification": "Article premier de la loi constitutionnelle n° 2016-10 du 05 avril 2016 portant révision de la Constitution (JORS, numéro spécial 6926 du 07 avril 2016, p. 505), article modifiant et remplaçant l'article 6 de la Constitution.",
+   "hierarchy": {
+    "titre": "TITRE I - DE L'ETAT ET DE LA SOUVERAINETE"
+   }
+  },
+  {
+   "article": "7",
+   "intitule": "",
+   "text": "La personne humaine est sacrée. Elle est inviolable. L'Etat a l'obligation de la respecter et de la protéger.\nTout individu a droit à la vie, à la liberté, à la sécurité, au libre développement de sa personnalité, à l'intégrité corporelle notamment à la protection contre toutes mutilations physiques.\nLe peuple sénégalais reconnaît l'existence des droits de l'homme inviolables et inaliénables comme base de toute communauté humaine, de la paix et de la justice dans le monde.\nTous les êtres humains sont égaux devant la loi. Les hommes et les femmes sont égaux en droit.",
+   "page_start": 6,
+   "page_end": 6,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE II - DES DROITS ET LIBERTES FONDAMENTAUX ET DES DEVOIRS DES"
+   }
+  },
+  {
+   "article": "8",
+   "intitule": "",
+   "text": "La République du Sénégal garantit à tous les citoyens les libertés individuelles fondamentales, les droits économiques et sociaux ainsi que les droits collectifs.\nCes libertés et droits sont notamment :\n- les libertés civiles et politiques : liberté d'opinion, liberté d'expression, liberté de la presse, liberté d'association, liberté de réunion, liberté de déplacement, liberté de manifestation,\n§ les libertés culturelles, § les libertés religieuses, § les libertés philosophiques, § les libertés syndicales, § la liberté d'entreprendre, § le droit à l'éducation, § le droit de savoir lire et écrire, § le droit de propriété, § le droit au travail, § le droit à la santé, § le droit à un environnement sain, § le droit à l'information plurielle,\nCes libertés et ces droits s'exercent dans les conditions prévues par la loi.",
+   "page_start": 7,
+   "page_end": 7,
+   "modification": "Article unique de la loi constitutionnelle n° 2008-30 du 7 août 2008, modifiant les articles 7, 63, 68, 71 et 82 de la Constitution (JORS numéro spécial 6420 du 8 août 2008, p. 752), alinéa inséré par cet article unique. « La loi favorise l'égal accès des femmes et des hommes aux mandats et fonctions ».",
+   "hierarchy": {
+    "titre": "TITRE II - DES DROITS ET LIBERTES FONDAMENTAUX ET DES DEVOIRS DES"
+   }
+  },
+  {
+   "article": "9",
+   "intitule": "",
+   "text": "« Toute atteinte aux libertés et toute entrave volontaire à l'exercice d'une liberté sont punies par la loi.\nNul ne peut être condamné si ce n'est en vertu la rentrée en vigueur avant l'acte commis.\nNB : La rédaction malencontreuse de cet alinéa résulte de la loi constitutionnelle n° 2008-33 du 7 août 2008 (JORS, numéro spécial 6420 du 8 août 2008, p. 754) Toutefois, les dispositions de l'alinéa précédent ne s'opposent pas à la poursuite, au jugement et à la condamnation de tout individu en raison d'actes ou omission qui, au moment où ils ont été commis, étaient tenus pour criminels d'après les règles du droit international relatives aux faits de génocide, crimes contre l'humanité, crime de guerres.\nLa défense est un droit absolu dans tous les Etats et à tous les degrés de la procédure ».",
+   "page_start": 7,
+   "page_end": 8,
+   "modification": "Article premier de la loi constitutionnelle n° 2008-33 du 7 août 2008 (JORS, numéro spécial 6420 du 8 août 2008, p. 754), article modifiant les articles 9 et 95 et complétant les articles 62 et 92 de la Constitution.",
+   "hierarchy": {
+    "titre": "TITRE II - DES DROITS ET LIBERTES FONDAMENTAUX ET DES DEVOIRS DES"
+   }
+  },
+  {
+   "article": "10",
+   "intitule": "",
+   "text": "Chacun a le droit d'exprimer et de diffuser librement ses opinions par la parole, la plume, l'image, la marche pacifique, pourvu que l'exercice de ces droits ne porte atteinte ni à l'honneur et à la considération d'autrui, ni à l'ordre public.",
+   "page_start": 8,
+   "page_end": 8,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE II - DES DROITS ET LIBERTES FONDAMENTAUX ET DES DEVOIRS DES"
+   }
+  },
+  {
+   "article": "11",
+   "intitule": "",
+   "text": "La création d'un organe de presse pour l'information politique, économique, culturelle, sportive, sociale, récréative ou scientifique est libre et n'est soumise à aucune autorisation préalable.\nLe régime de la presse est fixé par la loi.",
+   "page_start": 8,
+   "page_end": 8,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE II - DES DROITS ET LIBERTES FONDAMENTAUX ET DES DEVOIRS DES"
+   }
+  },
+  {
+   "article": "12",
+   "intitule": "",
+   "text": "Tous les citoyens ont le droit de constituer librement des associations, des groupements économiques, culturels et sociaux ainsi que des sociétés, sous réserve de se conformer aux formalités édictées par les lois et règlements.\nLes groupements dont le but ou l'activité est contraire aux lois pénales ou dirigé contre l'ordre public sont prohibés.",
+   "page_start": 8,
+   "page_end": 8,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE II - DES DROITS ET LIBERTES FONDAMENTAUX ET DES DEVOIRS DES"
+   }
+  },
+  {
+   "article": "13",
+   "intitule": "",
+   "text": "Le secret de la correspondance, des communications postales, télégraphiques, téléphoniques et électroniques est inviolable. Il ne peut être ordonné de restriction à cette inviolabilité qu'en application de la loi.",
+   "page_start": 8,
+   "page_end": 8,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE II - DES DROITS ET LIBERTES FONDAMENTAUX ET DES DEVOIRS DES"
+   }
+  },
+  {
+   "article": "14",
+   "intitule": "",
+   "text": "Tous les citoyens de la République ont le droit de se déplacer et de s'établir librement aussi bien sur toute l'étendue du territoire national qu'à l'étranger.\nCes libertés s'exercent dans les conditions prévues par la loi.",
+   "page_start": 8,
+   "page_end": 9,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE II - DES DROITS ET LIBERTES FONDAMENTAUX ET DES DEVOIRS DES"
+   }
+  },
+  {
+   "article": "15",
+   "intitule": "",
+   "text": "Le droit de propriété est garanti par la présente Constitution. Il ne peut y être porté atteinte que dans le cas de nécessité publique légalement constatée, sous réserve d'une juste et préalable indemnité.\nL'homme et la femme ont également le droit d'accéder à la possession et à la propriété de la terre dans les conditions déterminées par la loi.",
+   "page_start": 9,
+   "page_end": 9,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE II - DES DROITS ET LIBERTES FONDAMENTAUX ET DES DEVOIRS DES"
+   }
+  },
+  {
+   "article": "16",
+   "intitule": "",
+   "text": "Le domicile est inviolable.\nIl ne peut être ordonné de perquisition que par le juge ou par les autres autorités désignées par la loi. Les perquisitions ne peuvent être exécutées que dans les formes prescrites par celle-ci. Des mesures portant atteinte à l'inviolabilité du domicile ou la restreignant ne peuvent être prises que pour parer à un danger collectif ou protéger des personnes en péril de mort.\nCes mesures peuvent être également prises, en application de la loi, pour protéger l'ordre public contre les menaces imminentes, singulièrement pour lutter contre les risques d'épidémie ou pour protéger la jeunesse en danger.",
+   "page_start": 9,
+   "page_end": 9,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE II - DES DROITS ET LIBERTES FONDAMENTAUX ET DES DEVOIRS DES"
+   }
+  },
+  {
+   "article": "17",
+   "intitule": "",
+   "text": "Le mariage et la famille constituent la base naturelle et morale de la communauté humaine. Ils sont placés sous la protection de l'Etat.\nL'Etat et les collectivités publiques ont le devoir de veiller à la santé physique et morale de la famille et, en particulier des personnes handicapées et des personnes âgées.\nL'Etat garantit aux familles en général et à celles vivant en milieu rural en particulier l'accès aux services de santé et au bien-être. Il garantit également aux femmes en général et à celles vivant en milieu rural en particulier, le droit à l'allègement de leurs conditions de vie.",
+   "page_start": 9,
+   "page_end": 10,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE II - DES DROITS ET LIBERTES FONDAMENTAUX ET DES DEVOIRS DES",
+    "rubrique": "MARIAGE ET FAMILLE"
+   }
+  },
+  {
+   "article": "18",
+   "intitule": "",
+   "text": "Le mariage forcé est une violation de la liberté individuelle. Elle est interdite et punie dans les conditions fixées par la loi.",
+   "page_start": 10,
+   "page_end": 10,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE II - DES DROITS ET LIBERTES FONDAMENTAUX ET DES DEVOIRS DES",
+    "rubrique": "MARIAGE ET FAMILLE"
+   }
+  },
+  {
+   "article": "19",
+   "intitule": "",
+   "text": "La femme a le droit d'avoir son patrimoine propre comme le mari. Elle a le droit de gestion personnelle de ses biens.",
+   "page_start": 10,
+   "page_end": 10,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE II - DES DROITS ET LIBERTES FONDAMENTAUX ET DES DEVOIRS DES",
+    "rubrique": "MARIAGE ET FAMILLE"
+   }
+  },
+  {
+   "article": "20",
+   "intitule": "",
+   "text": "Les parents ont le droit naturel et le devoir d'élever leurs enfants. Ils sont soutenus, dans cette tâche, par l'Etat et les collectivités publiques.\nLa jeunesse est protégée par l'Etat et les collectivités publiques contre l'exploitation, la drogue, les stupéfiants, l'abandon moral et la délinquance.",
+   "page_start": 10,
+   "page_end": 10,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE II - DES DROITS ET LIBERTES FONDAMENTAUX ET DES DEVOIRS DES",
+    "rubrique": "MARIAGE ET FAMILLE"
+   }
+  },
+  {
+   "article": "21",
+   "intitule": "",
+   "text": "L'Etat et les collectivités publiques créent les conditions préalables et les institutions publiques qui garantissent l'éducation des enfants.",
+   "page_start": 10,
+   "page_end": 10,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE II - DES DROITS ET LIBERTES FONDAMENTAUX ET DES DEVOIRS DES",
+    "rubrique": "EDUCATION"
+   }
+  },
+  {
+   "article": "22",
+   "intitule": "",
+   "text": "L'Etat a le devoir et la charge de l'éducation et de la formation de la jeunesse par des écoles publiques.\nTous les enfants, garçons et filles, en tous lieux du territoire national, ont le droit d'accéder à l'école.\nLes institutions et les communautés religieuses ou non religieuses sont également reconnues comme moyens d'éducation.\nToutes les institutions nationales, publiques ou privées, ont le devoir d'alphabétiser leurs membres et de participer à l'effort national d'alphabétisation dans l'une des langues nationales.",
+   "page_start": 10,
+   "page_end": 11,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE II - DES DROITS ET LIBERTES FONDAMENTAUX ET DES DEVOIRS DES",
+    "rubrique": "EDUCATION"
+   }
+  },
+  {
+   "article": "23",
+   "intitule": "",
+   "text": "Des écoles privées peuvent être ouvertes avec l'autorisation et sous le contrôle de l'Etat.",
+   "page_start": 11,
+   "page_end": 11,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE II - DES DROITS ET LIBERTES FONDAMENTAUX ET DES DEVOIRS DES",
+    "rubrique": "EDUCATION"
+   }
+  },
+  {
+   "article": "24",
+   "intitule": "",
+   "text": "La liberté de conscience, les libertés et les pratiques religieuses ou cultuelles, la profession d'éducateur religieux sont garanties à tous sous réserve de l'ordre public.\nLes institutions et les communautés religieuses ont le droit de se développer sans entrave. Elles sont dégagées de la tutelle de l'Etat. Elles règlent et administrent leurs affaires d'une manière autonome.",
+   "page_start": 11,
+   "page_end": 11,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE II - DES DROITS ET LIBERTES FONDAMENTAUX ET DES DEVOIRS DES",
+    "rubrique": "RELIGIONS ET COMMUNAUTES RELIGIEUSES"
+   }
+  },
+  {
+   "article": "25",
+   "intitule": "",
+   "text": "Chacun a le droit de travailler et le droit de prétendre à un emploi. Nul ne peut être lésé dans son travail en raison de ses origines, de son sexe, de ses opinions, de ses choix politiques ou de ses croyances. Le travailleur peut adhérer à un syndicat et défendre ses droits par l'action syndicale.\nToute discrimination entre l'homme et la femme devant l'emploi, le salaire et l'impôt est interdite.\nLa liberté de créer des associations syndicales ou professionnelles est reconnue à tous les travailleurs.\nLe droit de grève est reconnu. Il s'exerce dans le cadre des lois qui le régissent.\nIl ne peut en aucun cas ni porter atteinte à la liberté de travail, ni mettre l'entreprise en péril.\nTout travailleur participe, par l'intermédiaire de ses délégués, à la détermination des conditions de travail dans l'entreprise. L'Etat veille aux conditions sanitaires et humaines dans les lieux de travail. Des lois particulières fixent les conditions d'assistance et de protection que l'Etat et l'entreprise accordent aux travailleurs.",
+   "page_start": 11,
+   "page_end": 12,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE II - DES DROITS ET LIBERTES FONDAMENTAUX ET DES DEVOIRS DES",
+    "rubrique": "TRAVAIL"
+   }
+  },
+  {
+   "article": "25-1",
+   "intitule": "",
+   "text": "Les ressources naturelles appartiennent au peuple. Elles sont utilisées pour l'amélioration de ses conditions de vie.\nL'exploitation et la gestion des ressources naturelles doivent se faire dans la transparence et de façon à générer une croissance économique, à promouvoir le bien-être de la population en général et à être écologiquement durables.\nL'Etat et les collectivités territoriales ont l'obligation de veiller à la préservation du patrimoine foncier.",
+   "page_start": 12,
+   "page_end": 12,
+   "modification": "Article 3 de la loi constitutionnelle n° 2016-10 du 05 avril 2016 portant révision de la Constitution (JORS, numéro spécial 6926 du 07 avril 2016, p. 505), article ajoutant les articles 25-1, 25-2 et 25-3 après l'article 25.",
+   "hierarchy": {
+    "titre": "TITRE II - DES DROITS ET LIBERTES FONDAMENTAUX ET DES DEVOIRS DES",
+    "rubrique": "TRAVAIL"
+   }
+  },
+  {
+   "article": "25-2",
+   "intitule": "",
+   "text": "Chacun a droit à un environnement sain.\nLa défense, la préservation et l'amélioration de l'environnement incombent aux pouvoirs publics.\nLes pouvoirs publics ont l'obligation de préserver, de restaurer les processus écologiques essentiels, de pourvoir à la gestion responsable des espèces et des écosystèmes, de préserver la diversité et l'intégrité du patrimoine génétique, d'exiger l'évaluation environnementale pour les plans, projets ou programmes, de promouvoir l'éducation environnementale et d'assurer la protection des populations dans l'élaboration et la mise en œuvre des projets et programmes dont les impacts sociaux et environnementaux sont significatifs.",
+   "page_start": 12,
+   "page_end": 12,
+   "modification": "Article 3 de la loi constitutionnelle n° 2016-10 du 05 avril 2016 portant révision de la Constitution (JORS, numéro spécial 6926 du 07 avril 2016, p. 505), article ajoutant les articles 25-1, 25-2 et 25-3 après l'article 25.",
+   "hierarchy": {
+    "titre": "TITRE II - DES DROITS ET LIBERTES FONDAMENTAUX ET DES DEVOIRS DES",
+    "rubrique": "TRAVAIL"
+   }
+  },
+  {
+   "article": "25-3",
+   "intitule": "",
+   "text": "Tout citoyen est tenu de respecter scrupuleusement la Constitution, les lois et règlements, notamment, d'accomplir ses devoirs civiques et de respecter les droits d'autrui. Il doit veiller à s'acquitter de ses obligations fiscales et à participer à l'œuvre de développement économique et social de la Nation. Tout citoyen a le devoir de défendre la patrie contre toute agression et de contribuer à la lutte contre la corruption et la concussion.\nTout citoyen a le devoir de respecter et de faire respecter le bien public, mais aussi de s'abstenir de tous actes de nature à compromettre l'ordre, la sécurité, la salubrité et la tranquillité publics.\nTout citoyen a le devoir de préserver les ressources naturelles et l'environnement du pays et d'œuvrer pour le développement durable au profit des générations présentes et futures.\nTout citoyen a le devoir d'inscrire à l'état civil les actes le concernant et ceux qui sont relatifs à sa famille dans les conditions déterminées par la loi ».",
+   "page_start": 12,
+   "page_end": 13,
+   "modification": "Article 3 de la loi constitutionnelle n° 2016-10 du 05 avril 2016 portant révision de la Constitution (JORS, numéro spécial 6926 du 07 avril 2016, p. 505), article ajoutant les articles 25-1, 25-2 et 25-3 après l'article 25.",
+   "hierarchy": {
+    "titre": "TITRE II - DES DROITS ET LIBERTES FONDAMENTAUX ET DES DEVOIRS DES",
+    "rubrique": "TRAVAIL"
+   }
+  },
+  {
+   "article": "26",
+   "intitule": "",
+   "text": "« Le Président de la République est élu au suffrage universel direct et à la majorité absolue des suffrages exprimés ».",
+   "page_start": 13,
+   "page_end": 13,
+   "modification": "Article premier de la loi constitutionnelle n° 2016-10 du 05 avril 2016 portant révision de la Constitution (JORS, numéro spécial 6926 du 07 avril 2016, p. 505), article modifiant et remplaçant l'article 26.",
+   "hierarchy": {
+    "titre": "TITRE III - DU PRESIDENT DE LA REPUBLIQUE"
+   }
+  },
+  {
+   "article": "27",
+   "intitule": "",
+   "text": "« La durée du mandat du Président de la République est de cinq ans.\nNul ne peut exercer plus de deux mandats consécutifs ».",
+   "page_start": 13,
+   "page_end": 13,
+   "modification": "Article premier de la loi constitutionnelle n° 2016-10 du 05 avril 2016 portant révision de la Constitution (JORS, numéro spécial 6926 du 07 avril 2016, p. 505), article modifiant et remplaçant l'article 27.",
+   "hierarchy": {
+    "titre": "TITRE III - DU PRESIDENT DE LA REPUBLIQUE"
+   }
+  },
+  {
+   "article": "28",
+   "intitule": "",
+   "text": "« Tout candidat à la Présidence de la République doit être exclusivement de nationalité sénégalaise, jouir de ses droits civils et politiques, être âgé de trente cinq (35) ans au moins et de soixante quinze (75) ans au plus le jour du scrutin.\nIl doit savoir écrire, lire et parler couramment la langue officielle ».",
+   "page_start": 13,
+   "page_end": 14,
+   "modification": "Article premier de la loi constitutionnelle n° 2016-10 du 05 avril 2016 portant révision de la Constitution (JORS, numéro spécial 6926 du 07 avril 2016, p. 505), article modifiant et remplaçant l'article 28.",
+   "hierarchy": {
+    "titre": "TITRE III - DU PRESIDENT DE LA REPUBLIQUE"
+   }
+  },
+  {
+   "article": "29",
+   "intitule": "",
+   "text": "« Les candidatures sont déposées au greffe du Conseil constitutionnel, soixante jours francs au moins et soixante-quinze jours francs au plus avant le premier tour du scrutin.\nToutefois, en cas de décès d'un candidat, le dépôt de nouvelles candidatures est possible à tout moment et jusqu'à la veille du scrutin.\nDans ce cas, les élections sont reportées à une nouvelle date par le Conseil constitutionnel.\nLes candidatures sont présentées par un parti politique ou une coalition de partis politiques légalement constitués ou par une entité regroupant des personnes indépendantes.\nPour être recevable, toute candidature doit être accompagnée de la signature d'électeurs représentant, au minimum, 0,8 % et, au maximum, 1 % du fichier électoral général.\nCes électeurs doivent être domiciliés dans au moins sept régions à raison de deux mille au moins par région.\nUn électeur ne peut parrainer qu'un candidat.\nLes modalités du contrôle des listes de parrainage sont fixées par la loi. Les candidats indépendants, comme les partis politiques, sont tenus de se conformer à l'article 4 de la Constitution. Chaque parti ou coalition de partis ne peut présenter qu'une seule candidature ».",
+   "page_start": 14,
+   "page_end": 15,
+   "modification": "Article unique de la loi constitutionnelle n° 2018-14 du 11 mai 2018 portant révision de la Constitution (JORS, n° 7094 du 12 mai 2018, p. 551), article unique donnant une nouvelle rédaction à l'article 29 de la Constitution.",
+   "hierarchy": {
+    "titre": "TITRE III - DU PRESIDENT DE LA REPUBLIQUE"
+   }
+  },
+  {
+   "article": "30",
+   "intitule": "",
+   "text": "« Trente-cinq jours francs avant le premier tour du scrutin, le Conseil constitutionnel arrête et publie la liste des candidats.\nLes électeurs sont convoqués par décret ».",
+   "page_start": 15,
+   "page_end": 15,
+   "modification": "Article unique de la loi constitutionnelle n° 2018-14 du 11 mai 2018 portant révision de la Constitution (JORS, n° 7094 du 12 mai 2018, p. 551), article unique donnant une nouvelle rédaction à l'article 30 de la Constitution.",
+   "hierarchy": {
+    "titre": "TITRE III - DU PRESIDENT DE LA REPUBLIQUE"
+   }
+  },
+  {
+   "article": "31",
+   "intitule": "",
+   "text": "Le scrutin pour l'élection du Président de la République a lieu quarante-cinq jours francs au plus et trente jours francs au moins avant la date de l'expiration du mandat du Président de la République en fonction.\nSi la Présidence est vacante, par démission, empêchement définitif ou décès, le scrutin aura lieu dans les soixante jours au moins et quatre vingt dix jours au plus, après la constatation de la vacance par le Conseil constitutionnel.",
+   "page_start": 15,
+   "page_end": 15,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE III - DU PRESIDENT DE LA REPUBLIQUE"
+   }
+  },
+  {
+   "article": "32",
+   "intitule": "",
+   "text": "Les Cours et Tribunaux veillent à la régularité de la campagne électorale et à l'égalité des candidats pour l'utilisation des moyens de propagande, dans les conditions déterminées par une loi organique.",
+   "page_start": 15,
+   "page_end": 15,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE III - DU PRESIDENT DE LA REPUBLIQUE"
+   }
+  },
+  {
+   "article": "33",
+   "intitule": "",
+   "text": "« Le scrutin a lieu un dimanche dans les conditions fixées par la loi.\nNul n'est élu au premier tour s'il n'a obtenu la majorité absolue des suffrages exprimés. Si aucun candidat n'a obtenu la majorité requise, il est procédé à un second tour de scrutin le deuxième dimanche qui suit la décision du Conseil constitutionnel.\nSont admis à se présenter à ce second tour, les deux candidats arrivés en tête au premier tour ».\nEn cas de contestation, le second tour a lieu le deuxième dimanche suivant le jour du prononcé de la décision du Conseil constitutionnel.\nAu second tour, la majorité relative suffit pour être élu ».",
+   "page_start": 15,
+   "page_end": 16,
+   "modification": "Article unique de la loi constitutionnelle n° 2018-14 du 11 mai 2018 portant révision de la Constitution (JORS, n° 7094 du 12 mai 2018, p. 551), article unique donnant une nouvelle rédaction à l'article 33 de la Constitution.",
+   "hierarchy": {
+    "titre": "TITRE III - DU PRESIDENT DE LA REPUBLIQUE"
+   }
+  },
+  {
+   "article": "34",
+   "intitule": "",
+   "text": "«En cas d'empêchement définitif ou de retrait d'un des candidats entre l'arrêt de publication de la liste des candidats et le premier tour, l'élection est poursuivie avec les autres candidats en lice. Le Conseil Constitutionnel modifie en conséquence la liste des candidats. La date du scrutin est maintenue ».\nEn cas de décès, d'empêchement définitif ou de retrait d'un des deux candidats arrivés en tête entre le scrutin du premier tour et la proclamation provisoire des résultats, ou entre cette proclamation provisoire et la proclamation définitive des résultats du premier tour par le Conseil constitutionnel, le candidat suivant dans l'ordre des suffrages est admis à se présenter au second tour.\nEn cas de décès, d'empêchement définitif ou de retrait d'un des deux candidats arrivés en tête entre la proclamation des résultats définitifs du premier tour et le scrutin du deuxième tour, le candidat suivant sur la liste des résultats du premier tour est admis au deuxième tour.\nDans les cas précédents, le Conseil constitutionnel constate le décès, l'empêchement définitif ou le retrait et fixe une nouvelle date du scrutin.\nEn cas de décès, d'empêchement définitif ou de retrait d'un des deux candidats arrivés en tête selon les résultats provisoires du deuxième tour, et avant la proclamation des résultats définitifs du deuxième tour par le Conseil constitutionnel, le seul candidat restant est déclaré élu.",
+   "page_start": 16,
+   "page_end": 16,
+   "modification": "Article unique de la loi constitutionnelle n° 2007- 19 du 19 février 2007, modifiant l'article 34 de la Constitution (JORS du 19 février 2007, p. 2210), article abrogeant et remplaçant l'alinéa premier.",
+   "hierarchy": {
+    "titre": "TITRE III - DU PRESIDENT DE LA REPUBLIQUE"
+   }
+  },
+  {
+   "article": "35",
+   "intitule": "",
+   "text": "Les Cours et Tribunaux veillent à la régularité du scrutin dans les conditions déterminées par une loi organique.\nLa régularité des opérations électorales peut être contestée par l'un des candidats devant le Conseil constitutionnel dans les soixante douze heures qui suivent la proclamation provisoire des résultats par une commission nationale de recensement des votes instituée par une loi organique.\nSi aucune contestation n'a été déposée dans les délais au greffe du Conseil constitutionnel, le Conseil proclame immédiatement les résultats définitifs du scrutin.\nEn cas de contestation, le Conseil statue sur la réclamation dans les cinq jours francs du dépôt de celle-ci. Sa décision emporte proclamation définitive du scrutin ou annulation de l'élection.\nEn cas d'annulation, il est procédé à un nouveau tour du scrutin dans les vingt et un jours francs qui suivent.",
+   "page_start": 17,
+   "page_end": 17,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE III - DU PRESIDENT DE LA REPUBLIQUE"
+   }
+  },
+  {
+   "article": "36",
+   "intitule": "",
+   "text": "Le Président de la République élu entre en fonction après la proclamation définitive de son élection et l'expiration du mandat de son prédécesseur.\nLe Président de la République en exercice reste en fonction jusqu'à l'installation de son successeur.\nAu cas où le Président de la République élu décède, se trouve définitivement empêché ou renonce au bénéfice de son élection avant son entrée en fonction, il est procédé à de nouvelles élections dans les conditions prévues à l'article 31.",
+   "page_start": 17,
+   "page_end": 17,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE III - DU PRESIDENT DE LA REPUBLIQUE"
+   }
+  },
+  {
+   "article": "37",
+   "intitule": "",
+   "text": "Le Président de la République est installé dans ses fonctions après avoir prêté serment devant le Conseil constitutionnel en séance publique.\nLe serment est prêté dans les termes suivants : “Devant Dieu et devant la\nNation sénégalaise, je jure de remplir fidèlement la charge de Président de la République du Sénégal, d'observer comme de faire observer scrupuleusement les dispositions de la Constitution et des lois, de consacrer toutes mes forces à défendre les institutions constitutionnelles, l'intégrité du territoire et l'indépendance nationale, de ne ménager enfin aucun effort pour la réalisation de l'unité africaine”.\nLe Président de la République nouvellement élu fait une déclaration écrite de patrimoine déposée au Conseil constitutionnel qui la rend publique.",
+   "page_start": 17,
+   "page_end": 18,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE III - DU PRESIDENT DE LA REPUBLIQUE"
+   }
+  },
+  {
+   "article": "38",
+   "intitule": "",
+   "text": "La charge de Président de la République est incompatible avec l'appartenance à toute assemblée élective, Assemblée nationale ou assemblées locales, et avec l'exercice de toute autre fonction, publique ou privée, rémunérée.\nToutefois, il a la faculté d'exercer des fonctions dans un parti politique ou d'être membre d'académies dans un des domaines du savoir.",
+   "page_start": 18,
+   "page_end": 18,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE III - DU PRESIDENT DE LA REPUBLIQUE"
+   }
+  },
+  {
+   "article": "39",
+   "intitule": "",
+   "text": "« En cas de démission, d'empêchement ou de décès, le Président de la\nRépublique est suppléé par le Président de l'Assemblée nationale.\nAu cas où celui-ci serait lui-même dans l'un des cas ci-dessus, la suppléance est assurée par l'un des vice-présidents de l'Assemblée nationale dans l'ordre de préséance ».",
+   "page_start": 18,
+   "page_end": 18,
+   "modification": "Article 4 de la loi constitutionnelle n° 2012-16 du 28 septembre 2012 portant révision de la Constitution (JORS, numéro spécial 6688 du 28 septembre 2012, p. 1187), article donnant une nouvelle rédaction à l'article 39.",
+   "hierarchy": {
+    "titre": "TITRE III - DU PRESIDENT DE LA REPUBLIQUE"
+   }
+  },
+  {
+   "article": "40",
+   "intitule": "",
+   "text": "Pendant la durée de la suppléance, les dispositions des articles 49, 51, 86, 87 et\n103 ne sont pas applicables.",
+   "page_start": 18,
+   "page_end": 18,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE III - DU PRESIDENT DE LA REPUBLIQUE"
+   }
+  },
+  {
+   "article": "41",
+   "intitule": "",
+   "text": "La démission, l'empêchement ou le décès du Président de la République sont constatés par le Conseil constitutionnel saisi par le Président de la République en cas de démission, par l'autorité appelée à le suppléer en cas d'empêchement ou de décès.",
+   "page_start": 18,
+   "page_end": 19,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE III - DU PRESIDENT DE LA REPUBLIQUE"
+   }
+  },
+  {
+   "article": "42",
+   "intitule": "",
+   "text": "Le Président de la République est le gardien de la Constitution. Il est le premier\nProtecteur des Arts et des Lettres du Sénégal.\nIl incarne l'unité nationale.\nIl est le garant du fonctionnement régulier des institutions, de l'indépendance nationale et de l'intégrité du territoire.\nIl détermine la politique de la Nation.\nIl préside le Conseil des Ministres.",
+   "page_start": 19,
+   "page_end": 19,
+   "modification": "Article premier de la loi constitutionnelle n° 2012-16 du 28 septembre 2012 portant révision de la constitution (JORS, numéro spécial 6688 du 28 septembre 2012, p. 1187), article remplaçant les mots « Président du Sénat » par les mots « Président de l'Assemblée nationale ».",
+   "hierarchy": {
+    "titre": "TITRE III - DU PRESIDENT DE LA REPUBLIQUE"
+   }
+  },
+  {
+   "article": "43",
+   "intitule": "",
+   "text": "Le Président de la République signe les ordonnances et les décrets.",
+   "page_start": 19,
+   "page_end": 19,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE III - DU PRESIDENT DE LA REPUBLIQUE"
+   }
+  },
+  {
+   "article": "44",
+   "intitule": "",
+   "text": "Le Président de la République nomme aux emplois civils.",
+   "page_start": 19,
+   "page_end": 19,
+   "modification": "Article 2 de la loi constitutionnelle n° 2009-22 du 19 juin 2009 instituant un poste de Vice-président de la République (JORS, numéro spécial du 19 juin 2009, p. 651), article ajoutant « 26, alinéa 2 à 5 » avant 45.",
+   "hierarchy": {
+    "titre": "TITRE III - DU PRESIDENT DE LA REPUBLIQUE"
+   }
+  },
+  {
+   "article": "45",
+   "intitule": "",
+   "text": "Le Président de la République est responsable de la Défense nationale. Il préside le Conseil supérieur de la Défense nationale et le Conseil national de\nSécurité.\nIl est le Chef suprême des Armées ; il nomme à tous les emplois militaires et dispose de la force armée.",
+   "page_start": 20,
+   "page_end": 20,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE III - DU PRESIDENT DE LA REPUBLIQUE"
+   }
+  },
+  {
+   "article": "46",
+   "intitule": "",
+   "text": "Le Président de la République accrédite les ambassadeurs et les envoyés extraordinaires auprès des puissances étrangères.\nLes ambassadeurs et les envoyés extraordinaires des puissances étrangères sont accrédités auprès de lui.",
+   "page_start": 20,
+   "page_end": 20,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE III - DU PRESIDENT DE LA REPUBLIQUE"
+   }
+  },
+  {
+   "article": "47",
+   "intitule": "",
+   "text": "Le Président de la République a le droit de faire grâce.",
+   "page_start": 20,
+   "page_end": 20,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE III - DU PRESIDENT DE LA REPUBLIQUE"
+   }
+  },
+  {
+   "article": "48",
+   "intitule": "",
+   "text": "Le Président de la République peut adresser des messages à la Nation.",
+   "page_start": 20,
+   "page_end": 20,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE III - DU PRESIDENT DE LA REPUBLIQUE"
+   }
+  },
+  {
+   "article": "49",
+   "intitule": "",
+   "text": "Le Président de la République nomme le Premier Ministre et met fin à ses fonctions.\nSur proposition du Premier Ministre, le Président de la République nomme les\nMinistres, fixe leurs attributions et met fin à leurs fonctions.",
+   "page_start": 20,
+   "page_end": 20,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE III - DU PRESIDENT DE LA REPUBLIQUE"
+   }
+  },
+  {
+   "article": "50",
+   "intitule": "",
+   "text": "Le Président de la République peut déléguer par décret certains pouvoirs au Premier Ministre ou aux autres membres du Gouvernement à l'exception des pouvoirs prévus aux articles 42, 46, 47, 49, 51, 52, 72, 73, 87, 89 et 90.\nIl peut en outre autoriser le Premier Ministre à prendre des décisions par décret.",
+   "page_start": 20,
+   "page_end": 21,
+   "modification": "Article 3 de la loi constitutionnelle n° 2012-16 du 28 septembre 2012 portant révision de la Constitution (JORS, numéro spécial 6688 du 28 septembre 2012, p. 1187), article supprimant après « certains pouvoirs » les mots « au Viceprésident ».",
+   "hierarchy": {
+    "titre": "TITRE III - DU PRESIDENT DE LA REPUBLIQUE"
+   }
+  },
+  {
+   "article": "51",
+   "intitule": "",
+   "text": "Le Président de la République peut, après avoir recueilli l'avis du Président de l'Assemblée nationale et du Conseil constitutionnel, soumettre tout projet de loi constitutionnelle au référendum.\nIl peut, sur proposition du Premier Ministre et après avoir recueilli l'avis des autorités indiquées ci-dessus, soumettre tout projet de loi au référendum.\nLes Cours et Tribunaux veillent à la régularité des opérations de référendum. Le\nConseil constitutionnel en proclame les résultats.",
+   "page_start": 21,
+   "page_end": 21,
+   "modification": "Article 4 de la loi constitutionnelle n° 2012-16 du 28 septembre 2012 portant révision de la Constitution (JORS, numéro spécial 6688 du 28 septembre 2012, p. 1187), article supprimant les références « au Président du Sénat » introduites par la loi constitutionnelle n° 2007-06 du 12 février 2007 créant un Sénat (JORS du 10 mars 2007, p. 2387).",
+   "hierarchy": {
+    "titre": "TITRE III - DU PRESIDENT DE LA REPUBLIQUE"
+   }
+  },
+  {
+   "article": "52",
+   "intitule": "",
+   "text": "Lorsque les institutions de la République, l'indépendance de la Nation, l'intégrité du territoire national ou l'exécution des engagements internationaux sont menacées d'une manière grave et immédiate, et que le fonctionnement régulier des pouvoirs publics ou des institutions est interrompu, le Président de la République dispose de pouvoirs exceptionnels.\nIl peut, après en avoir informé la Nation par un message, prendre toute mesure tendant à rétablir le fonctionnement régulier des pouvoirs publics et des institutions et à assurer la sauvegarde de la Nation.\nIl ne peut, en vertu des pouvoirs exceptionnels, procéder à une révision constitutionnelle.",
+   "page_start": 21,
+   "page_end": 21,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE III - DU PRESIDENT DE LA REPUBLIQUE"
+   }
+  },
+  {
+   "article": "53",
+   "intitule": "",
+   "text": "Le Gouvernement comprend le Premier Ministre, chef du Gouvernement, et les\nMinistres.\nLe Gouvernement conduit et coordonne la politique de la Nation sous la direction du Premier Ministre. Il est responsable devant le Président de la République et devant l'Assemblée nationale dans les conditions prévues par les articles 85 et 86 de la Constitution.",
+   "page_start": 22,
+   "page_end": 23,
+   "modification": "Article 5 de la loi constitutionnelle n° 2007-06 du 12 février 2007 créant un Sénat (JORS du 10 mars 2007, p. 2387), article modifiant les quatrième, cinquième et sixième alinéas.",
+   "hierarchy": {
+    "titre": "TITRE IV - DU GOUVERNEMENT"
+   }
+  },
+  {
+   "article": "54",
+   "intitule": "",
+   "text": "La qualité de membre du Gouvernement est incompatible avec un mandat parlementaire et toute activité professionnelle publique ou privée rémunérée.\nLes modalités d'application du présent article sont fixées par une loi organique.",
+   "page_start": 23,
+   "page_end": 23,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE IV - DU GOUVERNEMENT"
+   }
+  },
+  {
+   "article": "55",
+   "intitule": "",
+   "text": "Après sa nomination, le Premier Ministre fait sa déclaration de politique générale devant l'Assemblée nationale. Cette déclaration est suivie d'un débat qui peut, à la demande du Premier Ministre, donner lieu à un vote de confiance.\nEn cas de vote de confiance, celle-ci est accordée à la majorité absolue des membres de l'Assemblée nationale.",
+   "page_start": 23,
+   "page_end": 23,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE IV - DU GOUVERNEMENT"
+   }
+  },
+  {
+   "article": "56",
+   "intitule": "",
+   "text": "Le Gouvernement est une institution collégiale et solidaire. La démission ou la cessation des fonctions du Premier Ministre entraîne la démission de l'ensemble des membres du Gouvernement.",
+   "page_start": 23,
+   "page_end": 23,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE IV - DU GOUVERNEMENT"
+   }
+  },
+  {
+   "article": "57",
+   "intitule": "",
+   "text": "Le Premier Ministre dispose de l'administration et nomme aux emplois civils déterminés par la loi.\nIl assure l'exécution des lois et dispose du pouvoir réglementaire sous réserve des dispositions de l'article 43 de la Constitution.\nLes actes réglementaires du Premier Ministre sont contresignés par les membres du Gouvernement chargés de leur exécution.\nLe Premier Ministre préside les Conseils interministériels. Il préside les réunions ministérielles ou désigne, à cet effet, un Ministre.\nIl peut déléguer certains de ses pouvoirs aux Ministres.",
+   "page_start": 23,
+   "page_end": 23,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE IV - DU GOUVERNEMENT"
+   }
+  },
+  {
+   "article": "58",
+   "intitule": "",
+   "text": "« La Constitution garantit aux partis politiques qui s'opposent à la politique du\nGouvernement le droit de s'opposer.\nLa Constitution garantit à l'opposition un statut qui lui permet de s'acquitter de ses missions.\nLa loi définit ce statut et fixe les droits et devoirs y afférents ainsi que ceux du\nChef de l'opposition ».",
+   "page_start": 24,
+   "page_end": 24,
+   "modification": "Article premier de la loi constitutionnelle n° 2016-10 du 05 avril 2016 portant révision de la Constitution (JORS, numéro spécial 6926 du 07 avril 2016, p. 505), article modifiant et remplaçant l'article 58.",
+   "hierarchy": {
+    "titre": "TITRE V - DE L'OPPOSITION"
+   }
+  },
+  {
+   "article": "59",
+   "intitule": "",
+   "text": "« L'Assemblée représentative de la République du Sénégal porte le nom d'Assemblée nationale. Elle exerce le pouvoir législatif. Elle vote, seule, la loi, contrôle l'action du Gouvernement et évalue les politiques publiques. Les membres de l'Assemblée nationale portent le titre de député.\nLes députés sont élus au suffrage universel direct. Leur mandat est de cinq ans.\nIl ne peut être abrégé que par dissolution de l'Assemblée nationale.\nLes Sénégalais de l'extérieur élisent des députés.\nLes cours et tribunaux veillent à la régularité de la campagne électorale et du scrutin dans les conditions déterminées par une loi organique.\nUne loi organique fixe le nombre des membres de l'Assemblée nationale, leurs indemnités, les conditions d'éligibilité, le régime des inéligibilités et des incompatibilités ».",
+   "page_start": 24,
+   "page_end": 25,
+   "modification": "Article premier de la loi constitutionnelle n° 2016-10 du 05 avril 2016 portant révision de la Constitution (JORS, numéro spécial 6926 du 07 avril 2016, p. 505), article modifiant et remplaçant l'article 59.",
+   "hierarchy": {
+    "titre": "TITRE VI - DE L'ASSEMBLEE NATIONALE"
+   }
+  },
+  {
+   "article": "60",
+   "intitule": "",
+   "text": "« Tout député qui démissionne de son parti en cours de législature est automatiquement déchu de son mandat. Il est remplacé dans les conditions déterminées par une loi organique ».",
+   "page_start": 25,
+   "page_end": 25,
+   "modification": "Article premier de la loi constitutionnelle n° 2016-10 du 05 avril 2016 portant révision de la Constitution (JORS, numéro spécial 6926 du 07 avril 2016, p. 505), article modifiant et remplaçant l'article 60.",
+   "hierarchy": {
+    "titre": "TITRE VI - DE L'ASSEMBLEE NATIONALE"
+   }
+  },
+  {
+   "article": "61",
+   "intitule": "",
+   "text": "Aucun membre « de l'Assemblée nationale » ne peut être poursuivi, recherché, arrêté, détenu ou jugé à l'occasion des opinions ou votes émis par lui dans l'exercice de ses fonctions. Aucun membre « de l'Assemblée nationale » ne peut, pendant la durée des sessions, être poursuivi ou arrêté, en matière criminelle ou correctionnelle, qu'avec l'autorisation de l'assemblée dont il fait partie.\nLe membre « de l'Assemblée nationale » ne peut, hors session, être arrêté qu'avec l'autorisation du bureau de l'assemblée dont il fait partie, sauf en cas de crime ou de délit flagrant tel que prévu par l'alinéa précédent ou de condamnation pénale définitive.\nLa poursuite d'un membre « de l'Assemblée nationale » ou sa détention du fait de cette poursuite est suspendue si l'assemblée dont il fait partie le requiert.\nLe membre « de l'Assemblée nationale » qui fait l'objet d'une condamnation pénale définitive est radié de la liste des parlementaires sur demande du\nMinistre de la Justice.",
+   "page_start": 25,
+   "page_end": 26,
+   "modification": "Article 2 de la loi constitutionnelle n° 2012-16 du 28 septembre 2012 portant révision de la Constitution (JORS, numéro spécial 6688 du 28 septembre 2012 p. 1187), article substituant les mots « de l'Assemblée nationale » aux mots « du Parlement ».",
+   "hierarchy": {
+    "titre": "TITRE VI - DE L'ASSEMBLEE NATIONALE"
+   }
+  },
+  {
+   "article": "62",
+   "intitule": "",
+   "text": "« La loi organique portant Règlement intérieur de l'Assemblée nationale détermine : - la composition, les règles de fonctionnement du bureau, ainsi que les pouvoirs, prérogatives et durée du mandat de son Président ; - le nombre, le mode de désignation, la composition, le rôle et la compétence de ses commissions permanentes, sans préjudice du droit, pour l'Assemblée nationale, de créer des commissions spéciales temporaires ; - l'organisation des services administratifs placés sous l'autorité du Président de l'Assemblée, assisté d'un secrétaire général administratif ; - les conditions de constitution des groupes parlementaires et d'affiliation des députés auxdits groupes ;\n- le régime disciplinaire de ses membres ;\n- les différents modes de scrutin, à l'exclusion de ceux prévus expressément par la Constitution ; - d'une façon générale, toutes les règles ayant pour objet le fonctionnement de l'Assemblée nationale dans le cadre de sa compétence constitutionnelle ».",
+   "page_start": 26,
+   "page_end": 26,
+   "modification": "Article premier de la loi constitutionnelle n° 2016-10 du 05 avril 2016 portant révision de la Constitution (JORS, numéro spécial 6926 du 07 avril 2016, p. 505), article modifiant et remplaçant l'article 62.",
+   "hierarchy": {
+    "titre": "TITRE VI - DE L'ASSEMBLEE NATIONALE"
+   }
+  },
+  {
+   "article": "63",
+   "intitule": "",
+   "text": "« A l'exception de la date d'ouverture de la première session de l'Assemblée nationale nouvellement élu, qui est fixée par le Président de la République, l'Assemblée nationale fixe, la date d'ouverture et la durée de la Session ordinaire unique du Parlement. Celles-ci sont toutefois régies par les règles ciaprès.\nL'Assemblée se réunit de plein droit en une session ordinaire unique qui commence dans la première quinzaine du mois d'octobre et qui prend fin dans la seconde quinzaine du mois de juin de l'année suivante.\nAu cas où la session ordinaire ou une session extraordinaire est close sans que l'Assemblée nationale n'ait fixé la date d'ouverture de sa prochaine session ordinaire, celle-ci est fixée en temps utile par le Bureau de l'Assemblée nationale.\nLe Parlement est, en outre, réuni en session extraordinaire sur un ordre du jour déterminé, soit :\n- sur demande écrite de plus de la moitié des députés, adressée au Président de l'Assemblée nationale ;\n- sur décision du Président de la République, seul ou sur proposition du\nPremier Ministre.",
+   "page_start": 26,
+   "page_end": 27,
+   "modification": "Article premier de la loi constitutionnelle n° 2012-16 du 28 septembre 2012 portant révision de la Constitution (JORS, numéro spécial 6688 du 28 septembre 2012, p. 1187), article modifiant l'article 63 tel que déjà modifié par les lois constitutionnelles n° 2007-06 du 12 février 2007 (JORS du 10 mars 2007, p. 2387) et n° 2008-30 du 7 août 2008 (JORS du 8 août 2008, p. 752).",
+   "hierarchy": {
+    "titre": "TITRE VI - DE L'ASSEMBLEE NATIONALE"
+   }
+  },
+  {
+   "article": "64",
+   "intitule": "",
+   "text": "Le vote des membres « de l'Assemblée nationale » est personnel. Tout mandat impératif est nul.\nLa loi organique peut autoriser, exceptionnellement, la délégation de vote.\nDans ce cas, nul ne peut recevoir délégation de plus d'un mandat.",
+   "page_start": 27,
+   "page_end": 28,
+   "modification": "Article 2 de la loi constitutionnelle n° 2012-16 du 28 septembre 2012 portant révision de la Constitution (JORS, numéro spécial 6688 du 28 septembre 2012, p. 1187), article substituant les mots « de l'Assemblée nationale » aux mots « du Parlement ».",
+   "hierarchy": {
+    "titre": "TITRE VI - DE L'ASSEMBLEE NATIONALE"
+   }
+  },
+  {
+   "article": "65",
+   "intitule": "",
+   "text": "«\nL'Assemblée nationale peut déléguer à sa commission des délégations le pouvoir de prendre des mesures qui sont du domaine de la loi.",
+   "page_start": 28,
+   "page_end": 28,
+   "modification": "Article premier de la loi constitutionnelle n° 2012-16 du 28 septembre 2012 portant révision de la Constitution, (JORS, numéro spécial 6688 du 28 septembre 2012, p. 1187), article supprimant les mots « et le Sénat ».",
+   "hierarchy": {
+    "titre": "TITRE VI - DE L'ASSEMBLEE NATIONALE"
+   }
+  },
+  {
+   "article": "66",
+   "intitule": "",
+   "text": "« Les séances « de l'Assemblée nationale » sont publiques. Le huis clos n'est prononcé qu'exceptionnellement et pour une durée limitée.\nLe compte-rendu intégral des débats ainsi que les documents parlementaires sont publiés dans le journal des débats ou au journal officiel ».",
+   "page_start": 28,
+   "page_end": 29,
+   "modification": "Article 2 de la loi constitutionnelle n° 2012-16 du 28 septembre 2012 portant révision de la Constitution (JORS, numéro spécial 6688 du 28 septembre 2012, p. 1187), article substituant les mots « de l'Assemblée nationale » aux mots « du Parlement ».",
+   "hierarchy": {
+    "titre": "TITRE VI - DE L'ASSEMBLEE NATIONALE"
+   }
+  },
+  {
+   "article": "66-1",
+   "intitule": "",
+   "text": "Le Haut Conseil des Collectivités territoriales est une Assemblée consultative. Il donne un avis motivé sur les politiques de décentralisation et d'aménagement du territoire.\nUne loi organique détermine le mode de désignation, le nombre et le titre des membres, ainsi que les conditions d'organisation et de fonctionnement de l'institution ».",
+   "page_start": 29,
+   "page_end": 29,
+   "modification": "Article 4 de la loi constitutionnelle n° 2016-10 du 05 avril 2016 portant révision de la Constitution (JORS, numéro spécial 6926 du 07 avril 2016, p. 505), article créant l'article 66-1.",
+   "hierarchy": {
+    "titre": "TITRE VI BIS - DU HAUT CONSEIL DES COLLECTIVITES TERRITORIALES"
+   }
+  },
+  {
+   "article": "67",
+   "intitule": "",
+   "text": "« La loi est votée par l'Assemblée nationale ».\nLa loi fixe les règles concernant :\n- les droits civiques et les garanties fondamentales accordées aux citoyens pour l'exercice des libertés publiques, les sujétions imposées par la Défense nationale aux citoyens en leur personne et en leurs biens,\n- le statut de l'opposition,\n- la nationalité, l'état et la capacité des personnes, les régimes matrimoniaux, les successions et libéralités,\n- la détermination des crimes et délits ainsi que les peines qui leur sont applicables, la procédure pénale, l'amnistie, la création de nouveaux ordres de juridictions et le statut des magistrats,\n- l'assiette, le taux et les modalités de recouvrement des impositions de toutes natures, le régime d'émission de la monnaie,",
+   "page_start": 30,
+   "page_end": 30,
+   "modification": "Article 11 de la loi constitutionnelle n° 2007-06 du 12 février 2007 créant un Sénat (JORS du 10 mars 2007, p. 2387), article donnant une nouvelle rédaction à l'alinéa premier et article 2 de la loi constitutionnelle n° 2012-16 du 28 septembre 2012 substituant les mots « l'Assemblée nationale » aux mots « le Parlement ».",
+   "hierarchy": {
+    "titre": "TITRE VII - DES RAPPORTS ENTRE LE POUVOIR EXECUTIF ET LE POUVOIR LEGISLATIF"
+   }
+  },
+  {
+   "article": "68",
+   "intitule": "",
+   "text": "« L'Assemblée nationale vote les projets de lois de finances dans les conditions prévues par une loi organique.\nLe projet de loi de finances de l'année, qui comprend notamment le budget, est déposé sur le bureau de l'Assemblée nationale, au plus tard le jour de l'ouverture de la session ordinaire unique. L'Assemblée nationale dispose de soixante jours au plus pour voter les projets de lois de finances.\nSi, par suite d'un cas de force majeure, le Président de la République n'a pu déposer le projet de loi de finances de l'année en temps utile pour que l'Assemblée dispose, avant la fin de la session fixée, du délai prévu à l'alinéa précédent, la session est immédiatement et de plein droit prolongée jusqu'à l'adoption de la loi de finances.\nSi le projet de loi de finances n'est pas voté définitivement à l'expiration du délai de soixante jours prévu ci-dessus, il est mis en vigueur par décret, compte tenu des amendements votés par l'Assemblée nationale et acceptés par le\nPrésident de la République.\nSi compte-tenu de la procédure prévue ci-dessus, la loi de finances de l'année n'a pu être mise en vigueur avant le début de l'année financière, le Président de la République est autorisé à reconduire, par décret, les services votés.\nLa Cour des Comptes assiste le Président de la République, le Gouvernement et l'Assemblée nationale, dans le contrôle de l'exécution des lois de finances ».",
+   "page_start": 31,
+   "page_end": 32,
+   "modification": "Article premier de la loi constitutionnelle n° 2012-16 du 28 septembre 2012 portant révision de la Constitution (JORS, numéro spécial du 28 septembre 2012, p. 1187), article donnant une nouvelle rédaction à l'article 68.",
+   "hierarchy": {
+    "titre": "TITRE VII - DES RAPPORTS ENTRE LE POUVOIR EXECUTIF ET LE POUVOIR LEGISLATIF"
+   }
+  },
+  {
+   "article": "69",
+   "intitule": "",
+   "text": "L'Etat de siège, comme l'état d'urgence, est décrété par le Président de la\nRépublique. L'Assemblée nationale se réunit alors de plein droit, si elle n'est en session.\nLe décret proclamant l'état de siège ou l'état d'urgence cesse d'être en vigueur après douze jours, à moins que l'Assemblée nationale, saisie par le Président de la République, n'en ait autorisé la prorogation.\nLes modalités d'application de l'état de siège et de l'état d'urgence sont déterminées par la loi.",
+   "page_start": 32,
+   "page_end": 32,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE VII - DES RAPPORTS ENTRE LE POUVOIR EXECUTIF ET LE POUVOIR LEGISLATIF"
+   }
+  },
+  {
+   "article": "70",
+   "intitule": "",
+   "text": "La déclaration de guerre est autorisée par l'Assemblée nationale.\nLes droits et devoirs des citoyens, pendant la guerre ou en cas d'invasion ou d'attaque du territoire national par des forces de l'extérieur, font l'objet d'une loi organique.",
+   "page_start": 32,
+   "page_end": 33,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE VII - DES RAPPORTS ENTRE LE POUVOIR EXECUTIF ET LE POUVOIR LEGISLATIF"
+   }
+  },
+  {
+   "article": "71",
+   "intitule": "",
+   "text": "« Après son adoption par l'Assemblée nationale à la majorité absolue des suffrages exprimés, la loi est transmise sans délai au Président de la République pour promulgation ».",
+   "page_start": 33,
+   "page_end": 33,
+   "modification": "Article premier de la loi constitutionnelle n° 2016-10 du 05 avril 2016 portant révision de la Constitution (JORS, numéro spécial 6926 du 07 avril 2016, p. 505), article donnant une nouvelle rédaction à l'article 71.",
+   "hierarchy": {
+    "titre": "TITRE VII - DES RAPPORTS ENTRE LE POUVOIR EXECUTIF ET LE POUVOIR LEGISLATIF"
+   }
+  },
+  {
+   "article": "72",
+   "intitule": "",
+   "text": "Le Président de la République promulgue les lois définitivement adoptées dans les huit jours francs qui suivent l'expiration des délais de recours visés à l'article\n74.\nLe délai de promulgation est réduit de moitié en cas d'urgence déclarée par l'Assemblée nationale.",
+   "page_start": 33,
+   "page_end": 33,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE VII - DES RAPPORTS ENTRE LE POUVOIR EXECUTIF ET LE POUVOIR LEGISLATIF"
+   }
+  },
+  {
+   "article": "73",
+   "intitule": "",
+   "text": "Dans le délai fixé pour la promulgation, le Président de la République peut, par un message motivé, demander à l'Assemblée une nouvelle délibération qui ne peut être refusée. La loi ne peut être votée en seconde lecture que si les trois cinquièmes des membres composant l'Assemblée nationale se sont prononcés en sa faveur.",
+   "page_start": 33,
+   "page_end": 33,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE VII - DES RAPPORTS ENTRE LE POUVOIR EXECUTIF ET LE POUVOIR LEGISLATIF"
+   }
+  },
+  {
+   "article": "74",
+   "intitule": "",
+   "text": "Le Conseil constitutionnel peut être saisi d'un recours visant à faire déclarer une loi inconstitutionnelle :\n- par le Président de la République dans les six jours francs qui suivent la transmission à lui faite de la loi définitivement adoptée,\n- par un nombre de députés au moins égal au dixième des membres de l'Assemblée nationale, dans les six jours francs qui suivent son adoption définitive. - un troisième tiret, ajouté à l'article 74 par l'article 14 de la loi constitutionnelle n° 2007-06 du 12 février 2007 a été supprimé par l'article premier de la loi constitutionnelle n° 2012-16 du 28 septembre 2012 portant révision de la\nConstitution (JORS, numéro spécial du 28 septembre 2012, p. 1187).",
+   "page_start": 33,
+   "page_end": 34,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE VII - DES RAPPORTS ENTRE LE POUVOIR EXECUTIF ET LE POUVOIR LEGISLATIF"
+   }
+  },
+  {
+   "article": "75",
+   "intitule": "",
+   "text": "Le délai de la promulgation est suspendu jusqu'à l'issue de la seconde délibération de l'Assemblée nationale ou de la décision du Conseil constitutionnel déclarant la loi conforme à la Constitution.\nDans tous les cas, à l'expiration des délais constitutionnels, la promulgation est de droit ; il y est pourvu par le Président de l'Assemblée nationale.",
+   "page_start": 34,
+   "page_end": 34,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE VII - DES RAPPORTS ENTRE LE POUVOIR EXECUTIF ET LE POUVOIR LEGISLATIF"
+   }
+  },
+  {
+   "article": "76",
+   "intitule": "",
+   "text": "Les matières qui ne sont pas du domaine législatif en vertu de la présente\nConstitution ont un caractère réglementaire.\nLes textes de forme législative intervenus en ces matières peuvent être modifiés par décret si le Conseil constitutionnel, à la demande du Président de la République ou du Premier Ministre, a déclaré qu'ils ont un caractère réglementaire en vertu de l'alinéa précédent.",
+   "page_start": 34,
+   "page_end": 34,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE VII - DES RAPPORTS ENTRE LE POUVOIR EXECUTIF ET LE POUVOIR LEGISLATIF"
+   }
+  },
+  {
+   "article": "77",
+   "intitule": "",
+   "text": "« L'Assemblée nationale » peut habiliter par une loi le Président de la\nRépublique à prendre des mesures qui sont normalement du domaine de la loi.\nDans les limites de temps et de compétence fixées par la loi d'habilitation, le\nPrésident de la République prend des ordonnances qui entrent en vigueur dès leur publication mais deviennent caduques si le projet de loi de ratification n'est pas déposé sur le bureau de l'Assemblée nationale avant la date fixée par la loi d'habilitation. « L'Assemblée nationale » peut les amender à l'occasion du vote de la loi de ratification.",
+   "page_start": 34,
+   "page_end": 35,
+   "modification": "Article 15 de la loi constitutionnelle n°2007-06 du 12 février 2007 créant un Sénat, (JORS du 10 mars 2007, p. 2387), donnant une nouvelle rédaction à l'article 77 et article 2 de la loi constitutionnelle n° 2012-16 du 28 septembre 2012 portant révision de la Constitution (JORS, numéro spécial 6688 du 28 septembre 2012, p. 1187), article substituant les mots « l'Assemblée nationale » aux mots « le",
+   "hierarchy": {
+    "titre": "TITRE VII - DES RAPPORTS ENTRE LE POUVOIR EXECUTIF ET LE POUVOIR LEGISLATIF"
+   }
+  },
+  {
+   "article": "78",
+   "intitule": "",
+   "text": "« Les lois qualifiées organiques par la Constitution sont votées et modifiées à la majorité absolue des membres composant l'Assemblée nationale.\nElles ne peuvent être promulguées si le Conseil constitutionnel, obligatoirement saisi par le Président de la République, ne les a déclarées conformes à la Constitution.\nLes articles 65 et 77 de la présente Constitution ne sont pas applicables aux lois organiques ».",
+   "page_start": 35,
+   "page_end": 35,
+   "modification": "Article premier de la loi constitutionnelle n° 2016-10 du 05 avril 2016 portant révision de la Constitution (JORS, numéro spécial 6926 du 07 avril 2016, p. 505), article donnant une nouvelle rédaction à l'article 78.",
+   "hierarchy": {
+    "titre": "TITRE VII - DES RAPPORTS ENTRE LE POUVOIR EXECUTIF ET LE POUVOIR LEGISLATIF"
+   }
+  },
+  {
+   "article": "79",
+   "intitule": "",
+   "text": "Le Président de la République communique avec l'Assemblée nationale par des messages qu'il prononce ou qu'il fait lire et qui ne donnent lieu à aucun débat.",
+   "page_start": 35,
+   "page_end": 35,
+   "modification": "Article 15 de la loi constitutionnelle n°2007-06 du 12 février 2007 créant un Sénat, (JORS du 10 mars 2007, p. 2387), donnant une nouvelle rédaction à l'article 79 et article premier de la loi constitutionnelle n° 2012-16 du 28 septembre 2012 portant révision de la Constitution (JORS, numéro spécial 6688 du 28 septembre 2012, p. 1187), article supprimant les mots « et le Sénat » après les mots « A",
+   "hierarchy": {
+    "titre": "TITRE VII - DES RAPPORTS ENTRE LE POUVOIR EXECUTIF ET LE POUVOIR LEGISLATIF"
+   }
+  },
+  {
+   "article": "80",
+   "intitule": "",
+   "text": "« L'initiative des lois appartient concurremment au Président de la République, au Premier Ministre et aux députés ».",
+   "page_start": 35,
+   "page_end": 35,
+   "modification": "Article premier de la loi constitutionnelle n° 2012-16 du 28 septembre 2012 portant révision de la Constitution (JORS, numéro spécial 6688 du 28 septembre 2012, p. 1187), article donnant une nouvelle rédaction à l'article 80.",
+   "hierarchy": {
+    "titre": "TITRE VII - DES RAPPORTS ENTRE LE POUVOIR EXECUTIF ET LE POUVOIR LEGISLATIF"
+   }
+  },
+  {
+   "article": "81",
+   "intitule": "",
+   "text": "« Le Premier Ministre et les autres membres du Gouvernement peuvent être entendus à tout moment par l'Assemblée nationale et ses commissions. Ils peuvent se faire assister par des collaborateurs.\nLes commissions permanentes de l'Assemblée nationale peuvent entendre les directeurs généraux des établissements publics, des sociétés nationales et des agences d'exécution.\nCes auditions et moyens de contrôle sont exercés dans les conditions déterminées par la loi organique portant Règlement intérieur de l'Assemblée nationale ».",
+   "page_start": 36,
+   "page_end": 36,
+   "modification": "Article premier de la loi constitutionnelle n° 2016-10 du 05 avril 2016 portant révision de la Constitution (JORS, numéro spécial 6926 du 07 avril 2016, p. 505), article donnant une nouvelle rédaction à l'article 81.",
+   "hierarchy": {
+    "titre": "TITRE VII - DES RAPPORTS ENTRE LE POUVOIR EXECUTIF ET LE POUVOIR LEGISLATIF"
+   }
+  },
+  {
+   "article": "82",
+   "intitule": "",
+   "text": "Le Président de la République, le Premier Ministre, les députés et les sénateurs ont le droit d'amendement. Les amendements du Président de la République sont présentés par le Premier Ministre et les autres membres du\nGouvernement.\nNB : le groupe de mots « et les sénateurs » subsiste à l'alinéa premier nonobstant la suppression du Sénat en 2012.",
+   "page_start": 36,
+   "page_end": 36,
+   "modification": "Article 15 de la loi constitutionnelle n° 2007-06 du 12 février 2007 créant un Sénat, (JORS du 10 mars 2007, p. 2387).",
+   "hierarchy": {
+    "titre": "TITRE VII - DES RAPPORTS ENTRE LE POUVOIR EXECUTIF ET LE POUVOIR LEGISLATIF"
+   }
+  },
+  {
+   "article": "83",
+   "intitule": "",
+   "text": "« S'il apparaît, au cours de la procédure législative, qu'une proposition ou un amendement n'est pas du domaine de la loi, le Premier Ministre et les autres membres du Gouvernement peuvent opposer l'irrecevabilité.",
+   "page_start": 37,
+   "page_end": 37,
+   "modification": "Article 15 de la loi constitutionnelle n° 2007-06 du 12 février 2007 créant un Sénat (JORS du 10 mars 2007, p. 2387), article donnant une nouvelle rédaction à l'article 83.",
+   "hierarchy": {
+    "titre": "TITRE VII - DES RAPPORTS ENTRE LE POUVOIR EXECUTIF ET LE POUVOIR LEGISLATIF"
+   }
+  },
+  {
+   "article": "84",
+   "intitule": "",
+   "text": "« L'inscription, par priorité, à l'ordre du jour de l'Assemblée nationale ou du\nSénat d'un projet ou d'une proposition de loi ou d'une déclaration de politique générale, est de droit si le Président de la République ou le Premier Ministre en fait la demande ». NB : (La modification de l'article 84 annoncée par l'article premier de la loi constitutionnelle n°2012-16 du 28 septembre 2012 portant révision de la\nConstitution n'a pas été mise en œuvre. Par conséquent, les mots « ou du\nSénat » subsistent dans cet article).",
+   "page_start": 37,
+   "page_end": 38,
+   "modification": "Article 15 de la loi constitutionnelle n° 2007-06 du 12 février 2007 créant un Sénat (JORS du 10 mars 2007, p. 2387), article donnant une nouvelle rédaction à l'article 84.",
+   "hierarchy": {
+    "titre": "TITRE VII - DES RAPPORTS ENTRE LE POUVOIR EXECUTIF ET LE POUVOIR LEGISLATIF"
+   }
+  },
+  {
+   "article": "85",
+   "intitule": "",
+   "text": "« Les députés peuvent poser, au Premier Ministre et aux autres membres du\nGouvernement, qui sont tenus d'y répondre, des questions écrites.\nLes députés peuvent poser au Premier Ministre et aux membres du\nGouvernement, qui sont tenus d'y répondre, des questions orales et des questions d'actualité. Les questions et les réponses y afférentes ne sont pas suivies de vote.\nLe Premier Ministre et les autres membres du Gouvernement se présentent à l'Assemblée nationale, selon une périodicité à fixer d'accord parties, pour répondre aux questions d'actualité des députés.\nL'Assemblée nationale peut désigner, en son sein, des commissions d'enquête.\nLa loi détermine les conditions d'organisation et de fonctionnement ainsi que les pouvoirs des commissions d'enquête ».",
+   "page_start": 38,
+   "page_end": 38,
+   "modification": "Article premier de la loi constitutionnelle n° 2016-10 du 05 avril 2016 portant révision de la Constitution (JORS, numéro spécial 6926 du 07 avril 2016, p. 505), article donnant une nouvelle rédaction à l'article 85.",
+   "hierarchy": {
+    "titre": "TITRE VII - DES RAPPORTS ENTRE LE POUVOIR EXECUTIF ET LE POUVOIR LEGISLATIF"
+   }
+  },
+  {
+   "article": "86",
+   "intitule": "",
+   "text": "« Le Premier Ministre peut, après délibération en Conseil des ministres, décider de poser la question de confiance sur un programme ou une déclaration de politique générale. Le vote sur la question de confiance ne peut intervenir que deux jours francs après qu'elle a été posée. La confiance est refusée au scrutin public à la majorité absolue des membres composant l'Assemblée nationale. Le refus de confiance entraîne la démission collective du Gouvernement.\nL'Assemblée nationale peut provoquer la démission du Gouvernement par le vote d'une motion de censure.\nLa motion de censure doit, à peine d'irrecevabilité, être revêtue de la signature d'un dixième (1/10ème) des membres composant l'Assemblée nationale. Le vote de la motion de censure ne peut intervenir que deux jours francs après son dépôt sur le bureau de l'Assemblée nationale.\nLa motion de censure est votée au scrutin public, à la majorité absolue des membres composant l'Assemblée nationale ; seuls sont recensés les votes favorables à la motion de censure. Si la motion de censure est adoptée, le\nPremier Ministre remet immédiatement la démission du Gouvernement au\nPrésident de la République. Une motion de censure ne peut être déposée au cours de la même session.\nLe Premier Ministre peut, après délibération du Conseil des ministres, engager la responsabilité du Gouvernement devant l'Assemblée nationale sur le vote d'un projet de loi de finances. Dans ce cas, ce projet est considéré comme adopté, sauf si une motion de censure, déposée dans les vingt-quatre heures qui suivent, est votée dans les conditions prévues à l'alinéa précédent. Le\nPremier Ministre peut, en outre, recourir à cette procédure pour un autre projet ou une proposition de loi par session ».",
+   "page_start": 38,
+   "page_end": 39,
+   "modification": "Article premier de la loi constitutionnelle n° 2016-10 du 05 avril 2016 portant révision de la Constitution (JORS, numéro spécial 6926 du 07 avril 2016, p. 505), article donnant une nouvelle rédaction à l'article 86.",
+   "hierarchy": {
+    "titre": "TITRE VII - DES RAPPORTS ENTRE LE POUVOIR EXECUTIF ET LE POUVOIR LEGISLATIF"
+   }
+  },
+  {
+   "article": "87",
+   "intitule": "",
+   "text": "Le Président de la République peut, après avoir recueilli l'avis du Premier\nMinistre et celui du Président de l'Assemblée nationale, prononcer, par décret, la dissolution de l'Assemblée nationale.\nToutefois, la dissolution ne peut intervenir durant les deux premières années de législature.\nLe décret de dissolution fixe la date du scrutin pour l'élection des députés. Le scrutin a lieu soixante jours au moins et quatre vingt dix jours au plus après la date de publication dudit décret. L'Assemblée nationale dissoute ne peut se réunir. Toutefois, le mandat des députés n'expire qu'à la date de la proclamation de l'élection des membres de la nouvelle Assemblée nationale.",
+   "page_start": 39,
+   "page_end": 40,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE VII - DES RAPPORTS ENTRE LE POUVOIR EXECUTIF ET LE POUVOIR LEGISLATIF"
+   }
+  },
+  {
+   "article": "87-1",
+   "intitule": "",
+   "text": "Le Conseil économique, social et environnemental peut être consulté par le\nPrésident de la République, l'Assemblée nationale et le Gouvernement sur tout problème de caractère économique, social ou environnemental. Tout plan ou tout projet de loi de programmation à caractère économique, social ou environnemental lui est soumis pour avis.\nIl peut aussi, de sa propre initiative, émettre un avis sur l'ensemble des questions d'ordre économique, social ou environnemental intéressant les différents secteurs d'activités de la Nation. Une loi organique détermine le mode de désignation des membres du Conseil économique, social et environnemental ainsi que les conditions d'organisation et de fonctionnement de l'institution ».",
+   "page_start": 40,
+   "page_end": 41,
+   "modification": "Article 5 de la loi constitutionnelle n° 2012-16 du 28 septembre 2012 portant révision de la Constitution (JORS, numéro spécial 6688 du 28 septembre 2012, p. 1187), article donnant une nouvelle rédaction à l'article 87-1.",
+   "hierarchy": {
+    "titre": "TITRE VII - DES RAPPORTS ENTRE LE POUVOIR EXECUTIF ET LE POUVOIR LEGISLATIF - TITRE VII-1"
+   }
+  },
+  {
+   "article": "88",
+   "intitule": "",
+   "text": "Le pouvoir judiciaire est indépendant du pouvoir législatif et du pouvoir exécutif. Il est exercé par le Conseil constitutionnel, la « Cour suprême », la\nCour des Comptes et les Cours et Tribunaux.",
+   "page_start": 41,
+   "page_end": 41,
+   "modification": "Article unique de la loi constitutionnelle n° 2008-34 du 7 août 2008 portant révision de la Constitution (JORS du 8 août 2008, p. 755), article remplaçant les mots « Conseil d'Etat, Cour de Cassation » par « Cour suprême ».",
+   "hierarchy": {
+    "titre": "TITRE VIII - DU POUVOIR JUDICIAIRE"
+   }
+  },
+  {
+   "article": "89",
+   "intitule": "",
+   "text": "« Le Conseil constitutionnel comprend sept (07) membres dont un président, un vice-président et cinq (05) juges.\nLa durée de leur mandat est de six (06) ans.\nLe Président de la République nomme les membres du Conseil constitutionnel dont deux sur une liste de quatre personnalités proposées par le Président de l'Assemblée nationale.\nLe président du Conseil constitutionnel est nommé par le Président de la\nRépublique. Il a voix prépondérante en cas de partage.\nLes conditions à remplir pour pouvoir être nommé membre du Conseil constitutionnel sont déterminées par la loi organique.\nLe mandat des membres du Conseil constitutionnel ne peut être renouvelé. Il ne peut être mis fin aux fonctions des membres du Conseil constitutionnel avant l'expiration de leur mandat que sur leur demande ou pour incapacité physique, et dans les conditions prévues par la loi organique ».",
+   "page_start": 41,
+   "page_end": 42,
+   "modification": "Article premier de la loi constitutionnelle n° 2016-10 du 05 avril 2016 portant révision de la Constitution (JORS, numéro spécial 6926 du 07 avril 2016, p. 505), article donnant une nouvelle rédaction à l'article 89.",
+   "hierarchy": {
+    "titre": "TITRE VIII - DU POUVOIR JUDICIAIRE"
+   }
+  },
+  {
+   "article": "90",
+   "intitule": "",
+   "text": "Les magistrats autres que les membres du Conseil constitutionnel et de la Cour des Comptes sont nommés par le Président de la République après avis du\nConseil supérieur de la Magistrature. Les magistrats de la Cour des Comptes sont nommés par le Président de la République après avis du Conseil supérieur de la Cour des Comptes.\nLes juges ne sont soumis qu'à l'autorité de la loi dans l'exercice de leurs fonctions.\nLes magistrats du siège sont inamovibles.\nLa compétence, l'organisation et le fonctionnement du Conseil supérieur de la\nMagistrature ainsi que le statut des magistrats sont fixés par une loi organique.\nLa compétence, l'organisation et le fonctionnement du Conseil supérieur de la\nCour des Comptes ainsi que le statut des magistrats de la Cour des Comptes sont fixés par une loi organique.",
+   "page_start": 42,
+   "page_end": 42,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE VIII - DU POUVOIR JUDICIAIRE"
+   }
+  },
+  {
+   "article": "91",
+   "intitule": "",
+   "text": "Le pouvoir judiciaire est gardien des droits et libertés définis par la Constitution et la loi.",
+   "page_start": 42,
+   "page_end": 42,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE VIII - DU POUVOIR JUDICIAIRE"
+   }
+  },
+  {
+   "article": "92",
+   "intitule": "",
+   "text": "« Le Conseil constitutionnel connaît de la constitutionnalité des lois et des engagements internationaux, des conflits de compétence entre le pouvoir exécutif et le pouvoir législatif, ainsi que des exceptions d'inconstitutionnalité soulevées devant la Cour d'Appel ou la Cour suprême. Le Conseil constitutionnel peut être saisi par le Président de la République pour avis.\nLe Conseil constitutionnel juge de la régularité des élections nationales et des consultations référendaires et en proclame les résultats.\nLes décisions du Conseil constitutionnel ne sont susceptibles d'aucune voie de recours. Elles s'imposent aux pouvoirs publics et à toutes les autorités administratives et juridictionnelles.\nLa Cour des Comptes juge les comptes des comptables publics. Elle vérifie la régularité des recettes et des dépenses et s'assure du bon emploi des crédits, fonds et valeurs gérés par les services de l'Etat ou par les autres personnes morales de droit public. Elle assure la vérification des comptes et de la gestion des entreprises publiques et organismes à participation financière publique.\nElle déclare et apure les gestions de fait. Elle sanctionne les fautes de gestion commises à l'égard de l'Etat, des collectivités territoriales et des organismes soumis à son contrôle ».",
+   "page_start": 42,
+   "page_end": 43,
+   "modification": "Article premier de la loi constitutionnelle n° 2016-10 du 05 avril 2016 portant révision de la Constitution (JORS, numéro spécial 6926 du 07 avril 2016, p. 505), article donnant une nouvelle rédaction à l'article 92.",
+   "hierarchy": {
+    "titre": "TITRE VIII - DU POUVOIR JUDICIAIRE"
+   }
+  },
+  {
+   "article": "93",
+   "intitule": "",
+   "text": "Sauf cas de flagrant délit, les membres du Conseil constitutionnel ne peuvent être poursuivis, arrêtés, détenus ou jugés en matière pénale qu'avec l'autorisation du Conseil et dans les mêmes conditions que les membres de la «\nCour suprême » et de la Cour des Comptes.\nSauf cas de flagrant délit, les membres de la « Cour suprême » et de la Cour des Comptes ne peuvent être poursuivis, arrêtés, détenus ou jugés en matière pénale que dans les conditions prévues par la loi organique portant statut des magistrats.",
+   "page_start": 43,
+   "page_end": 43,
+   "modification": "Article unique de la loi constitutionnelle n° 2008-34 du 7 août 2008 portant révision de la Constitution (JORS du 8 août 2008, p. 755), article remplaçant les mots « Conseil d'Etat, Cour de Cassation » par « Cour suprême ».",
+   "hierarchy": {
+    "titre": "TITRE VIII - DU POUVOIR JUDICIAIRE"
+   }
+  },
+  {
+   "article": "94",
+   "intitule": "",
+   "text": "Des lois organiques déterminent les autres compétences du Conseil constitutionnel, de la « Cour suprême » et de la Cour des comptes ainsi que leur organisation, les règles de désignation de leurs membres et la procédure suivie devant elles.",
+   "page_start": 43,
+   "page_end": 44,
+   "modification": "Article unique de la loi constitutionnelle n° 2008-34 du 7 août 2008 portant révision de la Constitution (JORS du 8 août 2008, p. 755), article remplaçant les mots « Conseil d'Etat, Cour de Cassation » par « Cour suprême ».",
+   "hierarchy": {
+    "titre": "TITRE VIII - DU POUVOIR JUDICIAIRE"
+   }
+  },
+  {
+   "article": "95",
+   "intitule": "",
+   "text": "Le Président de la République négocie les engagements internationaux.",
+   "page_start": 44,
+   "page_end": 44,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE IX - DES TRAITES INTERNATIONAUX"
+   }
+  },
+  {
+   "article": "96",
+   "intitule": "",
+   "text": "Les traités de paix, les traités de commerce, les traités ou accords relatifs à l'organisation internationale, ceux qui engagent les finances de l'Etat, ceux qui modifient les dispositions de nature législative, ceux qui sont relatifs à l'état des personnes, ceux qui comportent cession, échange ou adjonction de territoire ne peuvent être ratifiés ou approuvés qu'en vertu d'une loi.\nIls ne prennent effet qu'après avoir été ratifiés ou approuvés.\nNulle cession, nulle adjonction de territoire n'est valable sans le consentement des populations intéressées.\nLa République du Sénégal peut conclure avec tout Etat africain des accords d'association ou de communauté comprenant abandon partiel ou total de souveraineté en vue de réaliser l'unité africaine.",
+   "page_start": 44,
+   "page_end": 44,
+   "modification": "Article 2 de la loi constitutionnelle n° 2012-16 du 28 septembre 2012 portant révision de la Constitution (JORS, numéro spécial 6688 du 28 septembre 2012, p. 1187), article substituant les mots « de l'Assemblée nationale » aux mots « du Parlement » auxquels faisait référence la loi constitutionnelle n° 2008-33 du 7 août 2008 (JORS du 8 août 2008, p. 754).",
+   "hierarchy": {
+    "titre": "TITRE IX - DES TRAITES INTERNATIONAUX"
+   }
+  },
+  {
+   "article": "97",
+   "intitule": "",
+   "text": "Si le Conseil constitutionnel a déclaré qu'un engagement international comporte une clause contraire à la Constitution, l'autorisation de le ratifier ou de l'approuver ne peut intervenir qu'après la révision de la Constitution.",
+   "page_start": 44,
+   "page_end": 45,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE IX - DES TRAITES INTERNATIONAUX"
+   }
+  },
+  {
+   "article": "98",
+   "intitule": "",
+   "text": "Les traités ou accords régulièrement ratifiés ou approuvés ont, dès leur publication, une autorité supérieure à celle des lois, sous réserve, pour chaque accord ou traité, de son application par l'autre partie.",
+   "page_start": 45,
+   "page_end": 45,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE IX - DES TRAITES INTERNATIONAUX"
+   }
+  },
+  {
+   "article": "99",
+   "intitule": "",
+   "text": "Il est institué une Haute Cour de Justice.",
+   "page_start": 45,
+   "page_end": 45,
+   "modification": "",
+   "hierarchy": {
+    "titre": "TITRE X - DE LA HAUTE COUR DE JUSTICE"
+   }
+  },
+  {
+   "article": "100",
+   "intitule": "",
+   "text": "« de ces assemblées ». « La Haute Cour de Justice est composée de membres élus par l'Assemblée nationale après chaque renouvellement.\nElle est présidée par un magistrat.\nL'organisation de la Haute Cour de Justice et la procédure suivie devant elle sont déterminées par une loi organique ».",
+   "page_start": 45,
+   "page_end": 45,
+   "modification": "Article premier de la loi constitutionnelle n° 2012-16 du 28 septembre 2012 portant révision de la constitution (JORS, numéro spécial 6688 du 28 septembre 2012, p. 1187), article supprimant après les mots « de membres élus », les mots « en nombre égal », après les mots « par l'Assemblée nationale », les mots « et le Sénat » et après les mots « chaque renouvellement », les mots",
+   "hierarchy": {
+    "titre": "TITRE X - DE LA HAUTE COUR DE JUSTICE"
+   }
+  },
+  {
+   "article": "101",
+   "intitule": "",
+   "text": "« Le Président de la République n'est responsable des actes accomplis dans l'exercice de ses fonctions qu'en cas de haute trahison. Il ne peut être mis en accusation que par l'Assemblée nationale, statuant par un vote identique au scrutin secret, à la majorité des trois cinquièmes des membres les composant ; il est jugé par la Haute Cour de Justice.\nNB : en modifiant l'alinéa premier pour substituer les mots « Assemblée nationale » aux mots « des assemblées », la loi constitutionnelle de 2012 a omis d'en tirer les conséquences et de supprimer l'adjectif « identique » après « un vote » et de remplacer, avant « composant », l'article « les » par l'article « la ».\nLe Premier Ministre et les autres membres du Gouvernement sont pénalement responsables des actes accomplis dans l'exercice de leurs fonctions et qualifiés crimes ou délits au moment où ils ont été commis. Ils sont jugés par la Haute\nCour de Justice. La procédure définie ci-dessus leur est applicable, ainsi qu'à leurs complices, dans le cas de complot contre la sûreté de l'Etat. Dans les cas prévus au présent alinéa, la Haute Cour est liée par la définition des crimes et délits ainsi que par la détermination des peines, telles qu'elles résultent des lois pénales en vigueur au moment où les faits ont été commis ».",
+   "page_start": 45,
+   "page_end": 46,
+   "modification": "Article 2 de la loi constitutionnelle n° 2012-16 du 28 septembre 2012 portant révision de la Constitution (JORS, numéro spécial 6688 du 28 septembre 2012, p. 1187), article substituant les mots « de l'Assemblée nationale » aux mots « des deux assemblées ».",
+   "hierarchy": {
+    "titre": "TITRE X - DE LA HAUTE COUR DE JUSTICE"
+   }
+  },
+  {
+   "article": "102",
+   "intitule": "",
+   "text": "« Les collectivités territoriales constituent le cadre institutionnel de la participation des citoyens à la gestion des affaires publiques. Elles s'administrent librement par des assemblées élues au suffrage universel direct.\nElles participent, à la territorialisation des politiques publiques, à la mise en œuvre de la politique générale de l'Etat ainsi qu'à l'élaboration et au suivi des programmes de développement spécifiques à leurs territoires.\nNB : les mots « à la faveur de » figurant dans l'alinéa premier du texte promulgué par le Président de la République, après les mots « Elles participent\n», ont été omis dans l'édition du Journal officiel, donnant ainsi une autre compréhension de la disposition.\nLeur organisation, leur composition et leur fonctionnement sont déterminés par la loi.\nLa mise en œuvre de la décentralisation est accompagnée par la déconcentration qui est la règle générale de répartition des compétences et des moyens entre les administrations civiles de l'Etat ».",
+   "page_start": 46,
+   "page_end": 47,
+   "modification": "Article premier de la loi constitutionnelle n° 2016-10 du 05 avril 2016 portant révision de la Constitution (JORS, numéro spécial 6926 du 07 avril 2016, p. 505), article donnant une nouvelle rédaction à l'article 102.",
+   "hierarchy": {
+    "titre": "TITRE XI - DES COLLECTIVITES TERRITORIALES"
+   }
+  },
+  {
+   "article": "103",
+   "intitule": "",
+   "text": "« L'initiative de la révision de la Constitution appartient concurremment au\nPrésident de la République et aux députés.\nLe Premier Ministre peut proposer au Président de la République une révision de la Constitution.\nLe projet ou la proposition de révision de la Constitution est adopté par l'Assemblée nationale selon la procédure prévue à l'article 71 de la présente Constitution. La révision est définitive après avoir été approuvée par référendum.\nToutefois, le projet ou la proposition n'est pas présenté au référendum lorsque le Président de la République décide de le soumettre à l'Assemblée nationale.\nDans ce cas, le projet ou la proposition n'est approuvé que s'il réunit la majorité des trois cinquièmes (3/5) des suffrages exprimés.\nLes articles 65 et 77 de la présente Constitution ne sont pas applicables aux lois constitutionnelles.\nLa forme républicaine de l'Etat, le mode d'élection, la durée et le nombre de mandats consécutifs du Président de la République ne peuvent faire l'objet de révision.\nL'alinéa 7 du présent article ne peut être l'objet de révision ».",
+   "page_start": 47,
+   "page_end": 48,
+   "modification": "Article premier de la loi constitutionnelle n° 2016-10 du 05 avril 2016 portant révision de la Constitution (JORS, numéro spécial 6926 du 07 avril 2016, p. 505), article donnant une nouvelle rédaction à l'article 103.",
+   "hierarchy": {
+    "titre": "TITRE XII - DE LA REVISION"
+   }
+  }
+ ]
+}

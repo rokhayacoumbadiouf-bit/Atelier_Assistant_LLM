@@ -1,0 +1,1601 @@
+# Loi n° 2023-21 du 29 décembre 2023 portant Code de la Construction
+# Source : République du Sénégal (Assemblée nationale / Présidence) - fourni par l'équipe (code-construction-senegal.pdf)
+# Version : Loi n° 2023-21 adoptée le 20/12/2023, promulguée le 29/12/2023 ; abroge la loi n° 2009-23 du 08/07/2009 | Consulté le 2026-10-23
+# Pages PDF 1-46
+
+[[page 1]]
+RÉPUBLIQUE DU SÉNÉGAL Un Peuple - Un But - Une foi
+
+Loi portant Code de la Construction
+
+EXPOSE DES MOTIFS
+
+La réglementation du secteur de la construction constitue l'une des préoccupations majeures des pouvoirs publics. C'est dans ce sens que la loi n° 2009-23 du 08 juillet 2009 portant Code de la Construction avait été élaborée pour assurer aux ouvrages une meilleure qualité d'exécution, une fiabilité durable et une sécurité renforcée permettant d'éviter ainsi tous dommages et accidents préjudiciables à l'exercice de l'activité.
+
+Seulement en dépit des résultats forts appréciables, le cadre légal est marqué par les changements intervenus dans le secteur de la construction. En effet, celui-ci connaît, depuis quelques années, des bouleversements majeurs engendrés par la pression démographique, l'amplification de l'urbanisation et les mutations socioéconomiques, technologiques et climatiques. Aussi le secteur est-il marqué par une forte propension à l'auto-construction et à linformel avec comme corollaires, l'insécurité dans la construction et les effondrements de
+
+bâtiments.
+
+Au plan interne, le Plan Sénégal Emergent, cadre de référence de la politique économique et sociale du pays, préconise la mise en place d'un écosystème de la construction susceptible de multiplier la création d'emplois, assurer l'inclusion sociale et renforcer la sécurité dans les bâtiments pour le bien-être des populations.
+
+Du point de vue de la gouvernance territoriale, la loi n° 2013-10 du 28 décembre 2013 portant Code général des Collectivités territoriales, modifiée, apporte d'importants changements. Elle consacre la communalisation intégrale tout en rappelant les compétences de la commune en matière d'urbanisme. À ce titre, elle est notamment chargée de veiller au respect des normes dans le cadre de la délivrance des autorisations de construire, lesquelles normes intègrent également la dimension environnementale.
+
+Le Sénégal a, en effet, ratifié plusieurs traités et accords dont celui de Paris sur le climat qui a pour objectif principal la réduction des émissions de gaz à effet de serre. Au niveau communautaire, les engagements souscrits concernant le secteur invitent à la prise en compte de l'efficacité énergétique dans la construction des bâtiments.
+
+Pour ces diverses raisons, il s'est avéré nécessaire de procéder à l'abrogation de la loi n° 2009- 23 du 8 juillet 2009 portant Code de la Construction et de mettre en place un nouveau cadre législatif avec les innovations majeures suivantes :
+
+- la définition des termes techniques utilisés afin d'en préciser le sens et la portée ;
+
+- le rapatriement dans la présente loi des dispositions pénales contenues dans le décret n°2010-99 du 27 janvier 2010 portant Code de la Construction ;
+
+- l'obligation de doter certains immeubles de places de parking suffisantes ;
+
+[[page 2]]
+- le renforcement de l'arsenal juridique en matière d'efficacité énergétique ;
+
+- Ja prise en compte des droits des personnes à mobilité réduite ;
+
+- l'obligation d'une autorisation d'ouverture de fouille pour toute construction soumise au contrôle technique obligatoire ;
+
+= le renforcement des pouvoirs de l'Inspection générale des bâtiments ;
+
+-__le renforcement de la sécurité des ascenseurs et des piscines ;
+
+= l'institution de la mixité sociale dans les programmes de construction d'immeuble collectif;
+
+= _ l'institution du contrôle technique obligatoire pour les programmes de construction de logements ;
+
+-_ l'institution de l'obligation de mener des études géotechniques pour certains types de construction.
+
+Le projet de Code comprend trois livres :
+- le livre premier traite des dispositions générales ;
+
+- le livre II est consacré aux dispositions relatives aux constructeurs ;
+- le livre III porte sur les dispositions relatives aux contrôles et aux sanctions.
+
+Telle est l'économie de la présente loi.
+
+[[page 3]]
+REPUBLIQUE DU SENEGAL Un Peuple-Un But-Une Foi
+
+*
+
+Loi n° 2023-21.
+portant Code de la Construction
+
+L'Assemblée nationale a adopté, en sa séance du mercredi 20 décembre 2023 ;
+
+Le Président de la République promulgue la loi dont la teneur suit :
+
+LIVRE PREMIER. - DISPOSITIONS GENERALES
+TITRE PREMIER. - OBJET ET DEFINITONS
+
+Chapitre premier. - Objet
+
+Article L. premier. - Le présent code fixe les règles de base dans le secteur de la construction
+en vue d'assurer la qualité des travaux de construction et la sécurité des usagers.
+
+Chapitre II. - Définitions
+
+Article L.2.- Au sens du présent code, on entend par :
+
+arrêté de péril : acte administratif de l'autorité compétente ayant pour objet d'entreprendre des travaux de réparation ou de démolition d'un immeuble menaçant ruine ;
+
+ascenseur : équipement mobile assurant le déplacement des personnes d'un étage à l'autre dans une construction ;
+
+assistance à maîtrise d'ouvrage : contrat ayant pour objet de définir les missions et les relations entre le maitre d'ouvrage, désigné MO, et l'assistant au maitre d'ouvrage, désigné AMO ;
+
+assistance architecturale : prestation fournie aux usagers permettant aux demandeurs d'obtenir à titre gracieux des services d'un professionnel de l'architecture pour des projets de construction ou de réhabilitation à faible coût ;
+
+audit énergétique : diagnostic détaillé des performances énergétiques du bâtiment comprenant un ensemble de solutions d'améliorations sur les plans économique, énergétique et environnemental ;
+
+autorisation de construire : acte administratif par lequel l'autorité publique compétente autorise un projet de construction conformément aux dispositions législatives et règlementaires en vigueur ;
+
+autorisation d'ouverture des fouilles : acte administratif par lequel l'autorité compétente autorise le démarrage effectif des travaux après soumission des documents techniques obligatoires par le maitre d'ouvrage ou les constructeurs ;
+
+bail à construction : contrat par lequel le preneur s'engage, à titre principal, à édifier des constructions sur le terrain loué et à les conserver en bon état d'entretien pendant toute la durée du contrat ;
+
+bail à réhabilitation : contrat par lequel le preneur s'engage à réaliser, dans un délai déterminé, des travaux d'amélioration sur l'immeuble loué et à le conserver en bon état d'entretien et de réparations de toute nature en vue de sa location pendant la durée du
+
+contrat ;
+
+[[page 4]]
+bâtiment : construction couverte, destiné à accueillir une occupation, une activité ou tout autre usage humain ;
+
+bâtiment à usage d'habitation : bâtiments ou parties de bâtiment abritant un ou plusieurs logements, à l'exclusion des locaux destinés à la vie professionnelle lorsque celle-ci ne s'exerce pas au moins partiellement dans le même ensemble de pièces que la vie familiale et certains locaux ;
+
+bâtiment menaçant ruine : tout mur, installation, bâtiment ou édifice présentant des signes extérieurs de risques d'effondrement total ou partiel et qui, d'avis d'expert, n'offre pas suffisamment de garanties de solidité et de stabilité et menace, de ce fait, la sécurité des personnes et des biens ;
+
+bureau d'étude technique : personne morale chargée de réaliser des prestations d'études dans un ou plusieurs corps d'état ou domaines techniques, nécessaires à la réalisation de tout ou partie d'un projet ;
+
+certificat de conformité : acte administratif attestant la conformité des travaux de construction réalisés avec le projet autorisé, notamment au regard du plan architectural autorisé ;
+
+constructeur : tout entrepreneur, architecte, ingénieur, technicien, bureau d'étude, bureau de contrôle technique ou autre personne intervenant dans la conception, la réalisation ou le contrôle de l'ouvrage et lié au maître d'ouvrage par un contrat de louage d'ouvrage ou de service ou toute personne qui, bien qu'agissant en qualité de mandataire du propriétaire de l'ouvrage, accomplit une mission identique à celle prévue par un contrat d'entreprise ;
+
+contrôle technique : mission visant à contribuer à la prévention des différents aléas techniques susceptibles de se produire dans les projets de construction et pouvant entrainer des sinistres ;
+
+construction : activité consistant à assembler différents éléments d'un édifice en utilisant des matériaux et des techniques appropriés. Il peut s'agir d'un édifice neuf ou de la modification d'un existant ;
+
+contrat de promotion immobilière : mandat d'intérêt commun par lequel une personne dite « Promoteur immobilier » s'oblige envers le maître d'ouvrage à faire procéder, pour un prix convenu, au Moyen de contrats d'entreprise, à la réalisation d'un programme de construction d'un ou de plusieurs édifices ainsi qu'à procéder ellemême ou à faire procéder, moyennant une rémunération convenue, à tout ou partie des opérations juridiques, administratives et financières concourant au même objet ;
+
+copropriété : tout immeuble ou groupe d'immeubles bâti dont la propriété est répartie, entre plusieurs personnes, par lots comprenant chacun une partie privative et un quote-part des parties communes ;
+
+contrat de réservation préliminaire : contrat de vente par lequel le vendeur, en qualité de réservant, s'engage à réserver à un acquéreur qui a la qualité de réservataire, un immeuble ou une partie d'immeuble, en contrepartie du versement par le réservataire d'un dépôt de garantie ;
+
+[[page 5]]
+économiste de la construction : personne physique ou morale engagée par le maitre d'ouvrage en vue d'estimer et d'optimiser le coût des travaux ;
+
+efficacité (efficience) énergétique : toute action agissant positivement sur la consommation de l'énergie, quelle que soit l'activité du secteur considéré, tendant à assurer la gestion optimale des ressources énergétiques, la maîtrise de la demande d'énergie, l'augmentation de la compétitivité de l'activité économique, la maîtrise des choix technologiques innovantes économiquement viable et l'utilisation rationnelle de l'énergie ;
+
+entrepreneur : personne physique ou morale qui, à la suite d'un contrat d'entreprise passé avec le maître d'ouvrage, s'engage à réaliser les travaux de construction d'un ouvrage ;
+
+établissement recevant du public : tout bâtiment, local ou enceinte dans lequel, en plus du personnel, des personnes sont admises, à titre gratuit ou onéreux ;
+
+gros ouvrages : structure porteuse et autres éléments qui leur sont indissociables et ceux qui assurent le clos, le couvert et l'étanchéité à l'exclusion de leurs parties mobiles ;
+
+immeuble collectif : tout bâtiment dans lequel sont superposés, même partiellement, plus de deux logements distincts desservis par des parties communes bâties ;
+
+locateur d'ouvrage : Tout intervenant passant un contrat de louage d'ouvrage avec un maître d'ouvrage - qu'il s'agisse de prestations intellectuelles ou de réalisation de l'ouvrage - et s'engageant à faire quelque chose pour ce dernier, moyennant un prix convenu entre eux ;
+
+logement : local construit à usage d'habitation ;
+
+ligne séparative : ligne séparant les limites de deux parcelles contiguës ;
+matériaux précaires : matériaux qui n'offrent aucune garantie de durabilité ;
+maître d'ouvrage : personne physique ou morale pour le compte de laquelle un ouvrage de bâtiment ou d'infrastructure est construit, modifié ou démoli, ou une étude est réalisée et qui en est le propriétaire final ; |
+
+maîtrise d'ouvrage : attributions et prérogatives exercées par le maître d'ouvrage ;
+maîtrise d'ouvrage déléguée : délégation par convention de tout ou partie des missions du maître d'ouvrage pour la réalisation de l'ouvrage ou des études ;
+
+maître d'œuvre : personne physique ou morale chargée par le maître d'ouvrage de prestations et d'attributions relatives aux aspects architecturaux, techniques et de suivi de la réalisation d'un ouvrage aux termes d'un contrat de maîtrise d'œuvre ;
+maîtrise d'œuvre : mission de conception, de suivi de travaux et d'assistance de maîtrise d'ouvrage dans la passation et la direction de l'exécution des contrats, dans l'ordonnancement, le pilotage et la coordination du chantier, dans les opérations de réception et pendant la période de garantie de parfait achèvement ;
+monte-charges : appareil mobile servant à élever ou descendre des objets volumineux et/ou lourds dans une construction ;
+
+mur mitoyen : mur construit sur la ligne séparative de deux propriétés voisines ;
+
+[[page 6]]
+A]
+
+ouvrage : résultat d'un ensemble de travaux de bâtiments exécutés par une entreprise ;
+
+performance énergétique d'un bâtiment : rapport entre la qualité architecturale d'un bâtiment et la consommation énergétique liée à son exploitation ;
+
+personne à mobilité réduite (PMR) : toute personne limitée dans ses possibilités d'interaction avec son environnement du fait d'une déficience provoquant une incapacité, permanente ou momentanée. La limitation se matérialise au niveau de l'expression, de la compréhension, de l'appréhension mais également de l'accessibilité.
+Elle englobe donc le handicap moteur, la cécité, la grossesse, une blessure, le transport d'un enfant à l'aide d'une poussette, l'utilisation d'une valise, etc. ;
+
+programme immobilier : programme d'aménagement comprenant une autorisation d'aménager et de construire dans les conditions prévues par le Code de l'Urbanisme ;
+promoteur immobilier : opérateur qui acquière légalement du foncier, fait concevoir son projet d'habitat, mobilise le financement nécessaire à la réalisation du projet, fait construire, commercialise ses unités d'habitation et suit le recouvrement de ses créances ;
+
+ravalement de façade : opération permettant de remettre en bon état les façades d'un bâtiment ;
+
+réception provisoire : acte par lequel le maître d'ouvrage déclare accepter l'ouvrage avec ou sans réserves ;
+
+réception définitive : acte par lequel le maître d'ouvrage déclare accepter l'ouvrage de façon définitive ;
+
+saillie : éléments d'architecture ou un corps d'ouvrage débordant un plan de référence ou un nu de la façade d'un bâtiment ;
+
+secteur immobilier : ensemble d'activités en rapport avec la construction et/ou le foncier (aménagement, construction, vente, location courtage, gestion d'immeuble, etc.) ;
+
+société coopérative d'habitat et de construction : organisation à capital variable dont l'objet est la construction d'un ou de plusieurs immeubles en vue de leur division par lots ou d'un ensemble de maisons individuelles groupées à usage d'habitation ou à usage professionnel et d'habitation destinés à être attribués ou vendus aux membres; |
+
+vente d'immeubles à construire : contrat par lequel toute personne physique ou morale qui acquiert, d'une manière habituelle ou occasionnelle, la libre disposition d'un terrain et accomplit les formalités juridiques et financières en vue de la construction d'un immeuble ou d'un ensemble d'immeubles dans un délai fixé par le contrat et destiné à être vendu ;
+
+vente à terme : contrat par lequel le vendeur et l'acheteur s'engagent, le premier à livrer l'immeuble ou la partie d'immeuble à céder à son achèvement, le second à en prendre possession en payant le prix convenu à la date de livraison ;
+
+[[page 7]]
+- vente en l'état futur d'achèvement : contrat par lequel le vendeur transfère immédiatement à l'acquéreur ses droits sur le sol ainsi que la propriété des constructions qui y sont réalisées au jour de la signature du contrat.
+
+TITRE II.- DISPOSITIONS APPLICABLES À TOUS LES BATIMENTS
+Chapitre premier. - Caractéristiques des bâtiments
+
+Article L.3. - Le projet de construction définit, par des documents graphiques et des
+documents écrits, l'implantation des bâtiments, leur composition, leur organisation et l'expression de leur volume ainsi que le choix des matériaux et des couleurs.
+
+La construction de bâtiments est soumise à la surveillance et au contrôle de l'État quant aux normes de conception et de réalisation, en complément des aspects de conformité par rapport aux destinations des sols déterminés par les plans d'urbanisme.
+
+Article L.4.- Toute personne qui construit un ensemble d'habitations, un bâtiment à usage
+industriel ou tertiaire, un établissement recevant du public ou un immeuble de grande hauteur doit mettre en place des infrastructures suffisantes permettant le stationnement sécurisé des voitures automobiles.
+
+Un arrêté du Ministre chargé de la Construction fixe les modalités d'application du présent
+article, notamment le nombre minimal de places selon la catégorie et la taille des bâtiments
+ainsi que la nature des dispositifs de sécurisation adaptés aux risques des places de stationnement.
+
+Article L.5. - Nul ne peut entreprendre une construction, de quelque nature que ce soit ou
+apporter des modifications structurelles ou susceptibles d'impacter la sécurité, sans autorisation administrative préalable.
+
+L'autorisation de construire obéit aux dispositions prévues par le Code de l'Urbanisme.
+
+Article L.6. - Le démarrage des travaux de construction est signalé par un panneau de
+chantier conformément aux dispositions du Code de l'Urbanisme.
+
+Chapitre II.- Dispositions générales d'hygiène et de sécurité applicables aux
+bâtiments
+
+Article L.7.-Les bâtiments sont conçus, construits, équipés, aménagés, entretenus ou
+rénovés sans porter atteinte à la santé des personnes, dans les conditions normales d'occupation et d'usage.
+
+Un décret fixe les règles générales d'hygiène et de sécurité, les mesures d'entretien et de démolition des bâtiments ainsi que les modalités qui justifient l'exécution de ces mesures.
+
+Article L.8.- Le projet de construction de bâtiment respecte les règles de construction fixées
+par un plan de prévention des risques prévisibles, tels que les inondations, les mouvements de terrain, les incendies de forêt, les tempêtes, etc.
+
+[[page 8]]
+Les modalités d'application de ces dispositions sont fixées par décret.
+
+Article L.9.- Tout système d'évacuation des eaux usées d'origine domestique et des eaux de
+ruissellement est équipé d'un dispositif établi conformément aux lois et règlements en vigueur.
+
+L'entretien des ouvrages, jusqu'à l'amont du regard de branchement, s'il en existe, incombe aux propriétaires d'immeubles.
+
+Un dispositif empêchant la remontée des odeurs est mis en place.
+
+Article L.10.- Nul ne peut surélever une habitation, restaurer ou étendre un bâtiment
+existant ou encore creuser un puits ou forage distant de moins de cent (100) mètres des cimetières sans obtenir préalablement une autorisation délivrée par l'autorité compétente.
+
+Chapitre III.- Dispositions relatives aux personnes à mobilité réduite
+
+Article L.11. - Les dispositions architecturales, les aménagements et équipements intérieurs
+et extérieurs des établissements recevant du public, les installations ouvertes au public et les bâtiments d'habitation collective ou destinés' à abriter des activités sont conçus de manière à permettre en toute égalité leur accessibilité aux personnes à mobilité réduite.
+
+À cet effet, pour garantir l'équité sociale, tout programme immobilier doit prévoir un minimum de logements accessibles aux personnes à mobilité réduite.
+
+Les modalités d'application de cette disposition sont fixées par décret.
+
+Article L.12. - L'autorisation de construire ne peut être délivrée, pour les établissements
+recevant du public, que si les constructions ou les travaux projetés sont conformes aux dispositions de l'article L 11 du présent code et après avis conforme du Ministre chargé de la protection civile.
+
+Article L.13. - Les travaux de construction, d'aménagement ou de modification d'un
+établissement recevant du public sont subordonnés à la délivrance d'une autorisation par les services compétents qui vérifient la conformité des constructions projetées avec les prescriptions édictées à l'article L 11 du présent code.
+
+Article L.14. - L'ouverture d'un établissement recevant du public ou d'un immeuble de
+grande hauteur (IGH) est subordonnée à une autorisation délivrée par l'autorité administrative chargée de la protection civile, après réception des constructions et délivrance d'un certificat de conformité.
+
+Chapitre IV.- Dispositions relatives aux logements sociaux
+
+Article L.15. - La délivrance de l'autorisation de construire pour les programmes immobiliers
+peut être assujettie à la construction de logements sociaux en vue d'améliorer l'offre en la matière.
+
+[[page 9]]
+Ca
+
+Article L.16. - Pour garantir la mixité sociale dans certaines communes, sous réserve d'un
+arrêté municipal édicté à cet effet, dans toute opération de construction d'immeubles collectifs de plus de trente (30) logements ou de plus de mille (1000) mètres carrés de surface de plancher, au moins vingt pour cent (20 %) des logements familiaux sont des logements
+
+sociaux.
+
+Article L.17. - Le promoteur peut conclure une entente avec la commune pour déterminer
+le nombre et le type d'unités de logement décent et abordable qui peuvent être exigés, les dimensions et le nombre de pièces des unités de logement abordable, social ou familial visées, leur emplacement dans l'ensemble domiciliaire ou ailleurs sur le territoire de la municipalité et leur conception et construction.
+
+En outre, l'entente peut établir des règles permettant d'assurer, pendant une durée qu'elle détermine, le caractère abordable des logements.
+
+Un immeuble collectif est considéré comme immeuble à usage d'habitation ou à usage professionnel et d'habitation lorsque dix pour cent (10 %) au moins de sa superficie est affectée à de tels usages.
+
+Un arrêté du Ministre chargé de la Construction fixe les modalités selon lesquelles les locaux annexes sont décomptés pour l'appréciation de la condition.
+
+Chapitre V.- Caractéristiques énergétiques des bâtiments
+
+Article L.18. - L'aménagement de tout nouveau bâtiment, toute extension ou toute
+réhabilitation respecte les prescriptions relatives à l'efficacité énergétique.
+
+Un arrêté des ministres concernés détermine les caractéristiques énergétiques exigées pour la construction et l'exploitation de certains ouvrages ou locaux, en fonction de leur performance énergétique, au regard notamment des émissions de gaz à effet de serre, de la
+
+consommation d'eau et de la production des déchets.
+
+Article L.19. - Un arrêté conjoint des Ministres chargés de la Construction et de l'Energie
+prévoit les conditions dans lesquelles, à l'achèvement des travaux portant sur des bâtiments soumis à autorisation de construire, le maître d'ouvrage fournit à l'autorité ayant délivré ladite autorisation, un document attestant que la réglementation thermique a été prise en compte par le maître d'œuvre ou, en son absence, par le maître d'ouvrage.
+
+Article L.20. - Tout bâtiment dont la consommation d'énergie thermique et/ou électrique
+dépasse un seuil spécifique à chaque secteur fixé par voie réglementaire est soumis à un audit énergétique obligatoire et périodique conformément aux dispositions prévues par les textes relatifs à l'efficacité énergétique.
+
+Article L.21. - Le contrôle du respect des exigences énergétiques du bâtiment est assuré
+par un audit énergétique, dont les modalités de mise en œuvre sont prévues par un arrêté du Ministre chargé de la Construction, pris sur avis des Ministres chargés de l'énergie, de l'environnement et de l'urbanisme.
+
+[[page 10]]
+Ca
+
+Un suivi-évaluation de l'audit énergétique est mis en place. Les modalités de ce suiviévaluation sont précisées dans la partie réglementaire du présent Code.
+
+Article L.22. - L'ensemble des caractéristiques thermiques requises pour les constructions
+est fixé par arrêté interministériel des Ministres chargés de la Construction et de l'Energie.
+
+Article L.23. - Les caractéristiques énergétiques telles que prévues à l'article L.18 du présent
+Code peuvent être applicables aux locaux existants qui font l'objet de travaux donnant lieu à autorisation ou déclaration préalable ou réalisés avec l'aide financière de l'Etat, d'une collectivité territoriale ou d'un organisme assurant une mission de service public.
+
+Article L.24. - Il est établi un système de certification de la performance énergétique des
+bâtiments d'une surface utile totale supérieure à cinq cent (500) m2 occupée par les autorités publiques et par des institutions fournissant des services publics à un large nombre de personnes.
+
+Un arrêté conjoint des Ministres chargés de la Construction et de l'Énergie détermine les modalités d'application du présent article.
+
+Article L.25. - Le certificat de performance énergétique, qui est communiqué au propriétaire
+ou par le propriétaire à l'acheteur ou au locataire potentiel d'un immeuble fait l'objet d'un enregistrement, au niveau de la Direction générale de la Construction et de l'Habitat.
+
+Le certificat délivré par le Ministre chargé de la construction, après avis des structures agrées au niveau du Ministère en Charge de l'Énergie a une durée de validité de huit (08) ans.
+
+Le certificat de performance énergétique inclut la performance énergétique du bâtiment et des valeurs de référence telles que les exigences minimales en matière de performance énergétique, afin que les propriétaires ou locataires du bâtiment ou de l'unité de bâtiment puissent comparer et évaluer sa performance énergétique.
+
+Il comporte aussi des informations telles que la consommation énergétique annuelle pour les bâtiments non résidentiels et le pourcentage d'énergie produite à partir de sources renouvelables dans la consommation énergétique totale.
+
+Chapitre VI. - Caractéristiques acoustiques des bâtiments
+
+Article L.26. - Les contrats ayant pour objet la conception ou la construction de bâtiments
+d'habitation prévoient les exigences minimales requises en matière d'isolation phonique.
+
+Les travaux de nature à satisfaire à ces exigences relèvent de la garantie de bonne exécution ou de parfait achèvement visée à l'article L 53 du présent Code.
+
+Article L.27. - Le vendeur ou le promoteur immobilier est garant, à l'égard du premier
+occupant de chaque logement, de la conformité à ces exigences pendant un (01) an à compter de la prise de possession.
+
+Article L.28. - A l'issue de l'achèvement des travaux portant sur des bâtiments neufs ou sur
+des parties nouvelles de bâtiment existant soumis à autorisation de construire, le maître
+
+[[page 11]]
+d'ouvrage fournit à l'autorité qui a délivré l'autorisation de construire un document attestant du respect de la réglementation acoustique.
+
+Le contenu ainsi que les conditions de production et de validation du document sont précisés par arrêté interministériel.
+
+Des prescriptions particulières relatives aux caractéristiques acoustiques peuvent être imposées aux travaux soumis à autorisation ou à déclaration préalable ou réalisés avec l'aide de l'Etat, d'une collectivité territoriale ou d'un organisme assurant une mission de service public, exécutés dans des ouvrages ou locaux existants autres que d'habitation.
+
+TITRE III.- DISPOSITIONS SPECIALES RELATIVES A LA CONSTRUCTION
+Chapitre premier. - Constructions en bordure de voie publique
+Article L.29. - Aucune construction ne peut empiéter sur l'emprise de la voie publique.
+
+Toutefois, des installations précaires peuvent être autorisées par l'autorité compétente, conformément à la législation relative au domaine de l'Etat.
+
+Article L.30. - Aucune construction ne peut être élevée en bordure d'une voie publique sans
+être conforme à l'alignement.
+
+Cette interdiction s'applique également aux voies de chemins de fer.
+
+Article L.31. - Les bâtiments neufs en bordure de la voie publique sont construits droit de
+la base au sommet. |
+
+Les ouvrages exécutés sans permission de voirie doivent être démolis dans les conditions fixées par la loi.
+
+Chapitre II.- Sondages et travaux souterrains
+
+Article L.32. - Le sondage et le travail de fouille dont la profondeur dépasse dix (10) mètres
+en-dessous de la surface du sol sont assimilés à des opérations de construction d'ouvrages.
+
+Leur exécution est soumise, à une autorisation administrative préalable délivrée par le Ministre chargé des Mines.
+
+Article L.33. - Les agents habilités du Ministère en charge des Mines et de la Géologie, du
+Ministère en charge de l'Eau et de l'Assainissement, du Ministère en charge de l'Environnement et des concessionnaires des réseaux enterrés, ont accès, à tous sondages, ouvrages souterrains ou travaux de fouilles, soit pendant, soit après leur exécution.
+
+Ils peuvent se faire remettre tous échantillons, tous documents et tous renseignements d'ordre historique, environnemental, géologique, géotechnique, hydrologique, chimique, minier, technique ou administratif.
+
+Le président du conseil départemental, le maire de la ville ou de la commune de la collectivité territoriale concernée, est informé des conclusions des recherches.
+
+[[page 12]]
+1e
+
+Article L.34. - Sauf autorisation de l'auteur des travaux, les documents ou renseignements
+recueillis, en application de l'alinéa 2 de l'article L33 du présent Code ne peuvent être rendus publics ou communiqués à des tiers par l'Administration avant l'expiration d'un délai de dix (10) ans à compter de la date à laquelle ils ont été obtenus, nonobstant toutes dispositions
+
+contraires.
+
+Aïticle L.35. - Lorsque, par suite de travaux ou d'un fait quelconque, des monuments, des ruines, des substructions, des mosaïques, des éléments de canalisation antique, des vestiges d'habitation ou des sépultures anciennes, des inscriptions ou généralement des objets pouvant intéresser la préhistoire, l'histoire, l'art, l'archéologie ou la numismatique sont mis à jour, l'auteur de la découverte et le propriétaire de l'immeuble où ils ont été découverts sont tenus d'en faire la déclaration immédiate au chef de la circonscription administrative, avant le déplacement desdits objets.
+
+En outre, le Ministre chargé du Patrimoine ou son représentant, le Ministre chargé des Mines et le maire territorialement compétent sont informés par l'auteur de ladite découverte.
+
+Article L.36. - Le propriétaire de l'immeuble est responsable de la conservation provisoire
+des objets, monuments, substructions ou vestiges de caractère immobilier découverts sur son terrain. Le dépositaire des objets assume à leur égard la même responsabilité.
+
+Chapitre III.- Servitudes de mitoyenneté et servitudes de vue
+
+Article L.37. - Nul n'a le droit de construire sur la ligne séparative, ni empiéter au-delà sauf
+accord écrit des propriétaires ou dans le cadre d'un programme immobilier.
+
+Article L.38. - Tout propriétaire peut bâtir contre un mur mitoyen et y placer des poutres
+ou solives. Il informe l'autre propriétaire sur la façon de le faire.
+
+En cas de désaccord, il peut demander au juge compétent de déterminer les voies et moyens nécessaires afin que l'ouvrage nuise le moins possible aux droits du second propriétaire.
+
+Article L.39. - Le copropriétaire d'un mur mitoyen ne peut réaliser dans le mur une fenêtre
+ou procéder à une ouverture, même à verre dormant sans l'accord de l'autre.
+
+Article L.40. - La mitoyenneté d'un mur privatif peut être acquise par le remboursement au
+propriétaire du mur de la moitié du coût de la portion rendue mitoyenne et, le cas échéant, la moitié de la valeur du sol utilisé.
+
+Article L.41. - L'entretien, la réparation et la reconstruction du mur mitoyen sont à la charge
+des propriétaires proportionnellement aux droits de chacun.
+
+Le propriétaire qui n'utilise pas le mur mitoyen peut abandonner son droit et se libérer de son obligation de contribuer aux charges en produisant un avis au bureau chargé de la publicité des droits fonciers et dont la copie est transmise sans délai aux autres propriétaires.
+
+[[page 13]]
+Article L.42. - Le propriétaire d'un mur non mitoyen joignant l'immeuble d'autrui peut
+pratiquer dans ce mur des jours ou ouvertures telles que claustras ou impostes sans l'accord
+
+de l'autre.
+
+Article L.43. - Les ouvertures visées à l'article L.39 du présent Code ne doivent pas
+permettre une vue directe sur le fond voisin à moins d'un (01) mètre de la ligne séparatrice.
+
+Toutefois, cette règle ne s'applique pas lorsqu'il s'agit de vues sur la voie publique ou sur un parc public ou lorsqu'il s'agit de portes pleines.
+
+Chapitre IV.- Antennes réceptrices et ré-émettrices
+
+Article L.44. - Lorsque la présence d'une construction apporte une gêne à la réception de la
+radiocommunication pour les occupants des bâtiments voisins, son propriétaire ou les locataires, preneurs ou occupants de bonne foi ne peuvent s'opposer à l'installation de dispositifs de réception ou de réémission propres à établir des conditions de réception satisfaisantes, sous le contrôle des services compétents.
+
+Lorsque l'édification d'une construction ayant obtenu l'autorisation de construire est susceptible, en raison de sa situation, de sa structure ou de ses dimensions, d'apporter une gêne à la réception de la radiocommunication par les occupants des bâtiments situés dans le voisinage, le constructeur est tenu de faire réaliser à ses frais, sous le contrôle des services compétents, une installation de réception ou de réémission propre à assurer des conditions de réception satisfaisantes dans le voisinage de la construction projetée.
+
+Article L.45. - Le propriétaire de la construction visé à l'article L.44 du présent Code est tenu
+d'assurer, dans les mêmes conditions, le fonctionnement, l'entretien et le renouvellement de
+
+l'installation.
+
+Article L.46. - En cas de carence du constructeur ou du propriétaire, les services de contrôle
+compétents peuvent, après mise en demeure restée vaine dans un délai de trois (03) mois, saisir la juridiction compétente pour obtenir l'exécution des obligations susvisées.
+
+TITRE IV.- RESPONSABILITE DES CONSTRUCTEURS D'OUVRAGE ET ASSISTANCE
+ARCHITECTURALE
+
+Chapitre premier. - Responsabilité des constructeurs
+
+Article L.47. - Tout constructeur d'un ouvrage est présumé responsable, pour les missions
+qui lui sont confiées, envers le maître ou l'acquéreur de l'ouvrage, des dommages qui compromettent la solidité et la stabilité de l'ouvrage ou qui l'affectent en le rendant impropre à sa destination.
+
+La responsabilité citée à l'alinéa premier du présent article s'étend à toute personne qui vend, après achèvement, un ouvrage qu'elle a construit ou fait construire.
+
+La responsabilité est écartée si le constructeur prouve que les dommages sont liés à une cause étrangère.
+
+[[page 14]]
+Article L.48. - Le mandataire, dont la mission est assimilable à celle d'un locateur d'ouvrage,
+encourt une responsabilité contractuelle de même nature que celle des constructeurs en cas de manquement au devoir de conseil ou à l'obligation d'informer, de renseigner ou de contrôler.
+
+Article L.49. - La présomption de responsabilité établie à l'article L.47 du présent Code
+s'étend également aux dommages qui affectent la solidité des éléments d'équipement d'un ouvrage, mais seulement lorsque ceux-ci font indissociablement corps avec les ouvrages de viabilité, de fondation, d'ossature, de clos ou de couvert.
+
+Un élément d'équipement est considéré comme formant indissociablement corps avec l'un des ouvrages mentionnés à l'alinéa précédent lorsque sa dépose, son démontage ou son remplacement ne peut s'effectuer sans détérioration ou enlèvement de matière de cet ouvrage.
+
+Article L.50. - Les autres éléments d'équipement du bâtiment font l'objet d'une garantie de
+bon fonctionnement d'une durée minimale d'un (01) an à compter de la réception provisoire de l'ouvrage.
+
+Le constructeur d'un ouvrage, d'une partie d'ouvrage ou d'un élément d'équipement conçu et produit pour satisfaire, en état de service, à des exigences précises et déterminées à l'avance, est solidairement responsable des obligations visées par les articles L 47, L.48 et L.49 du présent Code à la charge de celui qui a mis en œuvre l'ouvrage, la partie d'ouvrage ou l'élément d'équipement considéré sans modification et conformément aux règles édictées par le fabricant.
+
+Est assimilé au constructeur pour l'application du présent article :
+
+a) celui qui a importé un ouvrage, une partie d'ouvrage ou un élément d'équipement fabriqué à l'étranger ;
+
+b) celui qui l'a présenté comme son œuvre en faisant figurer sur lui son nom, sa marque de fabrique ou tout autre signe distinctif.
+
+Article L.51. - Est nulle et non avenue toute clause d'un contrat qui a pour objet soit
+d'exclure ou de limiter la responsabilité prévue aux articles L. 47, L.48 et L.49 du présent Code soit d'exclure les garanties prévues aux articles L.50 alinéa 2, L.53 et L.54 du présent Code ou d'en limiter la portée, soit d'écarter ou de limiter la solidarité prévue à l'article L.50 du présent Code, sauf en cas de force majeure ou de faute d'un tiers dont la preuve est rapportée par le constructeur.
+
+Article L.52. - La réception provisoire intervient à la demande de la partie la plus diligente,
+soit à l'amiable, soit, à défaut, judiciairement. Elle est, en tout état de cause, établie contradictoirement et sanctionnée par un procès-verbal.
+
+Article L.53. - La garantie de bonne exécution s'étend à la réparation de tous les désordres
+signalés par le maître d'ouvrage, soit au moyen de réserves mentionnées au procès-verbal
+
+[[page 15]]
+de réception provisoire, soit par notification écrite pour ceux révélés postérieurement à la réception provisoire. Elle prend fin après la levée des réserves éventuelles.
+
+Les délais nécessaires à l'exécution des travaux de réparation sont fixés d'un commun accord par le maître d'ouvrage et l'entrepreneur concerné. En l'absence d'un tel accord ou en cas d'inexécution dans le délai fixé, les travaux peuvent, après mise en demeure restée infructueuse, être exécutés aux frais et risques de l'entrepreneur défaillant.
+
+Article L.54. - L'exécution des travaux, exigés au titre de la garantie de bonne exécution,
+est constatée d'un commun accord, ou, à défaut, judiciairement.
+
+La bonne exécution est sanctionnée par un procès-verbal de réception définitive.
+
+Toutefois, la garantie ne s'étend pas aux travaux nécessaires pour remédier aux effets de l'usure normale ou de l'usage.
+
+Article L.55. - Toute personne physique ou morale, dont la responsabilité peut être engagée
+en vertu des articles L.47 à L.49 du présent Code, est déchargée des responsabilités et garanties décennales pesant sur elle en application du. présent code, après dix (10) ans à compter de la réception définitive des travaux ou, en application de l'article L.50 alinéa premier du présent Code, à l'expiration du délai de garantie de bon fonctionnement ou encore à l'expiration du délai de garantie de bonne exécution.
+
+Article L.56. - Les dispositions prévues aux articles L.7 et L.18 du présent Code s'imposent
+aux personnes qui construisent ou font construire des bâtiments, aux architectes, techniciens, entrepreneurs, tâcherons et artisans et à toutes autres personnes responsables de l'exécution de ces constructions.
+
+Article L.57. - Toutes les sociétés de construction de bâtiments et travaux publics sont
+soumises aux dispositions relatives à la qualification et à la classification des entreprises entrepreneurs et artisans du bâtiment et des travaux publics.
+
+Une structure chargée de la qualification et de la classification des entreprises, entrepreneurs et artisans du bâtiment et des travaux publics est mise en place par arrêté du Ministre chargé de la construction qui en fixe également les modalités d'organisation et de fonctionnement.
+
+Chapitre IL.- Assistance architecturale
+
+Article L.58. - L'assistance architecturale peut être accordée, sur demande, à toute personne
+physique ou aux collectivités territoriales pour les constructions ou modifications de bâtiments
+
+de faible importance.
+
+Cette assistance architecturale est fournie par l'Ordre des Architectes en rapport avec le Ministère en charge de l'Architecture.
+
+Article L.59. - L'architecte est responsable des missions qui lui sont confiées, quelle que soit
+la forme juridique sous laquelle il exerce.
+
+[[page 16]]
+La profession d'architecte est incompatible avec l'exercice de toute activité d'exécution, de bureau d'étude technique, de contrôle technique et de commerce de matériaux.
+
+Nul ne peut exercer la profession d'architecte s'il n'est pas inscrit au tableau de l'Ordre des architectes conformément aux textes en vigueur.
+
+L'architecte dont la responsabilité est engagée sur le fondement de la présomption établie par la loi, est tenu, d'être couvert par une assurance souscrite à titre personnel, par lui-même ou par un tiers, employeur ou client, auprès d'une société d'assurance de son choix.
+
+Chapitre III.- Maîtrise d'ouvrage
+
+Article L.60. - Responsable à titre principal de l'ouvrage, le maître d'ouvrage a compétence
+notamment pour :
+
+a) s'assurer de l'opportunité et de la faisabilité de l'opération envisagée ;
+
+b) déterminer l'assiette du projet et présenter le titre de propriété ;
+
+c) arrêter le programme architectural et le phasage éventuel de sa réalisation ;
+
+d) arrêter l'enveloppe financière prévisionnelle et assurer le financement ;
+
+e) obtenir les autorisations et les certificats administratifs requis ;
+
+f) choisir le processus selon lequel l'ouvrage sera réalisé et, s'il y a lieu, exécuter ou faire exécuter les procédures de sélection des intervenants contractuels ;
+
+g) définir et adopter le programme d'exécution des travaux ;
+
+h) prendre possession de l'ouvrage après réception de la commission mise en place à cet effet. |
+
+Chapitre IV.- Maîtrise d'ouvrage déléguée
+
+Article L.61. - Pour la réalisation de l'ouvrage ou des études, le maître d'ouvrage peut
+déléguer tout ou partie de ses missions à un délégataire appelé maître d'ouvrage délégué.
+
+Article L.62. - Les rapports-entre le maitre d'ouvrage et le maitre d'ouvrage délégué sont
+régis par un contrat qui définit notamment les missions déléguées et les conditions de leur
+
+exécution.
+Chapitre V.- Maîtrise d'œuvre
+Article L.63. - Le maître d'œuvre peut être notamment :
+
+- un architecte ou une société d'architecture ;
+
+- un ingénieur spécialisé ou un ingénieur conseil ;
+
+- un bureau d'études spécialisé ou pluridisciplinaire ;
+
+- un économiste de la construction dont les compétences sont reconnues suivant les conditions définies par l'autorité compétente.
+
+Article L.64. - Le maître d'œuvre exécute les missions qui lui sont confiées par le maître
+d'ouvrage conformément aux stipulations contractuelles, aux règles de l'art et aux usages de la profession. 11 ne peut être tenu responsable que pour les prestations prévues au contrat.
+
+[[page 17]]
+Article L.65. - Lorsque la nature ou la complexité de l'opération envisagée le justifie, le
+maître d'ouvrage peut conclure plusieurs contrats de maîtrise d'œuvre portant chacun sur une ou plusieurs parties du projet.
+
+Article L.66. - Le maître d'ouvrage peut prendre en charge, sous Sa responsabilité, tout ou
+partie des missions de maîtrise d'œuvre dans les conditions et modalités prévues dans la partie réglementaire du présent Code. |
+
+Article L.67. - Le maître d'œuvre chargé du suivi de l'exécution d'un projet approuvé est
+garant de la conformité de sa réalisation avec les documents approuvés.
+
+Dans ce cas, il contrôle l'organisation du chantier.
+
+Article L.68. - Le maître d'œuvre chargé du suivi de l'exécution d'un projet est responsable,
+solidairement avec l'entrepreneur, le maître d'ouvrage, le Bureau d'étude technique et le Bureau de contrôle, pendant dix (10) ans, de tout défaut menaçant la solidité ou la stabilité des ouvrages réalisés ainsi que de la dégradation ou de l'effondrement total ou partiel desdits
+
+ouvrages, même dans le cas où ceux-ci proviennent des vices de sol.
+
+Article L.69. - Le maitre d'œuvre peut sous-traiter, sous sa responsabilité, les missions
+prévues dans le contrat de maîtrise d'œuvre si celui-ci le prévoit.
+
+Tout sous-traitant est préalablement agréé par le maître d'ouvrage avant de contracter avec le maître d'œuvre.
+
+'Article L.70. - Le maître d'œuvre est le premier interlocuteur de l'entrepreneur pour tout ce qui concerne l'interprétation d'études, de plans, de croquis ainsi que pour traiter de modifications à apporter au projet dont il suit l'exécution.
+
+Toutefois, les adaptations et les modifications du projet sont préalablement approuvées par le maître d'ouvrage et, s'il y a lieu, par le bureau de contrôle technique et par l'Administration.
+
+Article L.71. - Dans le cadre du contrat, le maître d'œuvre peut se faire représenter par une
+personne d'équivalente compétence et acceptée par le maître d'ouvrage.
+
+Article L.72. - Les études réalisées par le maître d'œuvre deviennent, après approbation et
+paiement, propriété du maître d'ouvrage. Le maître d'œuvre ne peut plus les utiliser sans l'accord du maître d'ouvrage.
+
+La réutilisation totale ou partielle d'ouvrages-types conçus par le maître d'œuvre ne peut se faire que dans le cadre d'un contrat.
+
+Article L.73. - Dans le cadre de la commande publique en matière d'architecture, lorsque le
+coût de l'ouvrage atteint un seuil fixé par décret, le choix du maître d'œuvre se fait par concours. L'architecte a, alors, pour mission de donner une réponse architecturale, technique et économique au programme architectural défini par le maître d'ouvrage.
+
+Chapitre VI. - Contrôle de la qualité des matériaux et équipements de construction
+
+[[page 18]]
+Article L.74. - Des laboratoires, homologués sont chargés des missions de recherche,
+d'études et de contrôle des propriétés des matériaux, équipements et ouvrages dans le domaine de la construction.
+
+Article L.75. - Afin de garantir la qualité, la sécurité et la durabilité des ouvrages, il est
+institué un système de contrôle avant toute mise à disposition du public.
+
+Le contrôle vise à :
+
+- vérifier la qualité des matériaux et éléments de construction, les équipements utilisés dans le secteur de la construction, qu'ils soient importés ou fabriqués localement ;
+
+- examiner les instruments de mesure des propriétés des matériaux de construction et les matériels de production, d'essais et de sondage utilisés notamment dans les
+
+prestations géotechniques ;
+-__ élaborer des normes de résistance, de salubrité et de sécurité ou d'isolation de toute
+
+construction et veiller à leur application ;
+- développer les études et la recherche dans le domaine des matériaux et des autres
+
+secteurs ;
+- instaurer un système de vérification de la qualité dans les différentes branches de
+
+production du secteur.
+Chapitre VII.- Contrôle technique des bâtiments
+
+Article L.76. - Le contrôle technique sur la faisabilité, la conception, l'exécution, la
+maintenance et l'état des ouvrages et fournitures dans le domaine de l'énergie, de l'immobilier et du génie civil vise à contribuer à la prévention des différents aléas techniques susceptibles d'être rencontrés dans la réalisation des ouvrages ainsi que pendant leur exploitation.
+
+Le contrôle technique porte sur la solidité de l'ouvrage et sur la sécurité des personnes.
+
+Article L.77. - Le contrôleur technique intervient à la demande du maître d'ouvrage et donne
+son avis à ce dernier, aux assureurs et autres intervenants sur les problèmes d'ordre technique. Cet avis porte notamment sur les problèmes qui concernent la solidité de l'ouvrage et la sécurité des personnes et des biens.
+
+Article L.78. - Le contrôle technique ne peut être effectué que par des personnes morales
+agréées par la commission technique chargée de la délivrance et du retrait de l'agrément des
+
+activités de contrôle technique.
+
+L'activité de contrôle technique prévue à la présente section est incompatible avec l'exercice de toute activité de conception, de maîtrise d'œuvre, de maîtrise d'ouvrage délégué, d'exécution.
+
+Article L.79. - Le contrôle technique est obligatoire pour les constructions qui, en raison de
+leur nature ou de leur importance, présentent des risques particuliers pour la sécurité des personnes, tout établissement recevant du public, tout bâtiment comportant plus de deux étages et tout immeuble à usage commercial ou industriel.
+
+[[page 19]]
+Les services compétents de l'État veillent régulièrement au suivi du respect des normes de solidité, de durabilité, de sécurité et d'hygiène pour les établissements recevant du public.
+
+Article L.80. - Est soumis à l'autorisation d'ouverture de fouilles, tout chantier d'immeuble
+pour lequel le recours au bureau de contrôle technique est obligatoire.
+
+Chapitre VIII.- Bureau d'études techniques
+
+Article L.81. - Le Bureau d'études techniques a pour mission d'apporter des solutions
+techniques permettant la réalisation de tout ou partie du projet objet de son contrat
+
+Article L.82. - L'activité de Bureau d'études techniques ne peut être exercée que par des
+personnes morales agréées par la commission technique chargée de la délivrance et du retrait de l'agrément des Bureaux d'études techniques.
+
+TITRE V.- ASSURANCE RELATIVE AUX TRAVAUX DES BATIMENTS
+Chapitre premier. - Dispositions communes aux assurances bâtiments et assimilés
+Article L.83. - Les obligations d'assurance prévues au présent Code s'appliquent :
+
+1. aux bâtiments neufs recevant du public ;
+
+2. aux bâtiments anciens ou neufs nécessitant des reprises en sous-œuvre ou des travaux de soutènement d'ouvrage voisins sur une hauteur supérieure à cinq (5) mètres ;
+
+3. aux opérations de construction d'ouvrage soumises à l'obligation de contrôle
+
+technique.
+
+Article L.84. - Toute personne physique ou morale soumise à une obligation d'assurance en
+justifie l'accomplissement notamment en se conformant aux formalités fixées par arrêté conjoint du Ministre chargé des Assurances et du Ministre chargé de la Construction.
+
+Article L.85. - Toute personne assujettie à l'obligation de s'assurer et qui, ayant sollicité la
+souscription d'un contrat auprès d'une entreprise d'assurance dont les statuts n'interdisent pas la prise en charge du risque en cause en raison de sa nature, se voit opposer un refus, peut saisir le Ministre chargé des assurances.
+
+Article L.86. - Les victimes des dommages prévus aux chapitres premiers et II du titre V du
+livre premier ont la possibilité d'agir directement contre l'assureur du responsable desdits
+dommages, si ce dernier est en redressement judiciaire ou en liquidation de biens.
+
+Article L.87. - Tout contrat d'assurance souscrit par une personne assujettie à l'obligation
+d'assurance en vertu du présent chapitre est, nonobstant toute clause contraire, réputé comporter des garanties au moins équivalentes à celles figurant dans les clauses types fixées par la réglementation en vigueur.
+
+Chapitre II.- Assurance de responsabilité obligatoire
+
+[[page 20]]
+Article L.88 - Toute personne physique ou morale dont la responsabilité peut être engagée
+sur le fondement de la présomption établie par les articles L.47 à L.54 du présent Code, à propos de travaux de bâtiment, est couverte par une assurance.
+
+A l'ouverture de tout chantier, la personne physique ou morale justifie qu'elle a souscrit un contrat d'assurance la couvrant pour la responsabilité encourue.
+
+Tout contrat d'assurance souscrit en vertu du présent article est, nonobstant toute stipulation contraire, réputé comporter une clause assurant le maintien de la garantie pour la durée de la responsabilité pesant sur la personne assujettie à l'obligation d'assurance.
+
+Article L.89. - Celui qui fait réaliser pour le compte d'autrui des travaux de bâtiment doit
+être couvert par une assurance de responsabilité garantissant les dommages visés aux articles L47 et L49, et résultant de son fait.
+
+Il en est de même lorsque les bâtiments sont construits en vue de la vente.
+Chapitre IIL.- Assurance obligatoire tous risques et responsabilité décennale
+
+Article L.90. - L'assurance tous risques chantier, valable pendant la phase de chantier et
+pendant les opérations de maintenance, garantit, au cours des travaux, les dommages matériels occasionnés accidentellement à l'ouvrage en construction, aux biens se trouvant
+
+sur le chantier et aux tiers.
+
+Cette assurance garantit aussi, dans un délai de douze (12) mois après réception provisoire, les dommages accidentels affectant tout ou partie de l'ouvrage et consécutifs à une négligence, maladresse ou faute imputables aux intervenants assurés.
+
+Article L.91. - Toute personne physique ou morale qui fait réaliser des travaux de bâtiment
+souscrit, avant l'ouverture du chantier, pour son compte ou pour celui des propriétaires successifs, une assurance dommage ouvrage garantissant, en dehors de toute recherche des responsabilités, le paiement des travaux de réparation des dommages de la nature de ceux dont sont responsables les constructeurs, les fabricants et importateurs.
+
+L'assurance prend effet à compter de la réception définitive. Toutefois, elle autorise le paiement des réparations nécessaires lorsque :
+
+- avant la réception définitive, après mise en demeure restée infructueuse, le contrat de louage d'ouvrage conclu avec l'entrepreneur est résilié pour inexécution, par celui-ci,
+
+de ses obligations ;
+- après la réception définitive, après mise en demeure restée infructueuse,
+
+l'entrepreneur n'a pas exécuté ses obligations.
+
+Article L.92. - Toute entreprise d'assurance agréée pour les risques de la construction est
+habilitée à prendre en charge les risques prévus aux articles précédents.
+
+Cette obligation ne s'applique pas à l'Etat lorsqu'il construit pour son propre compte.
+
+TITRE VI. - SECURITE ET PROTECTION DES IMMEUBLES
+
+[[page 21]]
+Chapitre premier. - Dispositions de sécurité relatives aux immeubles de grande
+hauteur et aux établissements recevant du public
+
+Article L.93. - L'autorisation de construire ne peut être délivrée, pour les immeubles de
+grande hauteur, qu'ils soient ou non à usage d'habitation et pour les établissements recevant du public que si les constructions ou les travaux projetés sont conformes aux règles de sécurité propres à ce type d'immeubles.
+
+Article L.94. - L'autorisation de construire tient lieu de permis tel qu'exigé par la
+réglementation relative aux Immeubles de Grande Hauteur définis par le Code de l'Urbanisme.
+
+Sa délivrance est précédée de l'accord du Ministre chargé de la Protection Civile.
+
+Article L.95. - Des mesures complémentaires de sauvegarde et de sécurité ainsi que des
+moyens d'évacuation et de défense contre l'incendie peuvent être imposés par l'Administration aux propriétaires, aux constructeurs et aux exploitants de bâtiments et établissements recevant du public après avis de la commission de protection civile
+
+compétente.
+Chapitre II. - Sécurité des ascenseurs, monte-charges et piscines.
+
+Article L.96. - Les ascenseurs installés dans les immeubles sont équipés de dispositifs de
+sécurité et doivent être maintenus en état de bon fonctionnement.
+
+Ils font l'objet d'un contrôle technique régulier.
+L'installation d'ascenseurs dépourvus de portes de cabine est Interdite.
+
+Article L.97. - Tout locataire d'un immeuble équipé d'ascenseurs non conformes peut saisir
+l'autorité administrative ou le juge des référés afin qu'il ordonne leur mise en conformité avec les dispositions prévues à l'article L.98 du présent Code.
+
+Un décret définit les exigences de sécurité à respecter dans l'installation des ascenseurs et précise, le cas échéant, les conditions dans lesquelles les personnes à mobilité réduite, ainsi que les personnes handicapées peuvent y accéder en tenant compte de leur situation.
+
+Article L.98. - Lors de l'installation d'ascenseurs ou de monte-charges, le maître d'ouvrage
+s'assure qu'ils permettent les interventions relatives à l'entretien, au contrôle technique et
+
+aux réparations.
+
+Les monte-charges disposent d'un système de verrouillage mécanique à chaque niveau afin d'assurer la stabilité et la sécurité des personnes pendant le chargement ou le déchargement.
+
+La périodicité des interventions d'entretien et de contrôle est fixée par arrêté du Ministre chargé de la protection civile.
+
+Article L.99. - Les piscines enterrées non closes privatives, neuves ou existantes, à usage
+individuel ou à usage collectif, sont pourvues d'un dispositif de sécurité efficace visant à prévenir le risque de noyade. |
+
+|
+
+[[page 22]]
+Les exigences fonctionnelles du dispositif de sécurité sont fixées par arrêté du Ministre chargé de la Construction.
+
+Chapitre IIL.- Ravalement des façades
+
+Article L.100. - Les façades des immeubles sont constamment tenues en bon état de
+propreté par les propriétaires ou leurs mandataires.
+
+Les travaux de ravalement pour nettoyer et restaurer les façades sont effectués, au besoin, sur injonction de l'autorité compétente, conformément aux dispositions du Code de l'Urbanisme.
+
+Article L.101. - Si à l'expiration du délai de six (06) mois fixé par l'injonction faite en
+application de l'article L.102 du présent Code, les travaux demandés n'ont pas été entrepris, le maire de la commune concernée peut servir une sommation prescrivant leur exécution.
+
+La sommation est notifiée au propriétaire ou à son mandataire avec obligation d'effectuer les travaux dans un délai qu'il détermine et qui ne saurait excéder un an.
+
+Le représentant de l'Etat en est informé.
+
+Article L.102. - La procédure prévue à l'article L.103 du présent Code est également
+applicable lorsque les travaux, entrepris dans les six (06) mois de l'injonction, n'ont pas été terminés dans l'année qui suit. Le responsable légal est sommé de terminer les travaux dans
+
+le délai fixé.
+
+Article L.103. - Dans le cas où les travaux n'ont pas été exécutés dans le délai imparti en
+application des dispositions qui précédent, le maire de la commune concernée peut, sur autorisation du président du tribunal compétent statuant en référé, les faire exécuter d'office aux frais du propriétaire.
+
+LIVRE II.- DISPOSITIONS RELATIVES AUX CONSTRUCTEURS
+TITRE PREMIER. - SOCIETES DE CONSTRUCTION
+
+Chapitre premier. - Régime applicable aux Sociétés civiles professionnelles
+constituées pour construire des immeubles en vue de leur vente
+
+Article L.104. - Sous réserve des dispositions du présent chapitre, les sociétés civiles
+professionnelles dont l'objet est de construire un ou plusieurs immeubles en vue de leur vente en totalité ou par fractions sont régies par le Code des Obligations Civiles et Commerciales
+
+(COCC).
+
+Les immeubles construits par ces sociétés ne peuvent être attribués en tout ou partie, en jouissance ou en propriété, aux associés en contrepartie de leurs apports, sous peine de nullité de l'attribution.
+
+Article L.105. - Les associés sont tenus du passif social sur tous leurs biens à proportion de
+leurs droits sociaux.
+
+[[page 23]]
+Les créanciers de la société ne peuvent poursuivre le paiement de dettes sociales contre un associé que soixante jours au moins après avoir vainement mis en demeure la société. À cet effet, le représentant légal de la société est tenu de communiquer à tout créancier qui en fait la demande, le nom et le domicile de chacun des associés.
+
+La mise en demeure est faite par acte d'huissier ou par tout autre moyen légal assurant sa traçabilité.
+Les associés ne peuvent être poursuivis qu'après une mise en demeure, dans les conditions
+
+prévues aux alinéas précédents, restée infructueuse adressée, à la société ou à la compagnie d'assurance qui garantit la responsabilité de celle-ci.
+
+Article L.106. - Les associés sont tenus de satisfaire aux appels de fonds nécessaires à
+l'accomplissement de l'objet social pour autant que ces appels de fonds soient indispensables à l'exécution de contrats de vente à terme ou en l'état futur d'achèvement déjà conclus ou à l'achèvement de programmes dont la réalisation, déjà commencée, n'est pas susceptible de division.
+
+En cas de non-respect de ses obligations, les droits d'un associé peuvent, un mois après une mise en demeure restée infructueuse, être mis en vente publique à la requête des représentants de la société par décision de l'assemblée générale fixant la mise à prix.
+
+La mise en demeure est faite par acte d'huissier ou par tout autre moyen légal assurant sa traçabilité.
+
+Sur première convocation, l'assemblée générale se prononce à la majorité des deux tiers du capital social et, sur la deuxième convocation, à la majorité des deux tiers des droits sociaux dont les titulaires sont présents ou représentés.
+
+Nonobstant toute disposition contraire des statuts, les parts détenues par les associés à l'encontre desquels la mise en vente est à l'ordre du jour de l'assemblée générale ne sont pas prises en compte pour le calcul des majorités requises.
+
+La vente a lieu pour le compte de l'associé défaillant et à ses risques et périls. Les sommes provenant de la vente sont affectées par privilège au paiement des dettes de l'associé défaillant envers la société. Ce privilège l'emporte sur toutes les sûretés réelles conventionnelles grevant les droits sociaux du défaillant.
+
+Si des nantissements sont constitués sur les parts vendues en application du présent article, le droit de rétention des créanciers nantis n'est opposable ni à la société ni à l'adjudicataire
+
+des droits sociaux.
+
+Chapitre Il.- Sociétés constituées en vue de l'attribution d'immeubles aux
+associés par fractions divises
+
+[[page 24]]
+Article L.107. - Les sociétés ayant pour objet la construction ou l'acquisition d'immeubles
+en vue de leur division par fractions destinées à être attribuées aux associés en propriété ou en jouissance peuvent être valablement constituées sous les différentes formes prévues, même si elles n'ont pas pour but de partager un bénéfice.
+
+L'objet de ces sociétés comprend la gestion et l'entretien des immeubles jusqu'à la mise en place d'une organisation différente.
+
+Article L.108. - Un état descriptif de division délimite les diverses parties de l'immeuble
+social en distinguant celles qui sont communes de celles qui sont privatives. S'il y a lieu, il fixe la quote-part des parties communes afférentes à chaque lot.
+
+Les statuts divisent les droits composants le capital social en groupe et affectent à chacun d'eux l'un des lots définis par l'état descriptif de division pour être attribué au titulaire du groupe considéré.
+
+Article L.109. - Un règlement détermine la destination des parties réservées à l'usage
+exclusif de chaque associé, et, s'il y a lieu, celle des parties communes affectées à l'usage de tous les associés ou de plusieurs d'entre eux.
+
+Article L.110. - Si l'attribution en propriété d'une ou plusieurs fractions de l'immeuble est
+effectuée conformément à l'une des formes sociales choisies, le règlement est établi en conformité avec le régime applicable à cette forme de société.
+
+Le règlement ne peut imposer de restrictions aux droits des associés sur les parties réservées à leur jouissance exclusive, en dehors de celles qui sont justifiées par la destination de l'immeuble, par ses caractères ou par sa situation.
+
+Article L.111. - L'état descriptif de division, le règlement et les dispositions corrélatives des
+statuts sont adoptés avant tout commencement des travaux de construction, ou, s'il s'agit d'une société d'acquisition, avant toute entrée en jouissance des associés.
+
+Article L.112. - Les associés sont tenus de répondre aux appels de fonds nécessités par
+l'acquisition, la construction ou l'aménagement de l'immeuble social en proportion de leurs droits dans le capital.
+
+Toutefois, il peut être stipulé que les dépenses entraînées par l'acquisition du terrain soient réparties entre les associés au prorata de la valeur de la partie dont ils ont la propriété ou la jouissance exclusive par rapport à la valeur globale du terrain.
+
+Article L.113. - L'associé qui ne satisfait pas aux obligations auxquelles il est tenu envers la
+Société en vertu de l'article L.112 du présent Code ne peut prétendre ni à entrer en jouissance de la fraction de l'immeuble à laquelle il a droit, ni à se maintenir dans cette jouissance, ni à obtenir l'attribution en propriété de ladite fraction.
+
+Les droits sociaux appartenant à l'associé défaillant peuvent, un mois après une sommation de payer restée sans effet, être mis en vente publique sur autorisation de l'assemblée
+
+[[page 25]]
+générale prise à la majorité des deux tiers du capital social et, sur deuxième convocation, à la majorité des deux tiers des droits sociaux dont les titulaires sont présents ou représentés.
+
+Nonobstant toute disposition contraire des statuts, les parts ou actions, détenues par les associés à l'encontre desquels la mise en vente est à l'ordre du jour de l'assemblée, ne sont pas prises en compte pour le calcul des majorités requises.
+
+La mise en vente est notifiée à l'associé. Si l'associé est titulaire de plusieurs groupes de droits sociaux donnant vocation à des parties différentes de l'immeuble, chacun de ces groupes pourra être mis en vente séparément.
+
+Article L.114. - La vente a lieu pour le compte et aux risques de l'associé défaillant qui est
+tenu, vis-à-vis de la société, d'honorer les appels de fonds mis en recouvrement antérieurement à la vente. Les sommes produites par l'adjudication sont affectées par privilège au paiement des sommes dont cet associé est redevable à la société.
+
+Le privilège obtenu l'emporte sur toutes les sûretés réelles conventionnelles grevant les droits sociaux du défaillant. Si des nantissements sont constitués sur les parts ou actions vendues en application du présent article, le droit de rétention des créanciers nantis n'est opposable ni à la société ni à l'adjudicataire des droits sociaux.
+
+Article L.115. - Les droits des associés dans le capital social sont proportionnels à la valeur
+des biens auxquels ils ont vocation par rapport à la valeur de l'ensemble telles que lesdites valeurs résultent de la consistance, de la superficie, de la situation et des possibilités d'utilisation des biens appréciées au jour de l'affectation à des groupes de droits sociaux
+
+déterminés.
+
+Si les statuts contiennent la clause prévue au deuxième alinéa de l'article L.112 du présent Code, les associés doivent contribuer aux dépenses entraînées par l'acquisition du terrain, d'une part, et à celles afférentes aux travaux de construction, d'autre part, en proportion de la valeur des droits de chacun d'eux sur le sol et dans les ouvrages.
+
+Si les obligations auxquelles un associé est tenu vis-à-vis de la Société en vertu de l'article L.112 alinéa premier du présent Code premier excèdent de plus du quart la contribution qui lui incombe en vertu du présent article, l'intéressé peut réclamer le remboursement de l'excédent à celui ou ceux des coassociés que la répartition incriminée a avantagés, mais à concurrence seulement des sommes que chacun d'eux s'est ainsi trouvé dispensé de payer à la société. Les sommes ainsi obtenues sont versées directement au demandeur.
+
+Si les obligations auxquelles un associé est tenu envers la Société en vertu de l'article L.112 alinéa premier du présent Code sont inférieures de plus du quart à la contribution qui incombe à cet associé selon le présent article, tout autre associé peut réclamer, à celui qui est avantagé, les versements dont il s'est trouvé dispensé.
+
+Les sommes ainsi obtenues sont versées à la Société et réparties par l'organe de gestion ou le liquidateur entre les associés désavantagés, en proportion des sommes excédentaires versées par ceux-ci.
+
+[[page 26]]
+Article L.116. - Les dispositions de l'article L.115 du présent Code peuvent être invoquées,
+même après la dissolution de la Société, à l'encontre de tous ceux qui ont eu la qualité d'associé avant l'approbation définitive des comptes de l'opération de construction, d'acquisition ou d'aménagement, mais seulement avant l'expiration d'un délai de deux ans à compter de la dissolution de la société ou du retrait de l'associé.
+
+Article L.117. - Les associés sont tenus de participer aux charges entraînées par les services
+collectifs et les éléments d'équipement communs ainsi qu'à celles relatives à la conservation, à l'entretien et à l'administration des parties communes, s'il en existe, dans les conditions
+
+prévues par la loi.
+
+L'état descriptif visé à l'article L.111 du présent Code fixe la quote-part qui incombe à chaque lot dans chacune des catégories de charges ; à défaut, il indiquera les bases selon lesquelles la répartition est faite pour une ou plusieurs catégories de charges.
+
+Les dispositions de l'article L.115 du présent Code sont applicables à l'exécution par les associés des obligations dont ils sont tenus envers la Société en vertu du présent article.
+
+Un associé peut demander au tribunal compétent du lieu de la situation de l'immeuble la révision, pour l'avenir, de la répartition des charges visées au présent article si la part correspondant à son lot est supérieure de plus d'un quart ou si la part correspondant à un autre lot est inférieure de plus d'un quart, dans l'une ou l'autre des-catégories de charges, à celle qui résulterait d'une répartition conforme à l'alinéa premier.
+
+Si l'action en justice est reconnue fondée, le tribunal procède à la nouvelle répartition.
+
+Article L.118. - Pour les décisions concernant la gestion ou l'entretien de l'immeuble, les
+associés votent avec un nombre de voix proportionnel à leur participation dans les dépenses qu'entraînera l'exécution de la décision, nonobstant toute disposition contraire.
+
+En outre, lorsque le règlement prévu à l'article L.111 du présent Code met à la charge de certains associés seulement les dépenses d'entretien d'une partie de l'immeuble ou celles d'entretien et de fonctionnement d'un élément d'équipement, seuls ces associés prennent part au vote sur les décisions qui concernent ces dépenses. Chacun d'eux vote avec un nombre de voix proportionnel à sa participation auxdites dépenses.
+
+Article L.119. - La Société peut donner caution hypothécaire pour la garantie des emprunts
+contractés :
+
+a) par les associés, pour leur permettre de satisfaire aux appels de fonds de la société nécessaires à la réalisation de l'objet social ;
+
+b) par les cessionnaires des parts sociales, pour leur permettre de payer leur prix de cession, mais seulement à concurrence des appels de fonds déjà réglés à la société et, s'il y a lieu, de payer les appels de fonds qui restent encore à régler.
+
+Q
+
+[[page 27]]
+La caution hypothécaire est autorisée par les statuts, avec stipulation que l'engagement de la société est strictement limité aux parties divises et indivises de l'immeuble social auxquelles le bénéficiaire du crédit aura vocation en propriété.
+
+La saisie du gage vaut retrait de l'associé titulaire des droits sociaux correspondant aux biens saisis et ne peut être effectuée que lorsque sont réunies les conditions auxquelles un tel retrait est subordonné.
+
+Article L.120. - Le cessionnaire n'est tenu des dettes du cédant à l'égard de la société à la
+date de la cession que dans la mesure où cela résulte des obligations figurant à l'acte de cession ou à ses annexes. Le cédant n'est dégagé de ses obligations personnelles à l'égard de la société que dans la mesure où celle-ci y a expressément consenti.
+
+Article L.121. - La dissolution de la société peut, nonobstant toute disposition contraire des
+statuts, et même si ceux-ci ne prévoient que des attributions en jouissance, être décidée par l'assemblée générale statuant à la double majorité des deux tiers des associés et des deux tiers des voix. L'assemblée générale désigne un ou plusieurs liquidateurs chargés de gérer la société pendant la période de liquidation et de procéder au partage.
+
+Ce partage ne peut intervenir qu'après décision définitive sur les comptes de l'opération de construction dans les conditions prévues par le premier alinéa du présent article. Il comporte des attributions de fractions d'immeubles et une répartition du passif conformes aux dispositions statutaires et à l'état descriptif de division.
+
+Article L.122. - Dans le cas où la succession d'un associé n'est pas encore liquidée, les droits
+et les charges propres au défunt sont attribués indivisément au nom de ses ayants droit et cette attribution n'entraîne pas de leur part acceptation de la succession.
+
+Les associés qui n'ont pas satisfait aux obligations auxquelles ils sont tenus envers la Société ne peuvent, conformément aux dispositions de l'article L.113, prétendre à aucune attribution tant qu'ils ne s'en sont pas acquittés. Dans ce cas, le partage est limité aux associés dont la situation est régulière.
+
+Le liquidateur établit le projet de partage en la forme authentique. Les associés sont invités, au besoin par sommation du liquidateur, à prendre connaissance du projet de partage, à l'approuver ou à le contester en la forme authentique.
+
+Les associés qui contestent le partage disposent d'un délai de quinze jours pour assigner le liquidateur en rectification devant le tribunal compétent du siège social. Les attributions devenues définitives sont opposables aux associés non présents ou représentés, absents ou incapables.
+
+Article L.123. - Au cas où les statuts ne prévoient que des attributions en jouissance, un
+associé peut, à tout moment, se retirer d'une société d'acquisition. Sous la même réserve, un associé peut, de même, se retirer d'une société de construction, dès qu'une assemblée générale a constaté l'achèvement de l'immeuble, sa conformité avec les énonciations de l'état descriptif et a décidé des comptes définitifs de l'opération de construction.
+
+[[page 28]]
+A défaut de vote de l'assemblée générale, tout associé peut demander au tribunal compétent du lieu de situation de l'immeuble de procéder aux constatations et de statuer.
+
+Article L.124. - Le retrait est constaté par acte authentique signé par l'associé qui se retire
+et un représentant de l'organe de gestion ou, en cas de refus de ce dernier, par ordonnance du président du tribunal compétent, lequel est saisi et statue suivant la forme prévue pour
+
+les référés.
+
+Le retrait entraîne de plein droit l'annulation des parts ou actions correspondant aux locaux attribués en propriété et la réduction corrélative du capital social.
+
+L'organe de gestion constate la réduction du capital et apporte aux statuts les modifications nécessaires.
+
+Ces dispositions demeurent applicables après dissolution de la société. Les pouvoirs dévolus à l'organe de gestion sont alors exercés par le ou les liquidateurs.
+
+Article L.125. - Pour l'application des dispositions du présent article, tout associé est réputé
+avoir fait élection de domicile en l'immeuble social, à moins qu'il n'ait notifié à la société une autre élection de domicile dans le ressort du tribunal compétent du lieu de situation de l'immeuble.
+
+Sauf l'effet des sûretés réelles dont ils seraient bénéficiaires, les créanciers de la société ne peuvent exercer leurs droits, ni contre un ancien associé attributaire par retrait ou partage, ni à l'encontre de ses ayants cause, qu'après discussion préalable des biens restant appartenir à la société. |
+
+Chapitre III.- Sociétés ayant pour objet la construction d'immeubles à usage
+d'habitation ou à usage professionnel et d'habitation
+
+Article L.126. - Les sociétés qui ont pour objet la construction d'un immeuble à usage
+d'habitation ou à usage professionnel et d'habitation sont tenues :
+
+a) soit de conclure un contrat de promotion immobilière ;
+
+b) soit de confier les opérations constitutives de la promotion immobilière à leur représentant légal ou statutaire, à la condition que lesdites opérations aient été définies au préalable par un écrit portant les éléments du contrat exigés par l'article L.143. La responsabilité du représentant légal ou statutaire s'apprécie alors, quant à ces opérations, conformément aux dispositions de l'article L 144 à L147.
+
+Les modalités d'application des dispositions relatives au contrat de promotion immobilière sont fixées dans la partie réglementaire du présent code.
+
+Chapitre IV. Sociétés de construction et sociétés coopératives d'habitat et de
+construction à programmes multiples
+
+[[page 29]]
+Article L.127. - Les Sociétés coopératives de construction et d'habitat sont régies par les
+dispositions de l'Acte uniforme OHADA du 15 décembre 2010 relatif au droit des sociétés coopératives.
+
+Article L.128. - Lorsqu'une société mentionnée à l'article L.107 ou une société coopérative,
+sous réserve des dispositions de l'Acte uniforme OHADA du 15 décembre 2010 relatif au droit des sociétés coopératives, ne poursuit pas simultanément la construction de l'ensemble des logements répondant à son objet, ses statuts peuvent prévoir que les appels de fonds supplémentaires nécessaires pour la réalisation de chaque programme, y compris la participation à toutes dépenses d'intérêt commun, seront répartis entre les seuls associés ou membres ayant vocation aux logements construits dans le cadre de chacun desdits programmes.
+
+Article L.129. - À défaut de dispositions statutaires, une assemblée spéciale des membres
+ou associés dont les parts sociales ou actions donnent vocation à l'attribution de logements compris dans un même programme, convoquée par le conseil d'administration, la gérance de la société ou le quart des membres de la coopérative, peut décider, que les appels de fonds prévus à l'article L.128 du présent Code soient répartis comme indiqué audit article.
+
+Article L.130. - L'assemblée spéciale ne statue valablement que si les deux tiers, au moins,
+des membres ou associés ayant vocation aux logements compris dans le programme sont présents ou représentés. Les décisions sont prises à la majorité des voix pour les sociétés et à la majorité des deux tiers pour les coopératives ; chaque associé ou membre dispose du nombre de voix qui lui est attribué par les statuts de la société où de la coopérative.
+
+En outre, les décisions de l'assemblée spéciale sont approuvées par une assemblée générale extraordinaire de tous les associés ou membres statuant dans les conditions de quorum et de majorité requises pour les modifications statutaires. Cette assemblée est réunie par le conseil d'administration ou la gérance de la société dans le délai d'un mois à compter de l'assemblée spéciale ; elle apporte aux statuts des modifications correspondantes.
+
+Article L.131. - La répartition entre les divers associés ou membres de leurs créances ou
+dettes à l'égard de la société ou de la coopérative est effectuée par le conseil d'administration ou la gérance de la société.
+
+La répartition ne devient définitive qu'après avoir été approuvée par une assemblée générale ordinaire des associés ou membres, réunie par le conseil d'administration ou la gérance dans le délai d'un an à compter de l'assemblée spéciale prévue à l'article L.129 du présent Code.
+
+Article L.132. - Les membres des sociétés ou coopératives dont les parts ou actions donnent
+vocation à l'attribution de logements compris dans un même programme, réunis en assemblée spéciale convoquée et statuant dans les conditions définies à l'article L.133 du présent Code, peuvent demander la convocation d'une assemblée générale extraordinaire à l'effet de décider :
+
+[[page 30]]
+a) soit la dissolution de la société ou de la coopérative et la dévolution de son actif à plusieurs sociétés ou coopératives nouvelles constituées conformément aux dispositions législatives et règlementaires en vigueur ;
+
+b) soit l'apport d'un ou plusieurs éléments d'actif à une ou plusieurs sociétés ou coopératives constituées comme il est dit ci-dessus.
+
+Dans ce cas, l'assemblée générale est réunie par le conseil d'administration ou la gérance de la société ou de la coopérative dans le délai d'un mois à compter de l'assemblée spéciale.
+Cette assemblée générale statue dans les conditions de quorum et de majorité requises pour les modifications statutaires.
+
+Article L.133. - Les sociétés et les coopératives nouvelles prennent en charge l'intégralité
+du passif correspondant aux divers éléments d'actif de la société ou de la coopérative ancienne qui leur est dévolue ou apportée. Elles sont réputées, chacune en ce qui la concerne, avoir le même objet que la société ou la coopérative ancienne dont elles assurent la continuation.
+
+Dans le partage des titres ou parts sociales reçus par la société ou la coopérative anciennes, les associés ou membres reçoivent les actions ou parts sociales des sociétés ou coopératives nouvelles correspondant à la parcelle ou au logement auquel ils avaient vocation.
+
+Si le capital d'une ou plusieurs sociétés ou coopératives nouvelles est divisé en actions ou parts sociales, les actions ou parts sociales d'apport attribuées à la société ou à la coopérative ancienne sont immédiatement négociables, même si le capital de la société ou de la coopérative ancienne n'est pas divisé en actions ou parts sociales, ou si elles ont moins de deux ans d'existence.
+
+Article L.134. - Lorsque les projets d'aménagement des ensembles d'habitations entrepris
+ou réalisés par la société ou la société coopérative d'habitat et de construction comportent des ouvrages d'intérêt commun à plusieurs des sociétés ou coopératives nouvelles, la société ou la société coopérative ancienne ne peut être dissoute qu'après la création d'une association de copropriétaires comme prévu par le règlement de copropriété ou la constitution d'une association pour assurer l'entretien et, le cas échéant, l'exécution desdits ouvrages.
+
+TITRE IL.- DISPOSITIONS APPLICABLES AUX PROMOTEURS IMMOBILIERS
+Chapitre premier. - Du contrat de promotion immobilière
+
+Article L.135. - Tout promoteur est garant de l'exécution des obligations mises à la charge
+des personnes avec lesquelles il a traité au nom du maître d'ouvrage. Il est notamment tenu des obligations fixées à l'article L.48 du présent Code.
+
+Si le promoteur s'engage à exécuter lui-même une partie des opérations du programme, il est tenu, quant à ces opérations, aux mêmes obligations qu'un entrepreneur.
+
+Article L.136. - Le contrat emporte pouvoir pour le promoteur de conclure les contrats,
+réceptionner les travaux, liquider les marchés et généralement celui d'accomplir, à
+
+[[page 31]]
+concurrence du prix global convenu, au nom du maître d'ouvrage, tous les actes qu'exige la réalisation du programme.
+
+Toutefois, le promoteur n'engage le maître d'ouvrage, par les emprunts qu'il contracte ou par les actes de disposition qu'il passe, qu'en vertu d'un mandat spécial contenu dans le contrat
+
+ou dans un acte postérieur.
+
+Le maître d'ouvrage est tenu d'exécuter les engagements contractés en son nom par le promoteur en vertu des pouvoirs que celui-ci tient de la loi ou de la convention.
+
+Article L.137. - Si avant l'achèvement du programme, le maître d'ouvrage cède ses droits à
+un cessionnaire, celui-ci lui est substitué de plein droit. Le cédant est garant de l'exécution des obligations mises à la charge du maître d'ouvrage par le contrat cédé.
+
+Les mandats spéciaux donnés au promoteur se poursuivent entre celui-ci et le cessionnaire.
+
+Article L.138. - Le promoteur ne peut se faire substituer par un tiers dans l'exécution des
+obligations qu'il a contractées envers le maître d'ouvrage sans l'accord de celui-ci.
+
+Le contrat de promotion immobilière n'est opposable aux tiers que s'il est annoncé dans le dossier de demande d'agrément du programme.
+
+Article L.139. - La mission du promoteur ne s'achève à la livraison de l'ouvrage que si les
+comptes de construction ont été définitivement arrêtés entre le maître d'ouvrage et le promoteur, le tout, sans préjudice des actions en responsabilité que le maître d'ouvrage pourrait intenter contre le promoteur.
+
+Article L.140. - Le règlement judiciaire ou la liquidation des biens n'entraîne pas de plein
+droit la résiliation du contrat de promotion immobilière. Toute stipulation contraire est réputée non écrite.
+
+Chapitre Il.- Du contrat de promotion immobilière pour la construction
+d'immeubles à usage d'habitation ou à usage professionnel et d'habitation
+
+Article L.141. - Tout contrat par lequel une personne s'oblige envers le maître d'ouvrage à
+faire procéder à la construction d'un immeuble d'habitation ou d'un immeuble à usage professionnel et d'habitation, en une qualité autre que celle de vendeur, est soumis aux règles des articles L.136 à L.143 du présent Code ainsi qu'à celles du présent chapitre.
+
+L'application des dispositions du premier alinéa est facultative lorsque le maître d'ouvrage est une personne qui construit un ou plusieurs immeubles en vue de la vente ou une société autre que celles mentionnées aux chapitres IT et IIT du présent titre faisant construire plus de deux locaux à usage professionnel ou d'habitation.
+
+Article L.142. - Les sociétés visées aux chapitres premier et II du présent titre qui, lors de
+l'achat d'une fraction de terrain sur laquelle elles construiront, s'obligent à l'égard du vendeur, lequel conserve le surplus du terrain, à faire édifier pour son compte les immeubles
+
+[[page 32]]
+correspondant audit surplus et à assumer la charge de leur coût ne sont pas tenues de passer un contrat de promotion avec ledit vendeur.
+
+Dans le cas prévu à l'alinéa précédent, les obligations contractées par la société à l'égard du vendeur sont garanties par la personne avec laquelle là société a conclu un contrat de promotion ou, s'il y a lieu, par son représentant légal ou statutaire assumant les obligations
+
+du promoteur.
+
+Article L.143. - Le contrat de promotion immobilière est constaté, avant le commencement
+de son exécution, par un écrit contenant les éléments suivants :
+
+a) la situation et la contenance du terrain sur lequel est édifié le bâtiment ;
+
+b) la consistance et les caractéristiques techniques du bâtiment à construire ;
+
+c) les devis descriptifs et les conditions d'exécution techniques des travaux ;
+
+d) le prix convenu ainsi que les limites et conditions dans lesquelles la révision du prix peut intervenir ; si un poste pour imprévu est inclus dans le prix et si le contrat ne subordonne pas l'utilisation des sommes correspondantes à un accord préalable du maître d'ouvrage, le promoteur, en fin d'opération, restitue à ce dernier la totalité des sommes qui auraient été appelées et dont il ne peut justifier avoir eu besoin pour exécuter sa mission ;
+
+e) les moyens et conditions de financement et les modalités de règlement à mesure de l'avancement des travaux ;
+
+f) la rémunération du promoteur pour ses soins, peines et débours ;
+
+g) le délai dans lequel le bâtiment est édifié ;
+
+h) la garantie apportée par le promoteur pour la bonne exécution de sa mission.
+
+Toutefois, le contrat de promotion immobilière peut être constaté par plusieurs actes séparés comportant chacun des énonciations limitées à une phase ou une partie de l'ensemble des opérations à réaliser.
+
+Aucun travail matériel, hormis ceux nécessaires au moment des études préliminaires, ne peut être effectué sur le terrain avant la signature des actes concernant les différentes opérations à réaliser.
+
+Article L.144. - L'inobservation des dispositions de l'article L.143 du présent Code entraîne
+
+la nullité du contrat de promotion immobilière. Cette nullité ne peut être invoquée que par le maître d'ouvrage et ce, jusqu'à l'achèvement des travaux.
+
+Cette inobservation entraîne l'inopposabilité au maître d'ouvrage des contrats passés par le promoteur.
+
+Article L.145. - Nonobstant toute stipulation contraire, les clauses de résolution de plein
+droit concernant les obligations de versement mises à la charge du maître d'ouvrage par le contrat ne produisent leur effet, qu'un mois après mise en demeure, restée infructueuse.
+
+Un délai supplémentaire ne peut être accordé que si la demande est introduite durant la période où court la mise en demeure.
+
+[[page 33]]
+Article L.146. - Avant la signature du contrat, le promoteur ne peut exiger ni même accepter
+du maître d'ouvrage un quelconque versement, dépôt, souscription ou acceptation d'effets de commerce.
+
+Aucun paiement ne peut non plus être exigé ni accepté avant la date à laquelle la créance est exigible.
+
+Article L.147. - Les organismes d'habitations à loyer modéré et les entreprises du secteur
+parapublic dont le capital appartient pour plus de la moitié à des personnes de droit public ne sont pas tenus de fournir la garantie prévue au point h) de l'article L. 143 du présent Code quand ils agissent comme promoteurs liés par un contrat de promotion immobilière.
+
+Chapitre III.- Régime applicable à la construction d'un immeuble individuel à
+usage d'habitation ou à usage professionnel et d'habitation
+
+Article L.148. - Toute personne qui se charge de la construction d'un immeuble à usage
+d'habitation ou d'un immeuble à usage professionnel et d'habitation ne comportant pas plus de deux logements destinés au même maître d'ouvrage conclut avec ce dernier un contrat soumis aux dispositions du présent chapitre.
+
+Cette obligation est également imposée :
+
+a) à toute personne qui se charge de la construction d'un tel immeuble à la suite d'un démarchage à domicile ou d'une publicité faits pour le compte de cette personne ;
+
+b) à toute personne qui réalise une partie des travaux de construction d'un tel immeuble, pour son compte, au moyen des procédés visés à l'alinéa précédent.
+
+Cette personne est dénommée constructeur au sens du présent code.
+
+Article L.149. - Le contrat visé à l'article L.148 du présent Code comporte, au minimum, les
+éléments suivants :
+
+a) la désignation du terrain destiné à l'implantation de la construction et la mention du
+titre de propriété du maître de l'ouvrage ou des droits réels lui permettant de
+construire;
+
+b) l'affirmation de la conformité du projet aux règles de construction prescrites en application, notamment du présent code et des dispositions du Code de l'Urbanisme ;
+
+c) la consistance et les caractéristiques techniques du bâtiment à construire comportant tous les travaux d'adaptation au sol, les raccordements aux réseaux divers, s'il y a lieu, et tous les travaux d'équipement intérieur ou extérieur indispensables à l'implantation et à l'utilisation de l'immeuble ;
+
+d) le coût du bâtiment à construire, égal à la somme du prix convenu et, s'il y a lieu, du coût des travaux dont le maître de l'ouvrage se réserve l'exécution en précisant :
+
+1) d'une part, le prix convenu qui est forfaitaire et définitif, sous réserve, s'il y a lieu, de sa révision dans les conditions et limites convenues, et qui comporte la rémunération de tout ce qui est à la charge du constructeur, y compris le coût de la garantie de livraison ;
+
+[[page 34]]
+2) d'autre part, le coût des travaux dont le maître de l'ouvrage se réserve l'exécution, ceux-ci étant décrits et chiffrés par le constructeur et faisant l'objet, de la part du maître de l'ouvrage, d'une clause manuscrite spécifique paraphée et signée par laquelle il en accepte le coût et la charge ;
+
+e) les modalités de règlement en fonction de l'état d'avancement des travaux ;
+
+f) l'indication que le maître de l'ouvrage pourra se faire assister par un professionnel habilité lors de la réception ou par tout autre professionnel de la construction titulaire d'un contrat d'assurance couvrant les responsabilités pour ce type de mission
+
+g) l'indication de l'obtention de l'autorisation de construire en cours de validité et de tout autre acte administratif exigible, dont copie est annexée au contrat ;
+
+h) la date d'ouverture du chantier, le délai d'exécution des travaux et les pénalités prévues en cas de retard de livraison ;
+
+i) la référence de l'assurance de dommages souscrite par le maître d'ouvrage ou par le constructeur.
+
+Article L.150. - Dans le contrat visé, sont réputées non écrites les clauses ayant pour objet
+ou pour effet :
+
+a) d'admettre comme valable une autorisation de construire assortie de prescriptions techniques ou architecturales telles qu'elles entraînent une modification substantielle du projet ayant donné lieu à la conclusion du contrat initial ;
+
+b) de décharger le constructeur de son obligation d'exécuter les travaux dans les délais prévus par le contrat en prévoyant notamment des causes légitimes de retard autres que les cas de force majeure, les sujétions imprévues et le fait du prince ;
+
+c) de subordonner la remise des clefs au paiement intégral du prix et faire ainsi obstacle au droit du maître de l'ouvrage de consigner les sommes restant dues lorsque des réserves sont faites à la réception des travaux ;
+
+d) d'interdire au maître d'ouvrage la possibilité de visiter le chantier, préalablement à chaque échéance des paiements et à la réception des travaux.
+
+Article L.151. - Dans le cas prévu à l'article L.149 d) du présent Code, le constructeur est
+tenu d'exécuter ou de faire exécuter les travaux dont le maître d'ouvrage s'est réservé l'exécution aux prix et conditions mentionnés au contrat, si le maître d'ouvrage lui en fait là demande, dans les quatre mois qui suivent la signature du contrat.
+
+Article L.152. - Le maître d'ouvrage peut, par lettre dans les quinze jours qui suivent la
+remise des clefs consécutive à la réception provisoire, dénoncer les vices apparents qu'il n'avait pas signalés lors de cette réception afin qu'il y soit remédié dans le cadre de l'exécution du contrat.
+
+La disposition prévue à l'alinéa premier ne s'applique pas quand le maître d'ouvrage se fait assister, lors de la réception, par un professionnel habilité ou par tout autre professionnel de la construction titulaire d'un contrat d'assurance couvrant les responsabilités pour ce type de mission.
+
+[[page 35]]
+Article L.153. - Aucun prêteur ne peut émettre une offre de prêt sans avoir vérifié que le
+contrat comporte les éléments mentionnés à l'article L.149 du présent Code au moment où l'acte lui est transmis et ne peut débloquer les fonds s'il n'a pas communication de l'attestation de garantie de livraison.
+
+Dans le cas de défaillance du constructeur, le prêteur est responsable des conséquences préjudiciables d'un versement excédant le pourcentage maximum du prix total exigible aux différents stades de la construction d'après l'état d'avancement des travaux dès lors que ce versement résulte de l'exécution d'une clause irrégulière du contrat.
+
+Article L.154. - Au cas où le contrat défini à l'article L.148 du présent Code prévoit la révision
+du prix, celui-ci ne peut être calculé qu'en fonction de la variation de l'indice des prix des différents corps d'état du bâtiment publié par l'organisme compétent.
+
+TITRE IIL.- DES BAUX À CONSTRUCTION ET DES VENTES D'IMMEUBLES
+
+Chapitre premier. - Du bail à construction
+
+Article L.155. - Le bail à construction est consenti par celui ou ceux qui ont le droit d'aliéner
+l'immeuble. Ce bail ne peut pas faire l'objet de renouvellement.
+
+Article L.156. - Les parties conviennent de leurs droits respectifs de propriété sur les
+constructions existantes et sur les constructions édifiées. A défaut d'une telle convention, le bailleur en devient propriétaire en fin de bail et profite des améliorations.
+
+Article L.157. - Le bail à construction confère au preneur un droit réel immobilier. Ce droit
+peut être hypothéqué, de même que les constructions édifiées sur le terrain loué, il peut être saisi dans les formes prescrites pour la saisie immobilière.
+
+Le preneur peut céder tout ou partie de ses droits ou les apporter en société. Les cessionnaires ou la société sont tenus des mêmes obligations que le cédant qui en reste garant jusqu'à l'achèvement de l'ensemble des constructions que le preneur s'est engagé à édifier.
+
+Le preneur peut consentir les servitudes passives indispensables à la réalisation des constructions prévues au bail.
+
+Article L.158. - Le preneur est tenu de toutes les charges, taxes et impôts relatifs tant aux
+constructions qu'au terrain.
+
+Il est tenu de maintenir les constructions en bon état d'entretien et d'effectuer les réparations de toute nature. Il répond de l'incendie des bâtiments existants et de ceux qu'il a édifiés.
+
+Il n'est pas obligé de reconstruire les bâtiments s'ils ont péri par cas fortuit ou force majeure ou, s'agissant des bâtiments existant au moment de la passation du bail, par un vice de construction antérieur audit bail.
+
+Sauf stipulation contraire du bail, il peut démolir, en vue de les reconstruire, les bâtiments existants.
+
+[[page 36]]
+Article L.159. - Les servitudes passives, autres que celles mentionnées au troisième alinéa
+de l'article L.157 du présent Code, privilèges, hypothèques ou autres charges nées du chef du preneur et, notamment, les baux et titres d'occupation de toute nature portant sur les
+
+constructions, s'éteignent à l'expiration du bail.
+
+Toutefois, si le bail prend fin par résiliation judiciaire ou à l'amiable, les privilèges et hypothèques mentionnés à l'alinéa premier et inscrits, suivant le cas, avant la publication de la demande en justice tendant à obtenir cette résiliation ou avant la publication de l'acte ou de la convention la constatant, ne s'éteignent qu'à la date primitivement convenue pour l'expiration du bail.
+
+Article L.160. - Pendant la durée du bail, si par cas fortuit ou de force majeure, les
+constructions sont détruites, la résiliation intervient de plein droit à la demande de l'une des
+
+parties.
+Chapitre Il.- Du bail à réhabilitation
+
+Article L.161. - Le bail à réhabilitation est consenti par celui ou ceux qui ont le droit d'aliéner
+et dans les mêmes conditions et formes que l'aliénation. Il est conclu conformément aux
+
+dispositions du présent chapitre.
+
+Le bail à réhabilitation indique la nature des travaux, leurs caractéristiques techniques et le délai de leur exécution.
+
+En fin de bail, les améliorations réalisées bénéficient au bailleur sans indemnisation.
+
+Article L.162. - Le preneur est titulaire d'un droit réel immobilier. Ce droit peut être
+hypothéqué ; il peut être saisi dans les formes prescrites pour la saisie immobilière.
+
+Ce droit est cessible nonobstant toute convention contraire. La cession ne peut être consentie qu'avec l'accord du bailleur. Le droit ne peut être cédé que s'il porte sur la totalité de l'immeuble loué. Le cédant demeure garant de l'exécution du bail par le cessionnaire.
+
+Article L.163. - Six mois avant la date d'expiration du bail à réhabilitation, le bailleur peut
+proposer aux occupants un contrat de location prenant effet à cette date. A défaut, le preneur est tenu, au plus tard trois mois avant l'expiration du bail à réhabilitation, d'offrir aux occupants un logement correspondant à leurs besoins et à leurs possibilités.
+
+L'occupant qui n'a pas conclu de contrat de location ou accepté l'offre de relogement est déchu de tout titre d'occupation sur le logement à l'expiration du bail à réhabilitation. Au terme du bail à réhabilitation, le preneur est tenu de restituer l'immeuble au bailleur libre de location et d'occupation.
+
+Chapitre III.- Vente d'immeubles à construire
+
+Article L.164. - La vente d'immeuble à construire est celle par laquelle le vendeur s'oblige .
+à édifier un immeuble dans un délai déterminé par le contrat.
+
+Elle peut être conclue à terme ou en l'état futur d'achèvement.
+
+[[page 37]]
+Article L.165. - La vente à terme est le contrat par lequel le vendeur s'engage à livrer
+l'immeuble à son achèvement, l'acheteur s'engage à en prendre livraison et à en payer le prix à la date de livraison. Le transfert de propriété s'opère de plein droit par la constatation par acte authentique de l'achèvement de l'immeuble ; il produit ses effets rétroactivement au jour
+
+de la vente.
+
+Article L.166. - La vente en l'état futur d'achèvement est le contrat par lequel le vendeur
+transfère immédiatement à l'acquéreur ses droits sur le sol ainsi que la propriété des constructions existantes. Les ouvrages à venir deviennent la propriété de l'acquéreur au fur et à mesure de leur exécution ; l'acquéreur est tenu d'en payer le prix à mesure de l'avancement des travaux. Le vendeur conserve les pouvoirs de maitre de l'ouvrage jusqu'à la réception des travaux.
+
+Article L.167. - La cession par l'acquéreur des droits qu'il tient d'une vente d'immeubles à
+construire substitue de plein droit le cessionnaire dans les obligations de l'acquéreur envers le vendeur.
+
+Si la vente a été assortie d'un mandat, celui-ci se poursuit entre le vendeur et le cessionnaire.
+
+Ces dispositions s'appliquent à toute mutation entre vifs, volontaire ou forcée ou bien à cause de mort.
+
+Article L.168. - Le vendeur d'un immeuble à construire ne peut être déchargé, ni avant la
+réception des travaux, ni avant l'expiration d'un délai d'un mois après la prise de possession par l'acquéreur, des vices de construction alors apparents.
+
+Il n'y aura pas lieu à résiliation du contrat ou à diminution du prix si le vendeur s'oblige à réparer ces vices.
+
+Article L.169. - Le vendeur d'un immeuble à construire est tenu, à compter de la réception
+des travaux, des obligations dont les architectes, entrepreneurs, tâcherons, artisans et autres personnes liées au maître d'ouvrage par un contrat d'entreprise sont eux-mêmes tenus en
+
+application des articles L.47 à L.50 du présent Code.
+Ces garanties bénéficient aux propriétaires successifs de l'immeuble.
+
+Il n'y aura pas lieu à résiliation de la vente ou à diminution du prix si le vendeur s'oblige à réparer les dommages définis aux articles L.47 à L.50 du présent Code et à assumer la garantie prévue à l'article L.53 du présent Code.
+
+Article L.170. - L'action résultant des vices rédhibitoires est intentée par l'acquéreur dans
+le délai de deux (02) ans à compter de la découverte du vice.
+
+Dans le cas prévu à l'alinéa premier du présent article, l'action est introduite, à peine de
+
+forclusion, dans l'année qui suit la date à laquelle le vendeur peut être déchargé des vices apparents.
+
+[[page 38]]
+Article L.171. - Lorsque l'un quelconque des locaux composant un immeuble a été vendu à
+terme ou en l'état futur d'achèvement, la vente, après achèvement, d'un local compris dans cet immeuble, est assujettie aux dispositions de l'article L.169 du présent Code.
+
+Toutefois, l'action éventuellement née en application dudit article ne peut être exercée par les acquéreurs successifs qu'à l'encontre du premier vendeur.
+
+Article L.172. - Tout contrat ayant pour objet le transfert de propriété d'un immeuble ou
+d'une partie d'immeuble à usage d'habitation ou à usage professionnel et d'habitation et comportant l'obligation pour l'acheteur d'effectuer des versements ou des dépôts de fonds avant l'achèvement de la construction doit, à peine de nullité, être conforme aux dispositions des articles L.174 à L.178 du présent Code.
+
+Celui qui s'oblige à édifier ou à faire édifier un immeuble ou une partie d'immeuble à usage d'habitation ou à usage professionnel et d'habitation, lorsqu'il procure directement ou indirectement le terrain ou le droit de construire sur le terrain à celui qui contracte l'obligation d'effectuer les versements ou les dépôts ci-dessus définis, conclut un contrat conforme aux dispositions de l'alinéa précédent, sauf si le terrain ou le droit est procuré à une société régie par les dispositions du présent code ou si celui qui les procure est un organisme d'habitations à loyer modéré agissant comme prestataire de service.
+
+Article L.173. - Avant la conclusion d'un contrat prévu à l'article L.166, le vendeur souscrit
+une garantie financière de l'achèvement de l'immeuble ou une garantie financière du remboursement des versements effectués en cas de résolution du contrat à défaut
+
+d'achèvement.
+
+La garantie financière d'achèvement peut être mise en œuvre par l'acquéreur en cas de défaillance financière du vendeur, caractérisée par une absence de disposition des fonds nécessaires à l'achèvement de l'immeuble.
+
+Le garant financier de l'achèvement de l'immeuble peut faire désigner un administrateur ad hoc par ordonnance sur requête. L'administrateur ad hoc, qui dispose des pouvoirs du maître de l'ouvrage, a pour mission de faire réaliser les travaux nécessaires à l'achèvement de l'immeuble. Il peut réaliser toutes les opérations qui y concourent et procéder à la réception de l'ouvrage. Il est réputé constructeur et dispose, à ce titre, d'une assurance de responsabilité. Sa rémunération est à la charge du garant.
+
+Lorsque sa garantie est mise en œuvre, le garant financier de l'achèvement de l'immeuble est seul fondé à exiger de l'acquéreur le paiement du solde du prix de vente.
+
+Article L.174. - Le contrat de vente d'immeuble à construire conclu par un organisme
+d'habitations à loyer modéré, par une société civile immobilière constituée entre deux ou plusieurs organismes d'habitations à loyer modéré, ou par une société anonyme à participation publique majoritaire peut, par dérogation aux dispositions des articles L.165 et L.176 du présent Code :
+
+[[page 39]]
+- stipuler que le transfert de propriété résulte de la constatation du paiement intégral du prix ;
+
+- prévoir que le prix est payable entre les mains du vendeur par fractions échelonnées tant avant qu'après achèvement de la construction.
+
+Article L.175. - Le contrat prévu à l'article L.174 doit être conclu par acte authentique et
+préciser :
+
+a) les plans et la description de l'immeuble ou de la partie d'immeuble vendu ;
+
+b) le prix et les modalités de paiement de celui-ci ;
+
+c) le délai de livraison ;
+
+d) lorsqu'il revêt la forme prévue à l'article L.169 du présent Code, la garantie de l'achèvement de l'immeuble ou du remboursement des versements effectués en cas de résolution du contrat à défaut d'achèvement.
+
+Toutefois, lorsque la vente concerne une partie d'immeuble, le contrat peut ne comporter que les indications propres à cette partie, les autres précisions prévues à l'alinéa premier y figurent nécessairement, soit dans un document annexé à l'acte, soit dans un document déposé au rang des minutes d'un notaire et auquel l'acte fait référence.
+
+Il mentionne également si le prix est ou non révisable et, dans l'affirmative, les modalités de sa révision.
+Il comporte, en outre, en annexes ou par référence à des documents déposés chez un notaire,
+
+les indications utiles relatives à la consistance et aux caractéristiques techniques de l'immeuble.
+
+Le règlement de copropriété, communiqué préalablement à chaque acquéreur, lui est remis lors de la signature du contrat.
+
+L'inobservation des dispositions du présent article entraîne la nullité du contrat. Cette nullité ne peut être invoquée que par l'acquéreur et avant l'achèvement des travaux.
+
+Article L.176. - Dans le cas d'une vente en l'état futur d'achèvement, le vendeur ne peut
+exiger ni accepter aucun versement, aucun dépôt, aucune souscription ou acceptation d'effets de commerce avant la signature du contrat, ni avant la date à laquelle la créance est exigible.
+
+Le contrat de vente à terme peut seulement stipuler que des dépôts de garantie seront faits, à mesure de l'avancement des travaux, à un compte spécial ouvert au nom de l'acquéreur par un organisme habilité à cet effet. Les fonds ainsi déposés sont incessibles, insaisissables et indisponibles dans la limite des sommes dues par l'acheteur, sauf pour le paiement du prix.
+
+Nonobstant toutes stipulations contraires, les clauses de résolution de plein droit concernant les versements ou de dépôt de fond prévues à l'article L.177 du présent Code ne produisent effet qu'un mois après la date de la sommation ou du commandement de payer, demeuré infructueux.
+
+Un délai peut être demandé pendant le mois ainsi imparti.
+
+[[page 40]]
+Les effets des clauses de résolution de plein droit sont suspendus au cours des délais octroyés. Ces clauses sont réputées n'avoir jamais joué si le débiteur se libère dans les
+
+conditions déterminées par le juge.
+
+Article L.177. - La vente prévue à l'article L.174 du présent Code peut être précédée d'un
+contrat préliminaire par lequel, en contrepartie d'un dépôt de garantie effectué à un compte spécial, le vendeur s'engage à réserver à un acheteur un immeuble ou une partie d'immeuble.
+
+Ce contrat doit comporter les indications essentielles relatives à la consistance de l'immeuble, à la qualité de la construction et aux délais d'exécution des travaux ainsi qu'à la consistance, à la situation et au prix du local réservé.
+
+Les fonds déposés en garantie sont indisponibles, incessibles et insaisissables jusqu'à la conclusion du contrat de vente.
+
+Ils sont restitués, dans le délai de trois mois, au déposant, notamment, si le contrat n'est pas conclu du fait du vendeur ou si le contrat proposé fait apparaître une différence anormale par rapport aux prévisions du contrat préliminaire.
+
+Article L.178. - Toute clause contraire aux dispositions du présent chapitre est réputée non
+écrite.
+LIVRE III.- DISPOSITIONS RELATIVES AU CONTROLE ET AUX SANCTIONS
+
+TITRE PREMIER. - MESURES DE CONTRÔLE APPLICABLES À TOUTES LES
+CATÉGORIES DE BÂTIMENTS
+
+Chapitre premier. - Règles générales applicables à toutes catégories de bâtiments
+
+Article L.179. - Le Représentant de l'État, le maire, l'organe de contrôle créé à cet effet
+ainsi que les agents assermentés et/ou commissionnés à cet effet par le Ministre chargé de la Construction peuvent à tout moment visiter les constructions en cours, procéder aux vérifications qu'ils jugent utiles et se faire communiquer tous documents techniques se rapportant à la réalisation des bâtiments.
+
+En tout état de cause, ces interventions doivent se faire en rapport avec le Ministre chargé de la Construction par le canal d'organes habilités consultatifs ou de contrôle.
+
+L'autorité compétente pour la conservation du domaine public en bordure duquel la construction est en cours peut, dans les mêmes conditions, s'assurer que l'alignement et, s'il y a lieu, le nivellement ont été respectés.
+
+Article L.180. - L'organe de contrôle des bâtiments, le maire ou son délégué peuvent à tout
+moment réclamer l'ensemble des documents afférents aux travaux. En l'absence de l'un quelconque de ces documents, ils se réservent le droit d'empêcher la poursuite des travaux du chantier.
+
+Les modalités d'application des dispositions du premier alinéa sont précisées dans la partie réglementaire du présent code.
+
+[[page 41]]
+Si au cours de leur contrôle, les services constatent que des bâtiments ou édifices quelconques menacent ruine ou peuvent par leur effondrement, compromettre la sécurité ou n'offrent pas les garanties de solidité nécessaires au maintien de la sécurité publique, ils établissent un rapport transmis au représentant de l'État qui prend, dans ce cas, ou fait prendre par la collectivité territoriale concernée, les dispositions appropriées conformément à l'article L.186 du présent code.
+
+Chapitre II.- Dispositions relatives au contrôle des bâtiments menaçant ruine
+
+Article L.181. - Le maire de la commune concernée, sur rapport de l'organe de contrôle,
+prend un arrêté de péril ordonnant la réparation ou la démolition des murs, bâtiments ou édifices quelconques menaçant ruine compte tenu de l'intérêt public et pouvant, par leur effondrement, compromettre la sécurité ou de façon générale, n'offrant pas les garanties de solidité nécessaire au maintien de la sécurité publique.
+
+Article L.182. - L'arrêté de péril est notifié à toute personne intéressée.
+
+Lorsque les travaux prescrits ne concernent que les parties communes d'un immeuble en copropriété, la notification aux copropriétaires est valablement faite au seul syndic des
+
+copropriétaires.
+
+L'arrêté de péril est concomitamment publié au livre foncier dont dépend l'immeuble pour chacun des locaux, aux frais du propriétaire.
+
+Article L.183. - Le maire de la commune concernée, peut mettre en demeure le propriétaire
+d'un immeuble menaçant ruine, de faire dans un délai déterminé, selon le cas, les réparations nécessaires pour mettre fin durablement au péril ou les travaux de démolition, ainsi que, s'il y a lieu, de prendre les mesures indispensables pour préserver les bâtiments mitoyens et la
+
+sécurité du voisinage.
+
+Article L.184. - L'arrêté de péril pris suite à la mise en demeure doit être motivé et transmis
+sans délai à toute partie en cause, par lettre recommandée avec accusé de réception, par acte d'huissier ou par tout moyen légal en assurant la traçabilité. Si l'état du bâtiment, ou d'une de ses parties, ne permet pas de garantir la sécurité des occupants, le maire peut assortir l'arrêté de péril d'une interdiction d'habiter ou d'utiliser les lieux.
+
+La démolition d'un immeuble est opérée par le propriétaire dans le délai fixé par l'arrêté.
+
+Si les travaux ne sont pas terminés dans le délai fixé, le maire doit les faire exécuter et en recouvrer les frais auprès du propriétaire.
+
+Article L.185. - En cas de contestation par le propriétaire, la démolition ne peut intervenir
+qu'après la décision du juge compétent saisi à cet effet par la partie la plus diligente.
+
+A défaut de contestation ou de réalisation des travaux dans le délai imparti, le maire, par décision motivée, fait procéder d'office à leur exécution. Il peut également faire procéder à la démolition prescrite.
+
+a
+
+[[page 42]]
+Le propriétaire de l'immeuble à détruire paye au locataire évincé de son logement une indemnité de trois (03) mois de loyer et ses frais de déménagement au minimum.
+
+L'indemnité est payable au départ du locataire et les frais de déménagement, sur présentation des pièces justificatives.
+
+Les conditions d'application du présent chapitre sont fixées par la partie réglementaire du Code de la Construction.
+
+Article L.186. - En cas de péril imminent, le maire, après avertissement adressé au
+propriétaire, dresse un constat de l'état des bâtiments mitoyens et propose des mesures de nature à mettre fin à l'imminence du péril.
+
+S'il est avéré l'existence d'un péril grave et imminent, le maire ordonne les mesures provisoires nécessaires pour garantir la sécurité, notamment, l'évacuation de l'immeuble.
+
+Si les mesures ont à la fois conjuré limminence du danger et mis fin durablement au péril, le maire prend acte de leur réalisation et de leur date d'achèvement.
+
+Dans le cas où ces mesures n'auraient pas été exécutées dans le délai imparti, le maire se substitue au propriétaire et les fait exécuter d'office. Il peut poursuivre le propriétaire pour le remboursement des frais engagés.
+
+Les frais engagés par le maire pour ladite démolition ou lesdites réparations seront publiés au livre foncier dont dépend la situation de l'immeuble
+
+Article L.187. - L'inspection des bâtiments relève de l'État et doit s'exercer pleinement aussi
+bien pour les bâtiments publics que privés.
+
+TITRE II.- DISPOSITIONS PENALES
+Chapitre premier. - Infractions et responsabilité pénales
+
+Article L.188. - Toute personne qui, malgré une mise en demeure, ne répare pas ou ne
+démolit pas une construction menaçant ruine est punie d'un emprisonnement d'un (01) mois à six (06) mois et d'une amende de cinquante mille (50 000) à un million (1 000 000) de francs CFA, ou de l'une de ces peines.
+
+Quiconque fait entreprendre, modifie ou fait modifier des constructions ou installations avec des matériaux précaires est puni d'une amende de cent mille (100 000) à cinq millions (5 000
+000) de francs CFA. En cas de récidive, l'amende est portée au double.
+
+Si l'infraction concerne des établissements recevant du public et des immeubles de grande hauteur, l'amende est portée au double.
+
+Article L.189. - Quiconque commet un faux dans l'établissement d'une autorisation
+d'ouverture de fouilles est puni d'un emprisonnement de deux (02) mois à trois (03) mois et d'une amende de cinq cent mille (500 000) à un million (1 000 000) de francs CFA ou de l'une de ces deux peines.
+
+[[page 43]]
+Article L.190. - Quiconque contrevient aux dispositions de l'article L.84 du présent Code est
+puni d'un emprisonnement de deux (02) mois à trois (03) mois et d'une amende de cinq cent mille (500 000) à un million (1 000 000) de francs CFA ou de l'une de ces deux peines
+
+seulement.
+
+Article L.191. - Quiconque poursuit les travaux de construction, nonobstant une décision de
+justice ou un acte administratif en ordonnant l'interruption, est puni d'un emprisonnement de trois (03) mois à six (06) mois et d'une amende d'un million (1 000 000) à deux millions (2 000 000) de francs CFA ou l'une de ces deux peines seulement.
+
+Article L.192. - Quiconque exécute des travaux en violation des obligations fixées par les
+articles L.7, L.8, L.10 et L.11, est puni d'une peine d'emprisonnement de trois (03) mois à huit (08) mois ou d'une amende d'un million (1 000 000) à deux millions (2.000.000) de
+
+francs CFA.
+
+En cas de récidive, la peine d'amende est portée à trois millions (3.000.000) de francs CFA et un emprisonnement d'un (01) an peut, en outre, être prononcé.
+
+Les peines prévues aux alinéas 1 et 2 du présent article peuvent être prononcées contre les utilisateurs du sol, les bénéficiaires des travaux, les architectes, les entrepreneurs, les tâcherons, les artisans ou toute autre personne responsable de l'exécution desdits travaux.
+
+Ces peines sont également applicables :
+
+1) en cas d'inexécution, dans les délais prescrits, de tous travaux accessoires d'aménagement ou de démolition imposés par les autorisations visées au premier alinéa ;
+
+2) en cas d'inobservation, par les bénéficiaires d'autorisations accordées pour une durée limitée ou à titre précaire, des délais impartis pour le rétablissement des lieux dans leur état antérieur ou la réaffectation du sol à son ancien usage.
+
+Article L.193. - En cas de condamnation pour une infraction prévue à l'article L.192 du
+présent Code, la juridiction compétente, au vu des observations écrites ou après audition du fonctionnaire compétent, statue :
+
+- soit sur la mise en conformité des lieux ou celle des ouvrages avec les règlements, l'autorisation administrative ou l'autorisation de construire ;
+
+- soit sur la démolition des ouvrages ou la réaffectation du sol en vue du rétablissement des lieux dans leur état antérieur.
+
+Article L.194. - Sans préjudice de l'application, le cas échéant, de peines plus fortes prévues
+par le Code pénal, quiconque aura fait obstacle à l'exercice du droit de visite prévu des agents de contrôle de l'Etat est puni d'un emprisonnement de deux (02) mois et d'une amende d'un million (1 000 000) à deux millions (2 000 000) de francs CFA ou de l'une de ces peines.
+
+[[page 44]]
+Les mêmes peines sont applicables à ceux qui font obstacle au contrôle exercé par les membres de la Commission régionale de la Protection Civile et par ceux de la Commission Technique interministérielle des immeubles de grande hauteur.
+
+Article L.195. - Toute personne qui n'aura pas exécuté les travaux de ravalement dans les
+délais fixés est puni d'une amende d'un million (1 000 000) à deux millions (2 000 000) francs
+
+CFA.
+En cas de récidive, l'amende est portée au double.
+
+Article L.196. - Quiconque contrevient aux dispositions relatives à l'autorisation d'ouverture
+d'un établissement recevant du public ou d'un immeuble de grande hauteur est puni d'une peine de six (06) mois à un (01) an d'emprisonnement et d'une amende de cent mille (100
+
+000) à cinq cent mille (500 000) francs CFA.
+
+Article L.197. - Quiconque entreprend ou fait entreprendre, modifie ou fait modifier des
+constructions ou installations sans autorisation d'ouverture des fouilles, en violation des dispositions de l'article L.80, est puni d'un emprisonnement de deux (02) mois à trois (03) mois et d'une amende de cinq cent mille (500 000) à deux millions (2 000 000) de francs CFA ou de l'une de ces deux peines seulement.
+
+Article L.198. - Quiconque aura exigé ou accepté un versement, un dépôt de fonds, une
+souscription ou une acceptation d'effets de commerce en violation des dispositions des articles L.146 et L.177 du présent Code est punie d'un emprisonnement de deux (02) ans et d'une amende de cinq millions (5.000.000) de francs CFA ou de l'une de ces deux peines
+
+seulement.
+
+Article L.199. - Tous architectes et constructeurs ayant fait l'objet d'une condamnation
+réprimant les infractions aux règles applicables en matière d'urbanisme et de construction ne sont plus admis, temporairement ou définitivement, à prêter leurs services à l'État et ses démembrements notamment les collectivités territoriales.
+
+L'exclusion temporaire ou définitive est prononcée, après avis de la Commission nationale de règlement de la construction, sans préjudice de l'application des sanctions prévues par les textes régissant leur corporation.
+
+Chapitre II.- Constatation des infractions et transaction
+
+Article L.200. - Les infractions aux dispositions du présent code sont constatées par les
+officiers de police judicaire, ainsi que par tout fonctionnaire ou agent de l'État assermentés et commissionnés à cet effet par le maire ou le Ministre chargé de la construction.
+
+Les procès-verbaux dressés par, au moins, deux agents visés à l'alinéa premier du présent
+article font foi jusqu'à inscription de faux des constatations matérielles qu'ils relatent.
+
+Les procès-verbaux rédigés par un seul agent assermenté visé au premier alinéa du présent
+article font foi jusqu'à preuve du contraire.
+
+Ü a
+
+[[page 45]]
+Ils ne font foi que jusqu'à preuve contraire de l'exactitude et de la sincérité des aveux ou des déclarations qu'ils rapportent.
+
+Les agents doivent, au moment du contrôle ou de la constatation desdites infractions, être revêtus des insignes extérieurs et apparents de leur qualité ou munis de leurs cartes professionnelles.
+
+Ils peuvent ordonner la suspension des travaux et procéder à des saisies de matériels, de matériaux, objets et documents sur les chantiers irréguliers.
+
+Article L.201. - Les sommations ou procès-verbaux établis par les agents visés à l'article
+L.200 du présent code sont transmis à l'Inspection générale des Bâtiments qui, en l'absence de transaction, saisit le Ministère public.
+
+Le montant de la transaction ne peut être inférieur aux minima fixés.
+
+Article L.202. - Avant d'entrer en fonction, les agents commissionnés par le maire ou par le
+Ministre chargé de la construction prêtent serment devant le Tribunal de grande instance dans le ressort duquel ils sont domiciliés en ces termes : « Je jure de bien et fidèlement remplir mes fonctions, de ne pas accepter ni exercer toute forme de corruption et de ne rien révéler ou utiliser de ce qui sera porté à ma connaissance à l'occasion de leur exercice ».
+
+Article L.203. - Le Ministre chargé de la Construction ou les agents qu'il délègue à cette fin
+peuvent transiger avec les personnes poursuivies.
+
+La transaction n'est pas admise lorsque l'infraction met les personnes en danger ou les expose à un péril imminent.
+
+Dans l'exercice de leurs missions, les personnes visées à l'article L.200 du présent code peuvent adresser des réquisitions aux services de l'État, lesquels sont tenus de les exécuter.
+Leur inexécution expose leur auteur à une sanction disciplinaire.
+
+Ces agents peuvent également requérir la force publique dans l'accomplissement de leur mission.
+
+Article L.204. - Le paiement de l'amende transactionnelle, fait au Trésor public moyennant
+quittance, éteint l'action publique à l'encontre de la personne poursuivie.
+
+” Le montant de la transaction est acquitté dans les délais fixés par le procès-verbal y afférent.
+
+Article L.205. - En cas d'infraction dûment constatée, l'agent commissionné et assermenté
+de la commune ou du Ministère chargé de la Construction peut transiger avec les personnes physiques et les personnes morales mises en cause.
+
+Le montant de la transaction est déterminé en fonction des circonstances et de la gravité de l'infraction, de la personnalité et de la situation matérielle, familiale et sociale de son auteur ainsi que de ses ressources et de ses charges. Le procès-verbal de transaction fixe :
+
+- l'amende transactionnelle due par l'auteur de l'infraction ;
+
+ë |
+
+[[page 46]]
+- le cas échéant, l'obligation pour l'auteur de l'infraction de réparer le dommage résultant de celle-ci ;
+- les délais impartis pour le paiement et, s'il y a lieu, l'exécution de l'obligation de réparer le dommage. |
+Article L.206. - La transaction est constatée par procès-verbal revêtue de la signature du chef
+de service concerné et du contrevenant.
+
+Article L.207. - L'action publique est éteinte lorsque l'auteur de l'infraction a exécuté dans les
+délais impartis l'intégralité des obligations résultant de la transaction.
+
+En cas d'inexécution de l'intégralité des obligations dans les délais impartis, le procès-verbal de transaction est transmis au Procureur de la République qui peut procéder à l'arrestation immédiate du mis en cause. -
+
+Article L.208. - Toute association, légalement constituée, peut exercer devant les juridictions
+
+répressives les droits réservés à la partie civile relativement aux infractions prévues par le présent code portant préjudice direct ou indirect à l'intérêt collectif de ses membres.
+
+Article L.209. - Le produit des amendes, frais et taxes prononcées en application du présent
+Code est réparti de la manière suivante :
+
+=" 50 % pour la collectivité territoriale concernée ;
+s 20 % pour l'Etat ;
+= 30 % pour les agents et le service verbalisateur.
+
+Un décret fixe, en cas de besoin, les modalités d'application de cette disposition.
+TITRE III.- DISPOSTIONS FINALES
+
+Article L.210. - Les modalités d'application de la présente loi sont fixées par décret.
+
+Article L.211. - La présente loi abroge toutes les dispositions antérieures contraires
+réglementant le secteur de la construction, notamment celles de la loi n° 2009-23 du 08 juillet 2009 portant Code de la Construction.
+
+La présente loi sera exécutée comme loi de l'Etat.
+
+Fait à Dakar, le 29 décembre 2023
+
+Par le Président de la République Macky SALL 7

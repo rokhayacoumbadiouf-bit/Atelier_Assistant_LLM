@@ -1,0 +1,52 @@
+Journal Officiel de l'Organisation pour l’Harmonisation en Afrique du Droit des Affaires
+
+Le Fichier Régional est tenu et exploité soit sur support papier, soit sous forme électro-
+nique.
+
+ARTICLE 81- Un Comité technique de normalisation des procédures électroniques ins-
+titué au sein de l'OHADA est chargé de la normalisation des procédures effectuées au
+moyen de documents et de transmissions électroniques.
+
+CHAPITRE H
+VALIDITE DES DOCUMENTS ELECTRONIQUES ET DES SIGNATURES
+ELECTRONIQUES
+
+ARTICLE 82- Les formalités accomplies auprès des Registres du Commerce et du
+Crédit Mobilier au moyen de documents électroniques et de transmissions électroniques
+ont les mêmes effets juridiques que celles accomplies avec des documents sur support
+papier, notamment en ce qui concerne leur validité juridique et leur force probatoire.
+
+Les documents sous forme électronique peuvent se substituer aux documents sur sup-
+port papier et sont reconnus comme équivalents lorsqu'ils sont établis et maintenus
+selon un procédé technique fiable, qui garantit, à tout moment, l'origine du document
+sous forme électronique et son intégrité au cours des traitements et des transmissions
+électroniques.
+
+Les procédés techniques fiables et garantissant, à tout moment, l'origine des documents
+sous forme électronique ainsi que leur intégrité au cours de leurs traitements et de leurs
+transmissions électroniques sont reconnus valables par le présent Acte uniforme ou par
+le Comité technique de normalisation des procédures électroniques prévu à l'article 81
+du présent Acte uniforme. :
+
+L'usage d'une signature électronique qualifiée est un procédé technique fiable et garan-
+tissant, à tout moment, l'origine des documents sous forme électronique, leur intégrité
+au cours de leurs traitements et de leurs transmissions électroniques.
+
+ARTICLE 83- La signature électronique qualifiée est appliquée à un document et per-
+met d'identifier le signataire et de manifester son consentement aux obligations qui
+découlent de l'acte.
+
+Elle présente les caractéristiques suivantes :
+
+- elle est liée uniquement au signataire ;
+
+- elle permet d'identifier dûment le signataire ;
+
+- elle est créée par des moyens que le signataire peut garder sous son contrôle exclusif ;
+
+- elle est liée au document auquel elle se rapporte de telle sorte que toute modification
+ultérieure du document soit détectable.
+
+Acte uniforme portant sur le Droit commercial général , adopté le 15 décembre 2010
+- 33 -
+

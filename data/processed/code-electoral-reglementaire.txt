@@ -1,0 +1,1288 @@
+# Code électoral - Partie réglementaire (décret n° 2021-1196 du 20 septembre 2021, modifié)
+# Source : Ministère de l'Intérieur - Direction générale des Élections - fourni par l'équipe (code-electoral-senegal-2023.pdf)
+# Version : Édition 2023 : décret n° 2021-1196 du 20/09/2021 modifié par le décret n° 2023-1935 du 19/09/2023 | Consulté le 2026-10-23
+# Pages PDF 121-159 | filtre partie=PARTIE REGLEMENTAIRE
+
+[[page 121]]
+PARTIE REGLEMENTAIRE
+
+TITRE PREMIER DISPOSITIONS COMMUNES A L'ELECTION
+DU PRESIDENT DE LA REPUBLIQUE ET AUX ELECTIONS DES DEPUTES, DES HAUTS CONSEILLERS, DES CONSEILLERS DEPARTEMENTAUX ET MUNICIPAUX--------
+
+TITRE II DISPOSITIONS SPECIALES
+RELATIVES A L'ELECTION DU PRESIDENT DE LA REPUBLIQUE ET AUX ELECTIONS DES DEPUTES--
+
+TITRE III DISPOSITIONS SPECIALES
+RELATIVES A L'ELECTION DES HAUTS CONSEILLERS--------------
+
+TITRE IV DISPOSITIONS SPECIALES
+CONCERNANT LES ELECTIONS DES CONSEILLERS DEPARTEMENTAUX ET MUNICIPAUX---------
+
+TITRE V DISPOSITIONS SPECIALES
+RELATIVES A LA PARTICIPATION DES SENEGALAIS ETABLIS OÙ RESIDANT HORS DU SENEGAL A L'ELECTION DU PRESIDENT DE LA REPUBLIQUE ET AUX ELECTIONS DES DEPUTES
+
+[[page 122]]
+TITRE PREMIER
+
+DISPOSITIONS COMMUNES A L'ELECTION DU PRESIDENT DE LA
+
+REPUBLIQUE ET AUX ELECTIONS DES DEPUTES, DES HAUTS CONSEILLERS,
+
+DES CONSEILLERS DEPARTEMENTAUX ET MUNICIPAUX
+CHAPITRE PRELIMINAIRE
+
+DE LA GESTION ET DU CONTROLE DU PROCESSUS ELECTORAL
+
+SECTION I
+
+L'ADMINISTRATION ELECTORALE
+
+Article R premier.-
+
+Les services centraux du Ministère chargé des Elections assurent la mise en œuvre des prérogatives de celui-ci en matière électorale.
+
+Article R.2.-
+
+Sous l'autorité du Ministre chargé des Elections, ils préparent et organisent les élections nationales et locales ainsi que les référendums. A ce titre, ils assurent notamment :
+
+1.
+2.
+
+10.
+11.
+12.
+13.
+14.
+
+concerne la mise en œuvre du processus électoral et les diverses statistiques ;
+15.
+
+électoral.
+
+l'établissement, la révision des listes électorales et la tenue des fichiers électoraux ;
+
+les études et le développement des applications relatives au fichier général des électeurs ;
+
+. la centralisation et le traitement des informations relatives au fichier général des
+
+électeurs ;
+
+. la conception, la confection, l'installation et la conservation des documents et
+
+archives électoraux ;
+
+. l'organisation et le suivi de la distribution des cartes d'électeur ;
+. la commande et le contrôle des conditions d'impression des bulletins de vote ;
+. la mise en œuvre et le contrôle, en liaison avec les autorités administratives, des
+
+principes applicables en matière de propagande électorale ;
+
+. l'appui aux services de sécurité pour ce qui concerne le dispositif de sécurité
+
+applicable lors des opérations de vote ;
+
+. la formation afférente au processus électoral des responsables administratifs, des
+
+agents électoraux, des autorités judiciaires et des élus ;
+
+les campagnes de sensibilisation et d'information civique ;
+
+l'élaboration et la gestion de la carte électorale ;
+
+l'adaptation des outils informatiques aux besoins électoraux ;
+
+l'analyse des scrutins électoraux ;
+
+la diffusion de l'information technique relative aux élections notamment celle qui
+
+l'appui aux autorités judiciaires dans l'exercice de leurs missions relevant du Code
+
+Les prérogatives concernant les circonscriptions administratives sont mises en œuvre
+
+en relation avec les Autorités administratives
+
+[[page 123]]
+Article R.3.-
+
+Pour les besoins de la préparation et de l'organisation des opérations électorales et référendaires, le Ministre chargé des Elections s'appuie sur les forces de sécurité et de défense, en relation avec leur Ministère de tutelle.
+
+SECTION 2
+
+LA COMMISSION ELECTORALE NATIONALE AUTONOME (CE.N.A)
+
+Article R.4.-
+
+Avant leur entrée en fonction, les membres de la C.E.N.A prêtent devant le Conseil Constitutionnel le serment suivant: « Je jure d'accomplir ma mission avec impartialité, de ne me laisser influencer ni par l'intérêt personnel présent ou futur, ni par une pression d'aucune sorte. Dans mon appréciation, je n'aurai pour guides que la loi, la justice et l'équité. Je m'engage à l'obligation de réserve et au secret des délibérations, même après la cessation de mes activités ».
+
+Article R.5.-
+
+En cas d'empêchement ou de démission d'un membre de la C.E.N.A dans les conditions prévues à l'article L.9 du présent code, il est pourvu, par décret, à son remplacement par une personne appartenant à l'institution, à l'association ou à l'organisme dont il était issu.
+
+Article R.6.-
+
+Les membres de la C.E.N.A perçoivent, durant leur mandat, des indemnités mensuelles dont les montants sont fixés par décret.
+
+Les frais de mission qui leur sont versés, en cas de besoin, correspondent à ceux qui sont en vigueur au niveau de l'Etat.
+
+Le Secrétaire Général de la C.E.N.A perçoit une indemnité mensuelle dont le montant est fixé par décret. Le taux de ses frais de mission est le même que celui des membres de la C.E.N.A.
+
+Article R.7.-
+
+La C.E.N.A ne peut délibérer valablement qu'en présence de neuf (9) de ses membres au moins.
+
+Les décisions de la C.E.N.A sont prises par consensus ou, à défaut, au scrutin secret à la majorité des deux tiers des membres présents. Si cette condition n'est pas remplie, il est procédé à un troisième vote et la décision est cette fois-ci prise à la majorité simple. En cas de partage des voix, celle du Président est prépondérante.
+
+[[page 124]]
+Article R. 8.-
+
+Les contrôleurs et les superviseurs de la C.E.N.A sont choisis parmi les fonctionnaires et agents publics des hiérarchies A, B ou assimilées en activité ou à la retraite, ou parmi les agents du secteur privé de niveau équivalent. A défaut, ils sont choisis parmi les citoyens sachant lire et écrire dans la langue officielle.
+
+Article R.9.-
+
+La C.E.N.A est secondée dans sa tâche de supervision et de contrôle par des démembrements au niveau des départements et à l'extérieur du territoire national.
+
+Les démembrements de la C.E.N.A sont mis en place dès le début des opérations électorales ou référendaires où pour toutes autres missions jugées utiles par la C.E.N.A.
+
+Pour le suivi de l'activité des démembrements, chaque membre de la CENA a sous son autorité la gestion d'entités territoriales suivant les conditions et modalités déterminées par l'Assemblée Générale de la C.E.N.A.
+
+Le mandat des démembrements prend fin dès que les opérations ou les missions pour lesquelles ils ont été institués arrivent à leur terme.
+
+Article R.10.-
+
+AU niveau de chaque Département et pour toutes les opérations électorales et référendaires, la C.E.N.A est représentée par une « Commission Electorale Départementale Autonome » (C.E.D.A). Celle-ci comprend cinq (05) membres nommés par le Président de la C.E.N.A. parmi les personnalités indépendantes du département, de nationalité sénégalaise, connues pour leur intégrité morale, leur honnêteté intellectuelle, leur neutralité et leur impartialité après approbation de l'Assemblée Générale.
+
+Article R.11.-
+
+Auprès de chaque Ambassade ou Consulat du Sénégal situé dans un pays où les ressortissants du Sénégal ont le nombre requis pour participer aux élections, la C.E.N.A est représentée par une délégation comprenant:
+
+1. un Président nommé par le Président de la C.E.N.A parmi les membres de la colonie ;
+
+2. deux autres membres de la colonie nommés par le Président après consultation des ressortissants;
+
+3. un agent de l'Ambassade ou du Consulat faisant office de Secrétaire général.
+
+La nomination des membres des Délégations Extérieures de la Commission Electorale Nationale Autonome (D.E.C.E.N.A) est faite par le Président de la C.E.N.A, après approbation de l'Assemblée Générale de la C.E.N.A et enquête sur leur intégrité morale, leur honnêteté intellectuelle, leur neutralité et leur impartialité.
+
+La D.E.C.E.N.A exerce les fonctions de contrôle et de supervision des opérations électorales et référendaires et des élections pour le compte et sous l'autorité de la C.E.N.A.
+
+[[page 125]]
+Article R.12.-
+En cas d'empêchement préjudiciable aux missions de contrôle et de supervision des opérations électorales ou référendaires ou de démission dûment constatés, les membres des démembrements de la C.E.N.A. sont remplacés, sur décision du Président de la C.E.N.A. et après délibération de l'Assemblée Générale de la C.E.N.A.
+
+Article R.13.-
+
+Les membres de la C.E.D.A, et de la D.E.C.E.N.A perçoivent, durant leur mandat, des indemnités mensuelles dont les montants sont fixés par décret.
+
+Article R.14.-
+
+Avant leur entrée en fonction, les membres des C.E.D.A, et des D.E.C.E.N.A ainsi que leurs contrôleurs et superviseurs prêtent serment, dans les termes prévus à l'article R.4 :
+
+1. devant le tribunal d'Instance du ressort;
+2. ou devant le Chef de mission diplomatique ou consulaire.
+
+Article R.15.-
+
+Le Secrétaire général de la C.E.N.A, les Secrétaires généraux des démembrements, le personnel et les experts sont soumis à une obligation de réserve et de discrétion.
+
+SECTION 3
+L'OBSERVATION ELECTORALE
+Article R.16.-
+Le Gouvernement du Sénégal peut inviter des Organisations nationales ou internationales,
+
+gouvernementales ou non gouvernementales à observer l'élection présidentielle, les élections législatives, les élections départementales et municipales et les référendums.
+
+Toute organisation ou tout organisme, de même que tout particulier intéressé par le processus électoral peut également demander une accréditation pour observer les élections aussi bien à l'intérieur du pays qu'à l'étranger.
+
+[[page 126]]
+Article R.17.-
+
+Toute mission d'observation électorale qui souhaite être accréditée doit présenter les pièces suivantes :
+
+1. une demande adressée au Ministre chargé des élections ou au Ministre chargé des Affaires Etrangères pour le vote des sénégalais de l'Extérieur ;
+
+2. un acte officiel de reconnaissance en original ou certifié conforme ;
+
+3. la liste et l'identité complètes des observateurs.
+
+Pour les observateurs internationaux, en plus des pièces précédentes et pour chaque observateur, il faut :
+
+1. une photocopie du passeport: page d'identification et celle comportant le cachet d'entrée sur le territoire national ;
+
+2. un ordre de mission pour chaque observateur délivré par la structure ou
+
+l'organisme qui l'envoie ;
+
+une photocopie du billet d'avion aller et retour, le cas échéant ;
+
+les ressortissants de la Communauté Economique des Etats de l'Afrique de l'Ouest
+
+(CEDEAO) qui empruntent les voies terrestres, doivent présenter une photocopie
+
+de la pièce d'identité et un ordre de mission visé à l'entrée par le service national
+
+de la police des frontières ;
+
+5. une assurance pour la prise en charge maladie ou de rapatriement du corps en cas de décès ;
+
+6. la justification de ressources suffisantes pour couvrir le séjour et les activités de la mission d'observation.
+
+Le dossier complet doit être déposé ou envoyé au Ministère chargé des Elections directement ou par le canal du Ministère chargé des Affaires Etrangères au plus tard quinze (15) jours avant le jour du scrutin.
+
+Les dossiers déposés au-delà de ce délai sont déclarés irrecevables.
+
+Article R.18.-
+Il est créé à la veille de chaque élection, une commission chargée de la réception et de l'instruction des demandes d'accréditation de mission d'observation électorale. Elle siège quatre (04) mois avant et un (01) mois après le scrutin.
+
+Elle reçoit et instruit l'ensemble des pièces de la demande d'accréditation.
+
+Elle prépare les lettres d'invitation et les titres d'accréditation qui sont soumis à la signature du Ministre chargé des Elections.
+
+Elle délivre également les lettres d'invitation, les titres d'accréditation ainsi que les badges individuels.
+
+Sur demande motivée, les observateurs nationaux peuvent recevoir leurs accréditations trois (3) mois avant le scrutin.
+
+L'accréditation des observateurs relève du pouvoir discrétionnaire de l'administration électorale.
+
+[[page 127]]
+Article R.19.-
+La commission est composée ainsi qu'il suit:
+
+1. Trois (03) représentants du Ministère chargé des Elections ;
+2. Un (01) représentant du Ministère chargé des Affaires Etrangères ;
+3. Trois (03) représentants de la Commission Electorale nationale Autonome (CENA).
+
+Elle est présidée par un représentant du Ministre chargé des Elections.
+Article R.20.-
+
+Un arrêté du Ministre chargé des Elections détermine les modalités d'organisation et de fonctionnement de la commission prévue par l'article R.18 du présent code.
+
+Article R.21.-
+Les missions d'observation ont droit notamment:
+
+. aux titres d'accréditation et badges d'identification ;
+
+. à l'accès à la législation électorale et aux documents électoraux ;
+
+. à l'accès à l'information électorale ;
+
+. à l'accès aux acteurs du processus électoral ;
+
+. à l'accès aux centres, lieux et bureaux de vote ;
+
+. de regard sur les opérations du processus électoral à travers tout le territoire national.
+S'agissant des Commissions de Recensement des votes, les missions d'observation doivent requérir au préalable l'agrément du Président de la Commission nationale de Recensement des votes ;
+
+7. à l'assistance en matière de sécurité en cas de besoin.
+
+O O1 BR © ND =
+
+Article R.22.-
+
+Le Gouvernement peut signer avec certaines missions d'observation un protocole d'accord.
+
+En tout état de cause, l'observateur doit, à titre indicatif :
+
+1. respecter la souveraineté et la législation nationales du pays ;
+
+2. être neutre et impartial ;
+
+3. éviter toute ingérence ou commettre un acte de nature à porter atteinte ou préjudice au processus électoral ou aux acteurs électoraux, surtout l'administration électorale. Il peut cependant porter à l'attention des membres de l'administration électorale ou des agents électoraux, certaines constatations d'irrégularités qui pourront être corrigées rapidement tout en évitant de donner l'impression qu'il s'agit d'instructions ou de contredire les décisions des responsables électoraux ;
+
+[[page 128]]
+4. s'abstenir de faire des commentaires personnels ou prématurés en public ou en privé ;
+
+5. s'abstenir de porter ou d'afficher des symboles, couleurs ou bannières appliqués à un candidat ou liste de candidats ;
+
+6. décliner son identité aux autorités compétentes sur demande :
+
+7. Se munir des pièces d'identification prescrites par le Gouvernement, c'est-à-dire le titre d'accréditation ou le badge ;
+
+8. s'acquitter de ses tâches avec discrétion, sans perturber ni entraver le processus électoral, les procédures de vote ni le dépouillement des voix ;
+
+9. s'abstenir de faire des injonctions à l'administration électorale ou des remarques tendancieuses ;
+
+10. s'abstenir de demander une assistance matérielle ou financière à l'Etat du Sénégal ou à ses démembrements.
+
+Article R.23.-
+La mission d'observation électorale doit faire une déclaration d'arrivée, décliner l'objet et la durée de la mission et communiquer son adresse, une fois sur le territoire
+
+national.
+
+Après l'élection, elle doit produire un rapport final, transmis au Ministère chargé des Elections et à la CENA, au plus tard dans les (03) trois mois qui suivent le scrutin.
+
+La mission d'observation électorale qui ne respecte pas ces obligations n'est pas habilitée à demander de nouveau une accréditation.
+
+Article R.24.-
+
+En cas de violation de la loi électorale, les sanctions sont de la compétence exclusive des institutions sénégalaises.
+
+Le Gouvernement peut, à tout moment, retirer l'accréditation soit provisoirement, soit définitivement, en cas de manquement aux obligations liées à l'observation électorale.
+
+S'il s'agit d'une mission d'observation étrangère ou d'un observateur étranger, après le retrait définitif, l'expulsion est immédiate.
+
+[[page 129]]
+SECTION 4
+DISPOSITIONS GENERALES
+Article R.25.-
+
+Dans le présent code, les compétences conférées aux Préfets et aux Sous-préfets concernent :
+
+1. les départements pour les Préfets;
+2. les communes pour les Préfets et les Sous-préfets.
+
+Article R.26.-
+
+Lorsque le premier ou le dernier jour des délais prescrits au présent code est un Dimanche ou un jour férié ou chômé, le délai expire le premier jour ouvrable suivant sauf pour le dépôt des candidatures aux élections de liste.
+
+Tous les délais prescrits sont des délais francs.
+
+CHAPITRE PREMIER
+LE CORPS ELECTORAL
+Article R.27.-
+
+Les corps militaires, paramilitaires et autres fonctionnaires et agents visés à l'article L.29 s'entendent :
+
+. des personnels de l'Armée nationale ;
+
+. des personnels de la Gendarmerie ;
+
+. des personnels de la Brigade Nationale des Sapeurs-Pompiers ;
+
+. des personnels des Forces de police ;
+
+. des personnels de l'Administration Pénitentiaire ;
+
+. des personnels de l'Administration des Douanes ;
+
+. des personnels des Eaux, Forêts, Chasses et de la conservation des sols ;
+. des personnels des Parcs nationaux ;
+
+. des personnels paramilitaires de la Direction de l'Hygiène publique ;
+
+10. des personnels du Chiffre.
+
+© © -J O O1 À © ND =
+
+Sont également concernés, les recrues et les élèves en formation dans un des corps cités ci-dessus.
+
+[[page 130]]
+CHAPITRE II
+LES LISTES ELECTORALES
+SECTION 1
+ETABLISSEMENT ET REVISION DES LISTES ELECTORALES
+Article R.28.-
+
+Les listes électorales sont permanentes. Elles sont mises à jour régulièrement selon des procédures de deux ordres :
+
+- une révision dite « ordinaire » a lieu sauf cas de force majeure où de révision
+
+exceptionnelle en perspective, chaque année du 1% février au 31 juillet inclus
+
+conformément aux dispositions du présent code, notamment en ses articles R.32, R.39, R.40 et R.41.
+
+- une révision dite « exceptionnelle », toujours adossée à une élection générale. Elle est instituée et encadrée par un décret qui détermine le moment, les modalités pratiques d'exécution, la durée des opérations au niveau des commissions administratives et les délais du contentieux de l'enrôlement, de la publication des listes provisoires ainsi que ceux de la radiation d'office. Il peut, à chaque fois que de besoin, faire des renvois au Code électoral.
+
+Les partis politiques légalement constitués, les coalitions de partis politiques légalement constitués et les entités regroupant des personnes indépendantes peuvent participer à toutes les phases du processus électoral.
+
+Pour pouvoir valablement participer au processus électoral, la coalition de partis politiques légalement constitués ou l'entité regroupant des personnes indépendantes doit indiquer au Ministre chargé des élections le nom choisi et l'objet de l'activité pour laquelle elle est créée sans préjudice des articles L.123, L.149, L.201, L.232, L.278.
+
+Celui-ci lui délivre un acte qui lui permet de participer au dit processus.
+La valeur juridique de l'acte s'achève à la clôture dudit processus.
+Article R.29.-
+
+Au plus tard cinq (05) jours avant le début de la révision des listes électorales, les autorités administratives compétentes instituent, par arrêté, des commissions d'établissement et de révision des listes électorales, et précisent les horaires ainsi que les lieux où elles doivent siéger. Ces commissions sont constituées en application de l'article
+
+L.39. Elles informent les partis politiques de la date de démarrage de la révision en vue de leur représentation.
+
+[[page 131]]
+Article R.30.-
+
+Dans les communes, les commissions fonctionnent de huit (08) à dix-huit (18) heures.
+Toutefois, leurs horaires peuvent être adaptés aux circonstances.
+
+Si les circonstances l'exigent, les commissions fixes peuvent être transformées en commissions itinérantes par arrêté de l'autorité administrative compétente.
+
+Article R.31.-
+
+A chaque président de commission administrative est remis un registre côté et paraphé par l'autorité administrative compétente et sur lequel sont mentionnées les opérations effectuées par la commission.
+
+Ce registre est tenu à la disposition de la C.E.N.A, des électeurs et des partis ou coalitions de partis politiques.
+
+Article R. 32.-
+
+Du 1% février au 10 juillet de chaque année, sur le territoire national, la commission administrative prévue à l'article L.37 reçoit les demandes d'inscription, de modification, de changement de statut et de radiation qui lui sont présentées, sur des carnets dédiés à chaque catégorie d'opération ou sur des formulaires spécifiques conçus à cet effet.
+
+Le changement de statut concerne l'électeur civil devenu militaire ou paramilitaire ou vice versa.
+
+Pour prouver son rattachement à la collectivité territoriale, si l'adresse domiciliaire ou le lieu de naissance qui figure sur la carte nationale d'identité ne se trouve pas dans la circonscription électorale, l'électeur doit produire un certificat de résidence. S'il y'a carence dans la délivrance du certificat de résidence quarante-huit (48) heures après la demande, l'Autorité administrative y pourvoit sur rapport du service de Police ou de Gendarmerie territorialement compétent.
+
+A défaut du certificat de résidence, l'électeur doit présenter soit une facture d'eau, d'électricité ou de téléphone soit un quitus fiscal.
+
+La facture ou le quitus fiscal doit être établi au nom de l'électeur et dater d'au moins six (06) mois. »
+
+Les opérations décrites à l'article L.36 et qui concernent l'inscription des sénégalais de l'extérieur ne sont exécutées que pendant une révision exceptionnelle tenue à l'étranger.
+
+Article R. 33.-
+La commission ajoute, à la liste électorale, les personnes :
+1. qu'elle reconnaît avoir les qualités exigées par la loi pour être électeurs dans la commune ;
+2. qui auront acquis les conditions d'âge et de résidence avant la clôture définitive de la
+
+liste électorale ;
+3. qu'elle reconnaît avoir été indûment omises.
+
+[[page 132]]
+Article R.34.-
+
+La commission retranche, de la liste électorale, les électeurs :
+
+1. décédés ;
+
+2. dont la radiation a été ordonnée par l'autorité compétente ou qui ont perdu les qualités requises par la loi ;
+
+3. qu'elle reconnaît avoir indûment inscrits, bien que leur inscription n'ait été attaquée.
+
+Article R.35.-
+
+La commission apporte, à la liste, toutes les modifications nécessaires dues aux changements de statut, de circonscription électorale, d'adresse du domicile de l'électeur ou à des erreurs constatées sur les prénoms, nom, filiation, profession ou domicile.
+
+Article R.36.-
+
+Les inscriptions, modifications, changement de statut et radiations prévus aux articles R.33, R.34 et R35 sont effectués sur des carnets ou formulaires confectionnés et mis à disposition par le Ministère chargé des Elections. Les carnets ainsi que les feuillets qu'ils contiennent sont numérotés, il en est de même des formulaires qui, en plus, peuvent porter un code barre.
+
+Les carnets ou formulaires, une fois remplis par les commissions administratives, sont visés par le Préfet ou le Sous-préfet, le président de ladite commission et le contrôleur de la CENA, avant transmission aux services centraux, chargés de la gestion du fichier général des électeurs, pour exploitation. Cette transmission est faite au cours et à la fin de la révision par l'autorité administrative suivant un bordereau qui porte les numéros des carnets entièrement remplis ou des formulaires.
+
+Article R.37.-
+
+L'inscription des membres des corps militaires et paramilitaires sur les listes électorales se fait sur la base des mêmes carnets ou formulaires que ceux des citoyens civils.
+
+Le statut d'électeur militaire où paramilitaire est indiqué sur le feuillet du carnet ou sur le formulaire.
+
+L'attestation prévue à l'article L.40 est délivré, pour chaque corps, par l'autorité compétente.
+
+[[page 133]]
+Article R.38.-
+
+A la fin des opérations de révision des listes électorales, sous la supervision et le contrôle de la C.E.N.A, le Président de la commission remet au Préfet ou au Sous-préfet :
+
+1. Les carnets entièrement ou partiellement remplis ou les formulaires dans chaque catégorie d'opération avec indication :
+- de leurs numéros ;
+-__des numéros des premiers et derniers feuillets inclus, s'il s'agit de carnet.
+
+2. Les carnets non remplis ou les formulaires dans chaque catégorie d'opération, avec indication :
+- de leurs numéros ;
+- des numéros des premiers et derniers feuillets inclus, s'il s'agit de carnet.
+3. Le registre des opérations signé par tous les membres de la commission administrative et comportant, le cas échéant, mention de toutes les observations des membres de la commission.
+
+Article R.39.-
+
+Les décisions de la commission sont prises au moment de la demande d'inscription, de modification, de changement de statut ou de radiation, en présence du demandeur.
+
+Lorsque la commission refuse d'inscrire un électeur, cette décision lui est aussitôt notifiée. Il est délivré un avis de rejet motivé. L'intéressé est informé qu'il dispose de la possibilité de contester ladite décision en application de l'article L.43.
+
+Lorsque la commission radie d'office un électeur pour d'autres causes que le décès, ou lorsqu'elle prend une décision à l'égard d'une inscription qui a été contestée devant elle, il est délivré, le 10 juillet au plus tard un avis motivé de radiation d'office, destiné à l'électeur radié.
+
+La liste des électeurs radiés d'office est conservée à la préfecture ou à la souspréfecture.
+Elle peut être consultée par tout électeur de la commune.
+
+Article R.40.-
+
+Le Président du Tribunal d'Instance saisi en vertu des articles L.43 et L.44, notifie sa décision, dans les deux (02) jours ou au plus tard le 27 juillet à l'intéressé, aux Préfets ou aux Sous-préfets.
+
+Article R.41.-
+
+Le Préfet ou le Sous-préfet transmet les décisions du président du Tribunal
+
+d'Instance à la commission Administrative. Du 28 au 31 juillet, celle-ci modifie ou rédige, en
+
+conséquence, les feuillets d'inscription, de modification, de changement de statut ou de radiation.
+
+[[page 134]]
+Article R.42.-
+
+Les carnets ou les formulaires d'inscription, de modification, de changement de statut et de radiation sont transmis sans délai par les Préfets et les Sous-préfets aux services centraux chargés du fichier général.
+
+Article R.43.-
+
+Au vu des carnets ou formulaires d'inscription, de modification, de changement de statut et de radiation, le Ministère chargé des Elections fait procéder à la mise à jour du fichier général des électeurs par les services centraux.
+
+Les services centraux procèdent au croisement des listes pour assurer que l'électeur ne puisse figurer qu'une seule fois dans le fichier général des électeurs.
+
+Au cours du traitement des données, les services centraux peuvent rejeter des demandes.
+
+Toutefois, ces rejets sont motivés. Une liste de ces rejets accompagnée des motifs est établie.
+
+Une fois le traitement terminé, toutes les listes des mouvements, accompagnées des listes de rejets ainsi que des motifs, sont déposées dans les préfectures et les souspréfectures, dans les deux (02) mois qui suivent la clôture des opérations de la révision.
+
+En outre, des exemplaires de ces listes sont transmis :
+
+1. au secrétariat du conseil départemental ;
+2. au secrétariat de la mairie concernée pour les villes et les communes.
+
+Les listes provisoires sont transmises sous format papier ou électronique et/ou par courriel.
+
+Les Préfets et les Sous-préfets, les Présidents de conseil départemental et les Maires dressent un procès-verbal de réception des listes des mouvements et des rejets accompagnés des motifs. Ce document est affiché sur le panneau des annonces officielles des préfectures, des sous-préfectures, des hôtels de département et des mairies. Cette formalité vaut publication de la liste électorale.
+
+Le délai de vingt (20) jours prévu par l'article L.45 alinéa 2 commence à courir à compter du lendemain du jour de l'affichage du procès-verbal de réception des listes électorales.
+
+Les listes détenues par les Autorités indiquées aux alinéas 4 et 5 du présent article sont à la disposition des électeurs qui peuvent les consulter.
+
+En application des articles L.40 et L.41, tout électeur faisant l'objet d'une radiation d'office dispose d'un délai de cinq (5) jours à compter de la notification écrite pour saisir le Président du tribunal d'instance compétent par simple déclaration au greffe. Ce dernier dispose d'un délai de dix (10) jours pour statuer.
+
+La décision est notifiée dans les deux (2) jours à l'intéressé, au préfet et au souspréfet.
+
+[[page 135]]
+Article R.44.-
+
+A l'issue de la révision des listes électorales, le Ministre Chargé des Elections transmet, à chaque collectivité territoriale, par l'intermédiaire des autorités administratives, la liste de tous les mouvements subis par la liste électorale de ladite collectivité.
+
+En application des alinéas 3 des articles L.243 et L.278 du Code électoral, pour déterminer le nombre d'électeurs soutenant la candidature d'une entité regroupant des personnes indépendantes, l'arrêté du Ministre chargé des élections est pris dés la clôture de la période contentieuse de la publication des listes provisoires des mouvements de la révision. Les calculs sont effectués sur la base du fichier électoral en l'état à cette date.
+
+La liste des électeurs soutenant la candidature d'une entité regroupant des personnes indépendantes doit comporter les rubriques suivantes : prénoms et nom, date et lieu de naissance, numéro de la carte d'électeur, circonscription électorale, numéro d'identification nationale et signature. Elle est déposée sous format papier et électronique.
+
+Le contrôle effectué par les autorités administratives compétentes porte sur le nombre de souteneurs requis et la qualité d'électeur de la circonscription électorale concernée.
+
+A la fin des opérations de révision, le Ministre chargé des Elections arrête et publie la liste définitive des électeurs par tout moyen de communication disponible. Un exemplaire de cette liste est adressé à la C.E.N.A.
+
+La carte électorale mise à jour à l'issue d'une révision exceptionnelle est publiée trente (30) jours au moins avant le scrutin pour lequel elle a été instituée.
+
+SECTION 2
+
+CONTROLE DES INSCRIPTIONS SUR LES LISTES ELECTORALES
+
+Article R.45.-
+
+Lorsqu'un électeur est décédé, son nom est rayé de la liste électorale. Tout électeur de la circonscription électorale a le droit d'exiger sa radiation. Une fiche de contrôle de radiation est transmise au Ministre Chargé des Elections.
+
+Si l'électeur décédé n'est pas inscrit sur la liste électorale du lieu de son décès, le Gouverneur, le Préfet ou le Sous-préfet transmet l'acte de décès au lieu d'inscription, s'il est connu, et une fiche de contrôle de radiation au Ministre Chargé des Elections.
+
+Dans les deux cas, la fiche de contrôle de radiation est également transmise à la C.E.N.A.
+
+Article R.46.-
+
+Tout électeur qui, en application de l'article L.47, prend communication d'une liste électorale doit s'engager au préalable et par écrit à ne pas en faire un usage commercial.
+
+[[page 136]]
+SECTION 3
+CARTES D'ELECTEUR
+Article R.47.-
+
+Les données électorales sont mentionnées au verso de la carte d'identité biométrique CEDEAO de tout citoyen inscrit sur les listes électorales. On distingue deux types de données électorales
+
+les données électorales générales qui concernent la region, le département et l'arrondissement. Un changement intervenu dans ces données n'implique pas obligatoirement l'édition de nouvelles cartes d'électeur. Le vote est comptabilisé dans la nouvelle entité administrative de rattachement des données spécifiques.
+
+- les données électorales spécifiques qui comprennent le numéro d'électeur, le numéro d'identification nationale, la commune, le lieu de vote et le bureau de vote.
+
+La carte d'électeur est valable pour l'élection présidentielle, les élections législatives, départementales et communales. Elle peut être utilisée pour l'élection des Hauts conseillers.
+
+Le modèle et la nature des cartes d'électeur sont fixés par le décret n°2016-1536 du 29 septembre 2016 portant application de la loi n°2016-09 du 14 mars 2016 instituant une carte d'identité biométrique CEDEAO.
+
+En cas de perte de la carte d'électeur, l'attestation qui est établie doit comporter les indications relatives à l'identité de l'électeur et celles du président de la commission et du contrôleur de la CENA ainsi que leurs signatures respectives.
+
+Article R.48.-
+
+Les autorités administratives compétentes instituent, par arrêté, des commissions chargées de la distribution des cartes d'électeur en application de l'article L.54. Elles informent les partis, coalitions de partis politiques ou entités indépendantes des modalités de fonctionnement en vue de leur représentation.
+
+Article R.49.-
+
+Les commissions de distribution des cartes d'électeur fonctionnent dans les conditions prévues à l'article R.30 du présent code.
+
+Article R.50.-
+La distribution des cartes d'électeurs est permanente.
+
+Elle est assurée, pendant les périodes de révision des listes électorales par la commission administrative instituée à cet effet, sous la supervision de la CENA.
+
+Pendant la période de révision et durant les quarante-cinq (45) jours qui précèdent l'élection
+
+présidentielle, les élections législatives et celles départementales ou municipales, par les commissions administratives, sous la supervision de la CENA.
+
+[[page 137]]
+En cas d'élection anticipée ou d'organisation d'un référendum, un arrêté du Ministre chargé des Elections détermine les conditions de mise en fonction des commissions administratives de distribution.
+
+La distribution des cartes d'électeur se poursuit jusqu'à la veille du scrutin.
+
+Du lendemain du scrutin jusqu'à l'ouverture de la prochaine révision des listes électorales, tout comme pour la période qui sépare deux (02) révisions, la distribution est assurée par le Préfet ou le Sous-préfet. La CENA et le comité électoral local en sont tenus informés. »
+
+Article R.51.-
+
+Durant les périodes de révision et pendant les 45 jours qui précèdent le scrutin, le Président de la commission de distribution des cartes CEDEAO faisant office de carte d'identité assure la conservation et la garde desdites cartes, sous la supervision et le contrôle de la CENA.
+
+En dehors de ces périodes, l'agent de la Préfecture ou de la Sous-préfecture préposé à la distribution rend compte, avec précision, du déroulement de la distribution à l'autorité qui l'a nommé et tout incident affectant le processus est porté à sa connaissance, sans délai. En tout état de cause, la CENA et le comité électoral local sont toujours tenus informés de la situation.
+
+Quelle que soit la période considérée, les cartes à distribuer sont toujours sous la responsabilité du président de la commission ou de l'agent préposé à la distribution.
+Le Préfet ou le Sous-préfet doivent s'assurer que le lieu de garde choisi est sécurisé. A cet effet, le président ou l'agent est tenu, à la fin de chaque journée de distribution, d'informer l'autorité administrative compétente des mesures idoines prises à ce sujet, à charge pour celle-ci d'apprécier leur pertinence et leur fiabilité. »
+
+A la fin de chaque période de distribution, le Préfet, le Sous-préfet ou le président et les membres de chaque commission dressent un procès-verbal des opérations, visé par la C.E.N.A. La C.E.N.A, le Préfet ou le Sous-préfet ainsi que chaque membre de la commission reçoivent copie du procès-verbal.,
+
+Ce procès-verbal, les cartes non distribuées, la liste d'émargements des électeurs ainsi que le registre des opérations dans lequel figurent les mentions de contestations éventuelles constituent le dossier de passation d'activités pour les besoins de la permanence de la distribution.
+
+Article R.52.-
+L'Etat met à la disposition des commissions administratives de révision des listes
+
+électorales et de distribution des cartes d'électeur les moyens matériels nécessaires à leur bon fonctionnement.
+
+[[page 138]]
+CHAPITRE III
+PROPAGANDE ELECTORALE
+Article R.53.-
+
+Sont interdites les affiches ayant un but ou un caractère électoral et qui comprennent une combinaison des couleurs : vert, or et rouge.
+
+La propagande électorale est interdite à l'intérieur et aux environs immédiats des casernes, des services et généralement dans tous les lieux de regroupement des membres des corps militaires et paramilitaires.
+
+Il est également interdit aux membres de ces corps de participer d'une manière quelconque à toute forme de propagande électorale, sous peine de sanctions disciplinaires.
+
+Article R.54.-
+
+Le nombre maximal des emplacements réservés à chaque candidat ou liste de candidats pour l'affichage électoral est fixé à :
+
+1. Cinq (05) dans les circonscriptions électorales comptant moins de deux mille cinq cents (2.500) électeurs inscrits ;
+
+2. Sept (07) dans les circonscriptions électorales comptant au moins deux mille cinq cents électeurs inscrits avec un emplacement supplémentaire par groupe de cinq mille (5.000) électeurs en sus.
+
+Article R. 55.-
+
+Les demandes d'emplacements sont adressées par les représentants des partis ou coalitions de partis politiques au préfet ou au sous-préfet selon le cas. Elles sont enregistrées et transmises au maire compétent. Les emplacements sont attribués dans l'ordre d'enregistrement des demandes au plus tard la veille de l'ouverture de la campagne électorale.
+
+Article R.56.-
+
+Chaque candidat ou liste de candidats peut faire apposer durant la campagne électorale, sur les emplacements qui lui sont affectés :
+
+1. deux affiches de format 56 x 90 cm destinées à faire connaître son programme ;
+2. deux affiches de format 28 x 45 destinées à annoncer les réunions de propagande électorale.
+
+Ces affiches ne sont pas soumises à la formalité du dépôt légal.
+
+[[page 139]]
+CHAPITRE IV
+BULLETINS DE VOTE
+Article R.57.-
+
+Il est imprimé, pour chaque candidat à l'élection présidentielle, pour chaque tour de
+
+scrutin, et pour toutes les listes de candidats aux élections de listes, un nombre de bulletins de vote au moins égal au nombre des électeurs inscrits majoré de vingt (20) pour cent, au
+
+Toutefois, si certaines circonstances l'exigent (perte, destruction, altération entre
+
+autres), un tirage complémentaire peut être effectué après information de la C.E.N.A.
+
+Article R.58.-
+
+Les bulletins de vote doivent être imprimés dans la couleur déterminée
+
+conformément aux dispositions des articles L.120, L.173, L.245, L.280 et R.87.
+
+Les bulletins de vote ont les formats suivants :
+
+pour l'élection présidentielle 90 mm x 110 mm
+
+pour les élections législatives 210 mm x 297 mm
+
+pour l'élection des hauts conseillers 150 mm x 210 mm pour les élections départementales 210 mm x 297 mm pour les élections municipales 210 mm x 297 mm
+
+a 8 © D =
+
+Ils ne doivent comporter que les indications suivantes :
+
+1. pour l'élection présidentielle, la date et l'objet de l'élection, le nom du parti politique de la coalition de partis politiques ou de l'entité regroupant des personnes indépendantes, les prénoms, nom et profession du candidat et éventuellement le symbole et le sigle choisis ;
+
+. pour les élections législatives, la date et l'objet de l'élection, le nom du parti politique de la coalition de partis politiques où de l'entité regroupant des personnes indépendantes, les prénoms, nom et profession de l'ensemble des candidats titulaires et suppléants se présentant dans les départements où au plan national et, éventuellement, le sigle, le symbole et le titre choisis ;
+
+. pour l'élection des hauts conseillers, la date et l'objet de l'élection, le nom du parti politique, de la coalition de partis politiques ou de l'entité regroupant des personnes indépendantes, les prénoms, nom et profession de l'ensemble des candidats titulaires et suppléants se présentant dans le départements et, éventuellement, le sigle, le symbole et le titre choisis ;
+
+[[page 140]]
+4. Pour les élections départementales et municipales, la date et l'objet de l'élection, le nom du département de la ville ou de la commune, le nom du parti politique de la coalition de partis politiques ou de l'entité regroupant des personnes indépendantes, les prénoms, nom et profession des candidats et éventuellement, le sigle, le symbole et le titre choisis.
+
+Toutefois, pour les élections présidentielle et législatives, chaque bulletin de vote porte en plus, au recto, dans le format communément utilisé pour les cartes d'identité, l'effigie du candidat ou du candidat occupant le premier rang de sa liste nationale. La photographie à utiliser est fournie dans le format ainsi précisé par les candidats en trois (03) exemplaires en même temps que la déclaration de la candidature.
+
+Le bon à tirer, dûment établi et visé par le candidat ou le mandataire du candidat ou de la liste de candidats, est signé par le Ministre chargé des Elections, après vérification de sa conformité avec la liste des candidats déjà publiée.
+
+Une copie de ce bon à tirer est transmise à la C.E.N.A. La procédure décrivant l'organisation technique de l'impression des bulletins de vote sera déterminée par arrêté du Ministre chargé des Elections.
+
+Le prix du bulletin et des documents électoraux est déterminé après consultation d'une commission composée des imprimeurs retenus, du représentant du Ministre des Finances et du représentant du Ministre chargé des élections.
+
+CHAPITRE V
+VOTE
+Article R.59.-
+
+Le scrutin est ouvert à huit (08) heures et est clos le même jour à dix-huit (18) heures.
+
+Toutefois, pour faciliter aux électeurs l'exercice de leur droit de vote, le Gouverneur, le Préfet ou le Sous-préfet peut prendre un arrêté afin de retarder l'heure de clôture du scrutin dans l'ensemble ou une partie de la circonscription électorale.
+
+Cet arrêté est affiché aussitôt à l'entrée des bureaux de vote concernés.
+Article R.60.-
+
+Les membres des corps militaires et paramilitaires votent le même jour et dans les mêmes bureaux que les électeurs civils.
+
+Le vote peut se faire en tenue civile ou en uniforme.
+
+Les agents de sécurité préposés à la surveillance des lieux de vote et régulièrement inscrits sur les listes électorales sont autorisés à voter dans un des bureaux dont ils assurent la sécurité sur présentation des pièces d'identification prévues à l'article L.78 du code électoral ainsi qu'un ordre de mission spécial délivré par le Ministère chargé des Elections dûment visé par le Chef de service ainsi que par l'autorité administrative et le démembrement de la C.E.N.A du lieu de destination.
+
+[[page 141]]
+L'ordre de mission est annexé, après le vote, au procès-verbal des opérations électorales et mention en est faite. Il doit comporter les références de la carte d'électeur ou être accompagné d'une photocopie de celle-ci.
+
+Leurs prénoms, nom, date et lieu de naissance, ainsi que leur numéro sur les listes électorales, l'indication du lieu et du bureau de vote où ils sont régulièrement inscrits doivent être ajoutés sur les listes d'émargements et mentionnés au procès-verbal du bureau afin qu'ils soient retranchés de la liste de leur circonscription pour le décompte des électeurs.
+
+Article R.61.-
+
+Les prénoms, nom, qualité des membres des bureaux de vote et de leurs suppléants sont notifiés aux personnes visées par l'article L.70 au plus tard quinze (15) jours avant la date du scrutin, par le Préfet ou le Sous-préfet.
+
+Article R.62.-
+
+Les superviseurs de la C.E.N.A. prévus par l'article L.19 du titre premier du code électoral, procèdent à tout contrôle et toute vérification utiles. Ils siègent dans le bureau de vote où ils sont désignés et peuvent exiger l'inscription de toutes observations sur les procès-verbaux avant leur transmission.
+
+Les Présidents des bureaux de vote sont tenus de fournir aux superviseurs de la C.E.N.A tous les renseignements et de leur communiquer tous les documents nécessaires à l'exercice de cette mission.
+
+Article R.63.-
+
+Le plénipotentiaire du candidat ou de la liste de candidats auprès des autorités administratives compétentes, prévu par l'article L.68, est habilité à exercer son contrôle dans l'ensemble des bureaux de vote de la circonscription administrative concernée, après présentation de sa carte de plénipotentiaire.
+
+Le mandataire de chaque candidat ou liste de candidats prévu par l'article L.71 est habilité à exercer son contrôle dans plusieurs bureaux de vote, après présentation de sa carte de mandataire.
+
+Les candidats à l'élection présidentielle et leurs mandataires ont accès à tous les bureaux de vote du territoire national.
+
+Les candidats aux élections législatives et leurs suppléants ont accès à l'ensemble des bureaux de vote de la circonscription électorale dans laquelle ils se présentent.
+
+[[page 142]]
+Les candidats à l'élection des hauts conseillers et leurs suppléants ont accès à l'ensemble des bureaux de vote de la circonscription électorale dans laquelle ils se présentent.
+
+Les candidats aux élections départementales et leurs suppléants ont accès à tous les bureaux de vote du département dans lequel ils se présentent.
+
+Les candidats aux élections municipales et leurs suppléants ont accès à tous les bureaux de vote de la commune dans laquelle ils se présentent.
+
+« Article R.64.-
+
+Toutes discussions et toutes délibérations des électeurs sont interdites à l'intérieur du bureau de vote.
+
+« Article R.65.-
+
+Le président du bureau de vote a seul la police de l'assemblée des électeurs. Nulle force armée ne peut sans son autorisation être placée dans la salle de vote ni aux abords immédiats de celle-ci.
+
+Les autorités civiles et militaires sont tenues de déférer à ses réquisitions.
+
+Article R.66.-
+
+Une réquisition ordonnée par le président du bureau de vote ne peut avoir pour
+
+objet d'empêcher les candidats ou délégués d'exercer le contrôle des opérations
+
+électorales.
+
+En cas de troubles ou perturbations justifiant l'expulsion du mandataire, un mandataire suppléant le remplace.
+
+En aucun cas, les opérations de vote ne seront, de ce fait, interrompues.
+
+L'autorité civile ou militaire qui a procédé, sur réquisition du président du bureau de vote, à une expulsion, doit, dans les meilleurs délais et par toute voie appropriée, adresser au Procureur de la République, à la C.E.N.A., au Gouverneur, au Préfet ou au Sous-préfet, un procès-verbal rendant compte de sa mission.
+
+Article R.67.-
+
+Aucun vote ne peut être reçu après la déclaration de clôture.
+
+Toutefois, un électeur ayant pénétré dans la salle de vote avant l'heure de clôture du scrutin peut voter.
+
+Article R.68.-
+
+Nul ne peut être admis à voter, s'il n'est pas inscrit sur une liste électorale.
+
+[[page 143]]
+Article R.69.-
+
+Avant d'être admis à voter l'électeur doit présenter au président du bureau de vote, sa carte d'identité biométrique CEDEAO faisant office de carte d'électeur.
+
+Le président annonce à haute voix l'identité de l'électeur, il vérifie que celui-ci est bien le titulaire de la carte présentée. Les autres membres du bureau de vote sont associés, sur leur demande, à cette vérification qui doit porter aussi sur la marque indélébile prouvant que l'électeur a déjà voté.
+
+Article R70.-
+
+Le vote a lieu sous enveloppes règlementaires fournies par l'Etat. Ces enveloppes sont opaques et non gommées.
+
+Sous réserve des dispositions de l'article L.76, toutes les enveloppes utilisées au cours d'un même scrutin doivent être d'un type uniforme et porter les mentions suivantes :
+1- République du Sénégal ;
+2- Et selon le cas : « Election présidentielle », « Elections Législatives », « Election des hauts conseillers », Elections départementales », « Election ville », et « Elections municipales ».
+
+Pour chaque élection, le Ministre chargé des Elections fixe le format et la couleur des enveloppes.
+
+Article R.71.-
+
+Après le vote de tout électeur, la liste d'émargements est estampillée du cachet «A VOTE» et d'un timbre portant la date du scrutin.
+
+Article R.72.-
+
+Immédiatement après la fin du dépouillement, le procès-verbal des opérations électorales est rédigé par le secrétaire, dans la salle de vote, en présence des membres du bureau de vote.
+
+Sont mentionnées au procès-verbal, par le secrétaire du bureau de vote, toutes les observations et réclamations formulées par les membres du bureau de vote, les délégués de la Cour d'Appel de Dakar, les superviseurs et contrôleurs de la C.E.N.A. ou des mandataires des candidats, ainsi que les décisions motivées prises par le bureau sur les différents incidents qui ont pu se produire au cours des opérations.
+
+Le procès-verbal est établi et signé de tous les membres du bureau. En cas de refus de signer d'un membre, la mention et, éventuellement, les raisons invoquées à l'appui de ce refus sont portées sur le procès-verbal. Il en est délivré une copie aux membres du bureau de vote et aux contrôleurs de la C.E.N.A.
+
+[[page 144]]
+Si le procès-verbal n'est pas signé d'un ou plusieurs membres du bureau, cette seule circonstance n'emporte pas en elle-même nullité dudit procès-verbal; elle constitue simplement un des éléments dont l'organe compétent pour le recensement des votes, doit tenir compte pour apprécier la sincérité des résultats figurant sur le dit procèsverbal.
+
+En cas de destruction, de substitution, de perte, de vol ou de doute sur l'authenticité du procès-verbal, les exemplaires présentés par les deux tiers des représentants des candidats ou liste de candidats feront foi au même titre que celui des délégués de la C.E.N.A
+
+Article R.73.-
+
+Les affiches suivantes sont placardées à l'entrée de chaque bureau de vote, le jour du scrutin :
+
+- une affiche indiquant le numéro du bureau de vote ;
+
+-__une affiche du décret portant convocation du corps électoral ;
+
+- une affiche indiquant la liste des candidats ;
+
+-__une affiche contenant les textes des articles L.27 à L.38, L.40, L.74 à L.88 et L.102 du présent code ;
+
+- une affiche indiquant les techniques de vote ;
+- une affiche comportant des signes pour aider les électeurs sourds-muets et
+
+rappelant l'accès prioritaire de l'électeur handicapé moteur.
+CHAPITRE VI
+DISPOSITIONS PENALES
+Article R.74.-
+
+Tout agent d'une collectivité publique qui se sera livré dans l'exercice de ses fonctions à des actes de propagande électorale sera puni d'une amende de 5.000 à 20.000 F CFA.
+
+Article R.75.-
+
+L'imprimeur qui enfreindra les dispositions de l'article R.53 sera puni d'une amende de 5.000 F CFA par affiche imprimée.
+
+[[page 145]]
+TITRE II
+
+DISPOSITIONS SPECIALES RELATIVES A L'ELECTION DU PRESIDENT DE LA REPUBLIQUE ET AUX ELECTIONS DES DEPUTES
+
+CHAPITRE PREMIER
+DECLARATION DE CANDIDATURE
+
+Article R.76.-
+(Décret n°2023-1935 du 19 septembre 2023, JORS 7661 du 21 septembre 2023)
+
+Les déclarations de candidature prévues aux articles L.120 et L.173 sont établies selon les modèles fixés par arrêté du ministre chargé des élections. Elles doivent être dactylographiées.
+
+Toute candidature à l'élection présidentielle est astreinte au parrainage par une liste d'électeurs du fichier général ou d'élus (députés, présidents de conseil départemental et maires) selon un pourcentage déterminé par la loi. Pour le parrainage par une liste d'électeurs, la fourchette du pourcentage est déterminée à l'article L.120 du Code électoral.
+Concernant les chefs d'exécutifs territoriaux, il faut les 20% requis quelle que soit leur origine géographique.
+
+Toute candidature aux élections législatives est astreinte au parrainage par une liste d'électeurs du fichier général selon un pourcentage dont la fourchette est déterminée à l'article L.149 du présent code.
+
+Les identités du coordinateur national et des délégués régionaux, cités à l'article L.57 du Code électoral, sont notifiées au ministre chargé des élections avant le démarrage des opérations de collecte. Pour l'élection présidentielle, le ministre chargé des élections porte cette information à la connaissance du Conseil constitutionnel dès l'ouverture de la période de dépôt des dossiers de déclaration de candidature.
+
+Le nombre d'électeurs représentatif de ces pourcentages est déterminé selon l'état du fichier général au moment de la publication de l'arrêté fixant le montant de la caution dans la perspective du scrutin en vue.
+
+Un arrêté du ministre chargé des élections fixe le nombre d'électeurs et d'élus représentant ces pourcentages cent cinquante (150) jours au plus tard avant le scrutin.
+
+La date de cet arrêté marque le point de départ de la collecte des parrainages.
+
+Le contrôle et les vérifications sur les listes de parrainage sont effectués dès le dépôt, selon l'ordre de passage issu du tirage au sort et dans les conditions fixées par la structure chargée de la réception des dossiers de déclaration de candidature. Cet ordre issu du tirage au sort est maintenu durant tout le processus électoral.
+
+Pour les élections législatives, un arrêté du ministre chargé des élections déterminera ces conditions.
+
+La régularisation autorisée au mandataire, dont la liste n'atteint pas le minimum requis du fait des parrainages invalidés pour cause de présence de parrains sur plus d'une liste, n'est possible qu'une seule et unique fois.
+
+[[page 146]]
+Les listes de parrainages sont conditionnées par région et par lot de cinq cents (500) feuillets. Les parrainages collectés à l'étranger sont présentés par département conformément à l'article R.146 du Code électoral, dans les mêmes conditions.
+
+Les informations recueillies auprès des électeurs sur les fiches de collecte doivent être exclusivement réservées au parrainage d'une candidature. Tout usage contraire ou détournement d'objet tendant à porter préjudice aux autres candidats ou listes de candidats, pour quelque motif que ce soit, sera puni conformément aux dispositions de l'article 75 de la loi n°2008-12 du 25 janvier 2008 portant sur la protection des données à caractère personnel.
+
+Le parrainage accordé volontairement à un candidat est irrévocable.
+
+Tout parrain dont les données personnelles figurent sur une liste de manière frauduleuse peut exiger des tenants de ladite liste la suppression. Toutefois, la demande de suppression ne peut être exercée qu'avant le dépôt de la liste de parrainage auprès de la structure chargée de la réception des dossiers de déclaration de candidature.
+
+Les informations collectées ne portent, exclusivement et rigoureusement, que sur les données énumérées à l'article L.57 du Code électoral.
+
+Article R.77.-
+
+La déclaration que les candidats doivent fournir aux termes de l'article L.170, est établie selon le modèle fixé par arrêté du Ministre Chargé des Elections.
+
+La déclaration doit être signée par les candidats.
+Article R.78.-
+
+L'attestation que le candidat doit fournir aux termes des articles LO.116 et L.170, est établie selon les modèles fixés par arrêté du Ministre Chargé des Elections.
+
+CHAPITRE II
+CAMPAGNE ELECTORALE
+Article R.79 .-
+
+Aux lieux habituels d'affichage officiel et notamment à l'entrée des gouvernances, des préfectures, des sous-préfectures, des hôtels de département, des mairies et des locaux dans lesquels siègent des commissions de distribution des cartes d'électeur, l'autorité administrative compétente doit faire placarder, durant la période électorale, des affiches suivantes:
+
+1. texte du décret convoquant les électeurs;
+
+2. arrêté fixant la liste des commissions -de distribution des cartes d'électeur;
+
+3. extrait de l'arrêté du Ministre Chargé des Elections prévu par l'article L.66 fixant la liste des bureaux de vote situés dans la circonscription.
+
+[[page 147]]
+CHAPITRE III
+
+PROPAGANDE ELECTORALE
+Article R.80.-
+(Décret n°2023-1935 du 19 septembre 2023, JORS 7661 du 21 septembre 2023)
+
+L'arrêté du ministre chargé des élections prévu aux articles L.175, L.247 et L.282 est pris après avis consultatif d'une commission comprenant :
+
+1. Le ministre chargé des élections ou son représentant, président ;
+
+2. Le représentant du ministre chargé des finances ;
+
+3. Le représentant de chacun des partis politiques ou coalitions de partis légalement constitués ;
+
+4. Le représentant de chacun des candidats indépendants engagés dans la compétition électorale.
+
+Pour l'élection présidentielle, cet avis n'est plus requis.
+
+En même temps que le montant de la caution, cet arrêté fixe le nombre des documents de propagande pris en charge par l'Etat pour chaque candidat ou liste de candidats à l'élection présidentielle et aux élections législatives.
+
+Article R.81.-
+
+Le montant de la caution doit être versé par chèque de banque à la Caisse des Dépôts et Consignations antérieurement aux déclarations de candidature.
+
+A la réception du chèque de banque, la Caisse des Dépôts et Consignations délivre une quittance au déposant. L'attestation n'est délivrée qu'après encaissement effectif du chèque par la caisse conformément aux dispositions de la règlementation bancaire en vigueur.
+
+Lorsque le décès du candidat à la présidence de la République entraîne le dépôt de nouvelles candidatures, la caution doit être aussi versée antérieurement à l'enregistrement des candidatures.
+
+La caution est remboursée au candidat ayant obtenu au moins cinq pour cent (5%) de suffrages exprimés, dans les quinze (15) jours qui suivent la proclamation définitive des résultats sur présentation de l'original de la quittance de dépôt et d'une attestation de main levée signée par le Ministre chargé des élections.
+Il en est de même en cas d'irrecevabilité de la candidature.
+Article R.82.-
+L'Etat prend à sa charge l'impression des affiches et circulaires de propagande des
+
+candidats ou listes de candidats dans les conditions fixées aux articles LO.133, LO.185, R.54, R.56 et R.80.
+
+[[page 148]]
+TITRE III
+
+DISPOSITIONS SPECIALES RELATIVES A L'ELECTION DES HAUTS CONSEILLERS
+
+CHAPITRE PREMIER
+Article R.83.-
+
+Les 5% des conseillers du département dont la signature doit être recueillie par les partis politiques légalement constitués, les coalitions de partis politiques légalement constitués et les entités regroupant des personnes indépendantes, pour pouvoir valablement présenter une liste de candidats, conformément à l'article LO.201 alinéa 4, sont fixés par arrêté du Ministre chargé des Elections. »
+
+CHAPITRE II
+DECLARATION DE CANDIDATURE
+Article R.84.-
+
+Les déclarations de candidature prévues à l'article L.210 du présent code sont établies selon les modèles fixés par arrêté du Ministre chargé des Elections. Ces modèles comprennent :
+le bordereau de dépôt la déclaration d'investiture des candidats la déclaration de candidature la déclaration individuelle de candidature le formulaire de présentation des listes de candidats
+
+KKKKS
+
+La fiche de collecte des signatures des électeurs exigées pour soutenir la liste des entités indépendantes. »
+
+Article R.85.-
+
+La déclaration individuelle de candidature doit être signée par le candidat.
+
+[[page 149]]
+TITRE IV
+
+DISPOSITIONS SPECIALES CONCERNANT LES ELECTIONS DES CONSEILLERS DEPARTEMENTAUX ET MUNICIPAUX
+
+Article R.86.-
+
+Tout parti politique légalement constitué, toute coalition de partis légalement constitués ou toutes entités regroupant des personnes indépendantes désireux de participer aux élections départementales ou municipales doit déposer la liste de ses candidats quatre-vingt (80) jours au moins et quatre-vingt-cinq (85) jours au plus avant celui du scrutin.
+
+Chaque parti politique, coalition ou entité indépendante ne peut présenter qu'une seule liste de candidats.
+
+Le nombre de conseillers à élire est reparti entre les deux modes de scrutin à raison de 45% pour le scrutin majoritaire et 55% pour le scrutin proportionnel. Si le résultat du calcul de ces pourcentages est un nombre décimal, le siège non distribué est attribué au mode de scrutin ayant obtenu la décimale la plus élevée. En cas d'égalité sur la décimale le siège est attribué au scrutin majoritaire.
+
+Ce dépôt a lieu :
+
+1. pour les élections départementales à la Préfecture ;
+2. pour les élections municipales :
+
+à la Préfecture pour les Communes qui sont de la compétence du Préfet ;
+à la Sous -préfecture pour les Communes qui sont de la compétence du Sous-préfet.
+
+La liste de candidats doit comporter un nombre égal d'hommes et de femmes. Elle doit également être composée de manière alternative. Lorsque le nombre de candidats sur la liste est impair, la parité s'applique sur le nombre immédiatement inférieur. Ces dispositions sont prescrites à peine d'irrecevabilité des listes.
+
+Le Préfet ou le Sous-préfet donne récépissé de ce dépôt dûment visé par le superviseur ou le contrôleur de la C.E.N.A pour attester du dépôt dans les formes et délais légaux. Ce récépissé ne préjuge pas de la recevabilité des candidatures.
+
+Les déclarations reçues à la Préfecture ou à la Sous-préfecture ainsi que les pièces qui les accompagnent sont tenues à la disposition de chaque liste de candidats qui peut en vérifier le contenu par un mandataire.
+
+Les modèles de déclaration de candidature cités aux articles L.246 et L.281 sont établis par arrêté du Ministre Chargé des Elections et remis aux mandataires.
+
+[[page 150]]
+Article R.87.-
+Les déclarations de candidature doivent comporter:
+
+1. le nom du parti politique, de la coalition de partis politiques ou de l'entité regroupant des personnes indépendantes ayant donné son investiture à la liste, et éventuellement le titre ;
+
+2. La couleur, le symbole et éventuellement le sigle choisis pour l'impression des bulletins de vote accompagnés de la maquette du bulletin sur support papier et électronique pour renseigner sur la nuance des couleurs et leur disposition sur ledit bulletin ;
+
+3. l'indication du département ou de la commune dans le ou laquelle ils se présentent ;
+
+4, les prénoms, nom, profession, adresse, date et lieu de naissance, le sexe des candidats ainsi que l'identité du mandataire de la liste ;
+
+5. pour chaque candidat aux élections départementales le numéro d'inscription sur une liste électorale du département ;
+
+6. pour chaque candidat aux élections municipales le numéro d'inscription sur la liste électorale de la commune.
+
+Article R.88.-
+
+Le dossier de déclaration de candidature comprend :
+
+1.
+2.
+
+un bordereau de dépôt ;
+l'original de la quittance et de l'attestation signée par le Directeur général de la Caisse des Dépôts et Consignations confirmant le dépôt de la caution.
+
+En ce concerne les élections territoriales, si le dépôt se fait au-delà d'une circonscription, une copie de la quittance et celle de l'attestation délivrée par la Caisse des Dépôts et Consignations sont déposées.
+
+3.
+
+4.
+
+une déclaration d'investiture par laquelle le parti, la coalition ou l'entité présente ses candidats ;
+
+la liste des électeurs soutenant la candidature de la liste dans le département ou la commune, s'il s'agit d'une entité regroupant des personnes indépendantes ;
+
+une déclaration de candidature par laquelle le parti, la coalition ou l'entité précise le département où il se présente et le mode de scrutin choisi ;
+
+. une déclaration individuelle de candidature par laquelle le candidat certifie qu'il pose
+
+sa candidature, qu'il n'est candidat que sur cette liste et qu'il ne se trouve dans aucun des cas d'inéligibilité prévus par le présent Code.
+
+La déclaration individuelle de candidature est accompagnée d'un extrait de naissance datant de moins de six (06) mois ou d'une photocopie légalisée de la carte d'identité biométrique CEDEAO faisant office de carte d'électeur.
+
+Les candidatures indépendantes comprennent en plus une déclaration sur l'honneur par laquelle le candidat indépendant atteste qu'il ne milite dans aucun parti politique ou qu'il a cessé toute activité militante depuis au moins douze (12) mois.
+
+[[page 151]]
+En cas de contestation du statut d'indépendant d'un candidat, la Cour d'appel compétente est saisie. La partie qui a soulevé la question devra justifier ses diligences.
+
+Les candidats déclarés élus sont tenus de produire dans les quinze jours suivant leur élection, sous peine de déchéance de leur mandat, un bulletin n°3 du casier judiciaire datant de moins de trois (03) mois.
+
+Au cas où plusieurs partis, plusieurs coalitions de partis ou plusieurs entités regroupant des personnes indépendantes adopteraient le même titre, la même couleur ou le même symbole, les dispositions des articles L.252 et L.287 sont applicables.
+
+« Article R.89.-
+
+Dans les quarante-huit (48) heures qui suivent la date limite du dépôt matériel, s'il apparaît qu'une candidature est déposée en faveur d'une personne inéligible ou dont les pièces comportent des erreurs matérielles ou sont périmées, le Préfet ou le Sous-préfet le notifie, par écrit, au mandataire qui dispose de trois (3) jours pour apporter les corrections nécessaires.
+
+Dans les mêmes délais de quarante-huit (48) heures, si une liste est déclarée irrecevable, pour l'un des motifs évoqués aux articles L.250 et L.285 le Préfet ou le Souspréfet notifie, par écrit, les motifs de sa décision au mandataire de ladite liste. A compter de la date de notification, le mandataire dispose de trois (3) jours pour se pourvoir devant la Cour d'Appel du ressort qui statue dans les trois jours de sa saisine.
+
+Les dispositions des articles L.181, L.256 et L.291 sont applicables aux élections départementales et municipales.
+
+« Article R.90.-
+Au plus tard soixante-dix (70) jours avant le scrutin, le préfet ou le sous-préfet publie par arrêté les listes de candidats admis à participer aux élections départementales
+
+et municipales.
+
+Les déclarations complémentaires sont faites au Préfet et au Sous-préfet conformément aux dispositions des articles L.246 et L.281.
+
+En application des dispositions des articles L.236-3 et L.269-3, un décret fixe la date du scrutin dans la cinquième année du mandat. Les délais de dépôt des dossiers de déclaration de candidature sont fixés par décret.
+
+Les conseillers départementaux ou municipaux restent en fonction jusqu'à l'installation des conseils nouvellement élus.
+
+« Article R.91.-
+
+La campagne électorale est ouverte à partir du quinzième jour précédant la date du scrutin.
+
+Elle est close la veille des élections à zéro heure.
+
+[[page 152]]
+Article R.92.-
+
+L'impression des bulletins de vote et des documents de propagande est à la charge de l'Etat.
+
+L'acheminement et la mise en place des bulletins de vote sont également à la charge de l'Etat.
+
+TITRE V
+
+DISPOSITIONS SPECIALES RELATIVES A LA PARTICIPATION DES SENEGALAIS ETABLIS OÙ RESIDANT HORS DU SENEGAL A L'ELECTION DU PRESIDENT DE LA REPUBLIQUE ET AUX ELECTIONS DES DEPUTES
+
+CHAPITRE PRELIMINAIRE
+DISPOSITIONS GENERALES
+Article R.93.-
+
+Lorsque le premier ou le dernier jour des délais prescrits dans le présent code est un dimanche ou un autre jour non ouvrable compte tenu notamment des pratiques locales, le délai expire le premier jour ouvrable suivant.
+
+Tous les délais prescrits sont des délais francs.
+Les départements cités à l'article L.150 alinéa 3 sont ainsi composés :
+
+Ÿ Département « Afrique du nord » : la Mauritanie, le Maroc, la Tunisie et l'Egypte ;
+Ÿ Département « Afrique de l'Ouest » : le Burkina Faso, le Bénin, le Nigéria, le Capvert, la Côte d'ivoire, le Niger, la Gambie, le Ghana, la Guinée, la Guinée Bissau, le Mali et le Togo ;
+V4 Département « Afrique du Centre » : le Cameroun, le Tchad, l'Angola, le Gabon, la Guinée Equatoriale, la République du Congo et la République Démocratique du Congo ;
+
+Y_ Département « Afrique Australe » l'Afrique du Sud, le Mozambique et la Zambie ;
+Ÿ Département « Europe de l'Ouest, du Centre et du Nord » : l'Allemagne, l'Angleterre, la France, la Belgique, le Luxembourg, la Suisse, les Pays-Bas, la Norvège, le Danemark, la Finlande et la Suède ;
+
+Y__ Département « Europe du Sud » : l'Espagne, l'Italie, le Portugal et la Turquie ;
+Ÿ Département « Amériques-Océanie » : le Canada, les Etats-Unis, le Brésil et l'Argentine ;
+
+V4 Département « Asie et Moyen-Orient » : l'Arabie Saoudite, le Liban, le Koweït, le Japon, les Emirats Arabes Unis et la Chine.
+
+[[page 153]]
+CHAPITRE PREMIER
+LES LISTES ELECTORALES
+SECTION 1
+ETABLISSEMENT ET REVISION DES LISTES ELECTORALES
+Article R.94.-
+
+La révision exceptionnelle des listes électorales prévue par l'article L.312, alinéa premier a lieu avant chaque élection nationale. Elle est instituée par décret qui fixe la période et les délais. Les conditions et modalités sont déterminées par les articles suivants à moins que ledit décret qui l'institue n'en dispose autrement.
+
+En cas de référendum, une révision exceptionnelle peut être instituée.
+
+Article R.95.-
+
+La commission administrative prévue à l'article L.313 reçoit les demandes d'inscription, de modification et de radiation qui lui sont présentées.
+
+Les militaires et les paramilitaires en poste dans les Ambassades, Consulats et Organismes internationaux s'inscrivent au même titre que les civils.
+
+Les membres des corps militaires et paramilitaires en mission à l'étranger et qui échappent à la juridiction sénégalaise ne sont pas admis à s'inscrire sur les listes électorales.
+
+Article R.96.-
+La commission ajoute à la liste électorale les personnes:
+1. qu'elle reconnaît avoir les qualités exigées par la loi pour être électeurs de la juridiction de la représentation diplomatique ou consulaire ;
+2. qui auront acquis les conditions d'âge et de résidence au plus tard le jour du scrutin ;
+3. qu'elle reconnaît avoir indûment omises.
+Article R.97.-
+
+La commission retranche, de la liste électorale, les électeurs:
+
+1. décédés ;
+
+2. dont la radiation a été ordonnée par l'autorité compétente ou qui ont perdu les qualités requises par la loi ;
+
+3. qu'elle reconnaît avoir indûment inscrits, bien que leur inscription n'ait été attaquée.
+
+[[page 154]]
+Article R.98.-
+
+La commission apporte, à la liste, toutes les modifications nécessaires dues au changement de pays d'établissement ou de résidence de l'électeur ou à des erreurs constatées sur ses prénoms, nom, filiation, profession ou domicile.
+
+Les inscriptions, modifications et radiations prévues aux articles R.96, R.97 et R.98 sont effectuées sur des carnets ou formulaires confectionnés et mis à disposition par le Ministère chargé des Elections.
+
+Les carnets ainsi que les feuillets qu'ils contiennent sont numérotés. Il en est de même pour les formulaires qui peuvent éventuellement porter un code barre.
+
+Les carnets et les formulaires sont visés par le Chef de la représentation diplomatique ou consulaire, le président de la commission administrative et le contrôleur de la CENA, avant la transmission, pour exploitation, à l'organe en charge de l'organisation des élections.
+
+Article R.99.-
+Les inscriptions, modifications et radiations prévues aux articles R.96, R.97 et R.98
+
+sont effectuées sur des carnets confectionnés et mis à disposition par le Ministère chargé des Elections.
+
+Les carnets ainsi que les feuillets qu'ils contiennent sont numérotés.
+
+Les carnets sont également visés par le Chef de la Mission Diplomatique ou Consulaire, par le président de la commission et le contrôleur de la CENA.
+
+Article R. 100.-
+
+Les décisions de la commission sont prises au moment de la demande d'inscription, de modification ou de radiation, en présence du demandeur.
+
+Lorsque la commission refuse d'inscrire un électeur, cette décision lui est notifiée. Il est délivré un avis de rejet motivé. L'intéressé est informé qu'il dispose de la possibilité d'exercer un recours gracieux en application des articles L.317 et L.318.
+
+Lorsque la commission radie d'office un électeur pour d'autres causes que le décès, ou lorsqu'elle prend une décision à l'égard d'une inscription qui a été contestée devant elle, il est délivré au plus tard à la date fixée par le décret instituant la révision exceptionnelle, un avis motivé de radiation d'office, destiné à l'électeur radié.
+
+La liste des électeurs radiés d'office est conservée à la représentation diplomatique ou consulaire et peut être consultée par tout électeur. Elle est communiquée à la C.E.N.A.
+
+[[page 155]]
+Article R.101.-
+
+La commission prévue à l'article L.318, saisie en vertu dudit article, notifie sa décision dans les deux (02) jours qui suivent à l'intéressé.
+
+Article R.102.-
+
+Le Chef de la Représentation diplomatique ou consulaire transmet les décisions de la commission prévue à l'article L.320 à la commission administrative, à partir de la date fixée par le décret instituant la révision exceptionnelle. Celle-ci modifie ou rédige, en conséquence, les feuillets d'inscription, de modification, de radiation ou, éventuellement, les formulaires.
+
+Article R.103.-
+
+Les carnets ou les formulaires d'inscription, de modification ou de radiation sont transmis sans délai par le Chef de la Représentation diplomatique ou consulaire au Ministère chargé des Elections par l'entremise du Ministre chargé des Affaires Etrangères par valise diplomatique.
+
+Article R.104.-
+
+Au vu des carnets ou des formulaires d'inscription, de modification et de radiation, le Ministère chargé des Elections procède, sous la supervision et le contrôle de la CENA, à l'établissement ou à la révision des listes électorales.
+
+Une fois cet établissement ou cette révision effectuée, toutes les listes électorales sont déposées dans les représentations diplomatiques où consulaires concernées. Elles sont communiquées à la CENA et aux partis politiques légalement constitués qui le demandent.
+Le Chef de la Représentation diplomatique ou consulaire dresse un procès-verbal de réception des listes électorales.
+
+Ce document est affiché sur un panneau des annonces officielles ou sur tout autre panneau prévu à cet effet dans les locaux de la représentation diplomatique ou consulaire ou tout autre local en tenant lieu en application de l'article L.318 du présent Code.
+
+Cette formalité vaut publication de la liste électorale. Elle fait courir le délai du contentieux prévu par le décret organisant la révision.
+
+Article R .105.-
+
+A l'issue de l'établissement ou de la révision des listes électorales, le Ministre chargé des Elections transmet la liste de tous les mouvements au Ministère chargé des Affaires étrangères pour envoi par valise diplomatique, ou par courriel aux missions diplomatiques ou consulaires concernées par les services centraux du ministère chargé des élections.
+
+Aux termes du contentieux ouvert à la suite de la publication des listes électorales provisoires, un décret fixant la liste des juridictions où le vote est organisé est pris sur proposition du Ministre chargé des Elections, après avis du Ministre chargé des Affaires Etrangères.
+
+[[page 156]]
+SECTION 2
+
+CONTROLE DES INSCRIPTIONS SUR LES LISTES ELECTORALES
+
+Article R .106.-
+
+Lorsqu'un électeur est décédé, son nom est rayé de la liste électorale. Tout électeur résidant dans le pays de juridiction de la représentation diplomatique ou consulaire a le droit d'exiger sa radiation. Une fiche de contrôle de radiation est transmise au Ministre Chargé des Elections par valise diplomatique et sous le couvert du Ministère chargé des Affaires Etrangères et notifiée à la C.E.N.A.
+
+Article R.107.-
+
+Tout électeur qui, en application de l'article L.320, prend communication d'une liste électorale doit s'engager au préalable et par écrit à ne pas en faire un usage commercial.
+
+SECTION 3
+CARTE D'ELECTEUR
+Article R.108.-
+Il est fait application des dispositions de l'article R.47.
+
+Toutefois, l'attestation de déclaration de perte prévue par l'article L.325 établie par le président de la commission doit comporter des indications précises sur l'identité de l'électeur ainsi que les circonstances de la perte. Elle comporte également l'identité du président de la commission qui doit l'authentifier et la faire viser par le contrôleur de la CENA.
+
+Article R.109.-
+
+Quarante-cinq (45) jours avant le scrutin, le chef de la représentation diplomatique ou consulaire, institue par décision, une commission de distribution des cartes et précise les locaux dans lesquels elle doit fonctionner. Cette commission est constituée en application de l'article L.326.
+
+Les prénoms, nom, profession, adresse ainsi que le numéro d'inscription sur la liste électorale des représentants des partis ou coalitions de partis politiques légalement constitués au Sénégal doivent être notifiés au chef de la représentation diplomatique ou consulaire cinquante-cinq (55) jours au moins, avant l'ouverture du scrutin. Le chef de ladite représentation délivre un récépissé de cette déclaration dans les trois (03) jours qui suivent.
+
+Lorsqu'aucun parti politique ou coalition de partis politiques ne notifie les prénoms et nom de ses représentants, le chef de la représentation diplomatique où consulaire ou son représentant procède à la distribution des cartes d'électeur sous la supervision et le contrôle de la C.E.N.A.
+
+[[page 157]]
+Article R.110.-
+La distribution des cartes d'électeur est permanente.
+
+Elle est effectuée par une commission administrative pendant la période de révision des listes électorales et durant les 45 jours avant la date du scrutin ; ce, jusqu'à la clôture des opérations de vote.
+
+En dehors des périodes sus mentionnées, la distribution est assurée par le Chef de la représentation diplomatique où consulaire, sous la supervision de la C.E.N.A. Le Chef de la représentation diplomatique ou consulaire où bien le président de la commission de distribution des cartes d'électeur assure la conservation et la garde desdites cartes pendant toute la période de distribution qui lui est impartie.
+
+Les cartes d'électeurs à retirer doivent se trouver dans des lieux sécurisés ; des malles munies de cadenas de sécurité doivent leur servir de réceptacle. Elles doivent y être classées et n'être ouvertes ou fermées qu'avec la présence obligatoire de la C.E.N.A. Les locaux dans lesquels ces cartes sont conservées doivent répondre à toutes les conditions de sécurité requises.
+
+A la fin de chaque période de distribution, le Chef de la représentation diplomatique ou consulaire ou le président et les membres de chaque commission dressent un procèsverbal des opérations visé par la C.E.N.A.
+
+La C.E.N.A, le Chef de la représentation diplomatique où consulaire ainsi que chaque membre de la commission reçoivent copie du procès-verbal.
+
+Ce procès-verbal, les cartes non distribuées, la liste d'émargements des électeurs ainsi que le registre des opérations dans lequel figurent les mentions de contestations éventuelles constituent le dossier de passation d'activités pour les besoins de la permanence de la distribution.
+
+CHAPITRE II
+BULLETINS DE VOTE
+Article R.111.-
+
+Il est fait application des dispositions des articles R.57 et R.58 en ce qu'elles concernent les élections présidentielles ou législatives.
+
+Les bulletins de vote sont mis, en nombre suffisant, à la disposition du Ministre chargé des Affaires Etrangères par le Ministre chargé des Elections. Ils sont envoyés impérativement quinze (15) jours au moins avant le scrutin aux représentants diplomatiques ou consulaires concernées, par valise diplomatique.
+
+[[page 158]]
+CHAPITRE III
+OPERATIONS ELECTORALES
+Article R. 112.-
+
+Le scrutin est ouvert à huit (08) heures et clos le même jour à dix-huit (18) heures lorsque le pays d'organisation des opérations électorales se trouve sur le même fuseau horaire que le Sénégal. Dans le cas contraire, les heures d'ouverture et de clôture du scrutin font l'objet d'une décision du chef de la représentation diplomatique ou consulaire qui doit tenir compte des particularités et usages locaux. Cette décision est notifiée à la C.E.N.A, aux représentants des partis ou coalitions de partis politiques légalement constitués au Sénégal. Elle est affichée dans les locaux de la représentation diplomatique ou consulaire au panneau des annonces officielles ou à défaut au panneau qui en tient lieu quinze jours (15) jours au moins avant le scrutin.
+
+Toutefois, pour faciliter aux électeurs, l'exercice de leur droit de vote, le chef de la représentation diplomatique ou consulaire peut prendre une décision afin d'avancer l'heure d'ouverture ou de retarder l'heure de clôture du scrutin. Cette décision est aussitôt affichée à l'entrée du bureau de vote.
+
+Article R.113.-
+
+Les prénoms, nom, qualité des superviseurs et contrôleurs de la C.E.N.A, des membres des bureaux de vote, des représentants et de leurs suppléants des candidats ou listes des candidats sont notifiés au Chef de la Représentation diplomatique ou consulaire trente (30) jours au moins avant le début du scrutin.
+
+Article R.114.-
+
+Toutes discussions et toutes délibérations des électeurs sont interdites à l'intérieur du bureau de vote.
+
+Le président du bureau de vote a seul la police de l'assemblée des électeurs. Nulle force armée ne peut sans son autorisation être placée dans la salle de vote ni aux abords immédiats de celle-ci.
+
+Article R.115.-
+
+Le Président du bureau de vote peut demander au chef de la représentation diplomatique ou consulaire de faire appel aux forces de police où assimilées du pays de sa juridictionpour mettre fin à un trouble grave compromettant le bon déroulement des opérations électorales ou à un scandale. Si les personnes concernées sont membres du bureau de vote, et si elles sont coupables de scandale caractérisé dûment constaté par le président du bureau de vote et les autres membres, elles sont immédiatement remplacées par leurs suppléants. Mention de ces incidents doit être faite obligatoirement dans les procès-verbaux.
+
+[[page 159]]
+Article R.116.-
+Nul ne peut être admis à voter, s'il n'est inscrit sur la liste électorale de la Juridiction.
+Article R.117.-
+
+Sont applicables les dispositions des articles L.72 à L.85, R.63, R.66, alinéas 1 à 3, R.67, R.69, R.70, R.71, et R.73.
+
+Article R.118.-
+
+Sont abrogées toutes dispositions contraires.

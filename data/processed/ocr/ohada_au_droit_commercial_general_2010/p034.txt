@@ -1,0 +1,51 @@
+Journal Officiel de l'Organisation pour l'Harmonisation en Afrique du Droit des Affaires
+
+La signature électronique qualifiée est formée des composants techniques suivants :
+- un logiciel de création de signature et un logiciel de vérification de signature ;
+
+- un certificat électronique, authentifiant le signataire, produit par un prestataire de ser-
+vices de certification électronique.
+
+Le Comité technique de normalisation des procédures électroniques prévu à l'article 81
+du présent Acte uniforme détermine les critères à remplir pour être un prestataire de ser-
+vices de certification électronique.
+
+ARTICLE 84- Le certificat électronique employé en support de la signature électronique
+qualifiée est une attestation électronique qui lie des données afférentes à la vérification
+de signature à une personne et confirme l'identité de cette personne.
+
+Il présente au minimum les mentions suivantes :
+- le nom du titulaire du certificat ;
+
+- la clé cryptographique publique du titulaire ;
+
+- la période de validité du certificat ;
+
+- Un numéro de série unique ;
+- la signature électronique du prestataire de services de certification électronique.
+
+ARTICLE 85- La réglementation de l'Organisation pour l'Harmonisation en Afrique du
+Droit des Affaires, et à défaut, le droit interne des États parties, énonce les contraintes
+
+techniques appliquées aux composants de la signature électronique pour que celle-ci
+soit réputée qualifiée.
+
+CHAPITRE H}
+UTILISATION ET CONSERVATION DES DOCUMENTS ELECTRONIQUES
+
+ARTICLE 86- La demande ou la déclaration ainsi que les pièces justificatives peuvent
+se présenter, totalement ou partiellement, sous forme électronique, sous réserve du res-
+pect des dispositions de l'article 79 du présent Acte uniforme en ce qui concerne le des-
+tinataire et du respect des dispositions des articles 82 à 85 du présent Acte uniforme en
+ce qui concerne la conformité des documents.
+
+ARTICLE 87- En cas d'option pour la voie électronique, les personnes en charge des
+Registres du Commerce et du Crédit Mobilier délivrent, dans le respect des dispositions
+
+du présent Acte uniforme, les mêmes actes que ceux délivrés en cas d'accomplissement
+des formalités sur support papier.
+
+Acte uniforme portant sur le Droit commercial général , adopté le 15 décembre 2010
+
+- 34 -
+
