@@ -1,0 +1,327 @@
+[
+  {
+    "id": "F01",
+    "type": "factuelle",
+    "status": "verifie",
+    "answerable": true,
+    "question": "Quel est l'âge minimum pour se marier selon le Code de la famille sénégalais ?",
+    "reference_answer": "Le mariage ne peut être contracté qu'entre un homme âgé de plus de 18 ans et une femme âgée de plus de 16 ans, sauf dispense d'âge accordée pour motif grave par le Président du tribunal régional après enquête (art. 111).",
+    "source_document": "code_famille",
+    "expected_evidence": [
+      [
+        "Article 111",
+        "homme âgé de plus de 18 ans"
+      ]
+    ],
+    "note": ""
+  },
+  {
+    "id": "F02",
+    "type": "factuelle",
+    "status": "verifie",
+    "answerable": true,
+    "question": "Un futur époux mineur doit-il consentir lui-même à son mariage ?",
+    "reference_answer": "Oui : chacun des futurs époux, même mineur, doit consentir personnellement au mariage (art. 108). Si la forme de mariage ne prévoit pas la comparution en personne, il peut se faire représenter par mandataire, sous réserve des formalités prévues. Le mineur doit aussi avoir le consentement de la personne qui exerce la puissance paternelle (art. 109).",
+    "source_document": "code_famille",
+    "expected_evidence": [
+      [
+        "Article 108",
+        "doit consentir personnellement au mariage"
+      ]
+    ],
+    "note": ""
+  },
+  {
+    "id": "F03",
+    "type": "factuelle",
+    "status": "verifie",
+    "answerable": true,
+    "question": "Qui est le chef de la famille selon le Code de la famille ?",
+    "reference_answer": "Le mari est le chef de la famille ; il exerce ce pouvoir dans l'intérêt commun du ménage et des enfants (art. 152, puissance maritale).",
+    "source_document": "code_famille",
+    "expected_evidence": [
+      [
+        "Article 152",
+        "Le mari est le chef de la famille"
+      ]
+    ],
+    "note": ""
+  },
+  {
+    "id": "F04",
+    "type": "factuelle",
+    "status": "verifie",
+    "answerable": true,
+    "question": "Quelle est la durée maximale des fiançailles ?",
+    "reference_answer": "La durée des fiançailles ne peut excéder un an (art. 105).",
+    "source_document": "code_famille",
+    "expected_evidence": [
+      [
+        "Article 105",
+        "durée des fiançailles ne peut excéder un an"
+      ]
+    ],
+    "note": ""
+  },
+  {
+    "id": "F05",
+    "type": "factuelle",
+    "status": "verifie",
+    "answerable": true,
+    "question": "Quel délai une femme doit-elle attendre avant de se remarier après la dissolution de son mariage ?",
+    "reference_answer": "Elle ne peut se remarier qu'à l'expiration d'un délai de viduité de 300 jours à compter de la dissolution du précédent mariage ; l'article 112 prévoit aussi des cas où ce délai peut être réduit et précise qu'il prend fin par la délivrance de la femme.",
+    "source_document": "code_famille",
+    "expected_evidence": [
+      [
+        "Article 112",
+        "viduité de 300 jours"
+      ]
+    ],
+    "note": ""
+  },
+  {
+    "id": "P01",
+    "type": "procedure",
+    "status": "verifie",
+    "answerable": true,
+    "question": "Quelles pièces chaque futur époux doit-il remettre à l'officier de l'état civil pour la déclaration du mariage ?",
+    "reference_answer": "Chacun doit remettre personnellement : une copie de son acte de naissance datant de moins de trois mois, délivrée en vue du mariage ; la copie des actes accordant des dispenses dans les cas prévus par la loi. S'il ne peut obtenir son acte de naissance, il peut le suppléer par un acte de notoriété délivré par le juge de paix, avec la déclaration de trois témoins (art. 115).",
+    "source_document": "code_famille",
+    "expected_evidence": [
+      [
+        "Article 115",
+        "acte de naissance datant de moins de trois mois"
+      ]
+    ],
+    "note": ""
+  },
+  {
+    "id": "P02",
+    "type": "procedure",
+    "status": "verifie",
+    "answerable": true,
+    "question": "Comment se fait la publication du mariage avant sa célébration ?",
+    "reference_answer": "Pendant quinze jours francs, l'officier de l'état civil fait une publication par voie d'affiche à la porte du centre d'état civil, indiquant les prénoms, noms, filiations, âges, professions, domiciles et résidences des futurs époux ainsi que le lieu et la date de la célébration projetée (art. 117).",
+    "source_document": "code_famille",
+    "expected_evidence": [
+      [
+        "Article 117",
+        "quinze jours francs"
+      ]
+    ],
+    "note": ""
+  },
+  {
+    "id": "P03",
+    "type": "procedure",
+    "status": "verifie",
+    "answerable": true,
+    "question": "Que se passe-t-il à l'audience de conciliation lors d'une demande de divorce ?",
+    "reference_answer": "Les parties comparaissent en personne, hors la présence de leurs conseils. Le juge de paix leur fait des observations propres à opérer une réconciliation et, si le rapprochement n'est pas exclu et que la demande est maintenue, peut ajourner l'instance à une date n'excédant pas six mois, renouvelable sans dépasser une année au total, en ordonnant les mesures provisoires nécessaires (art. 169).",
+    "source_document": "code_famille",
+    "expected_evidence": [
+      [
+        "Article 169",
+        "ajourner la suite de l'instance"
+      ]
+    ],
+    "note": ""
+  },
+  {
+    "id": "P04",
+    "type": "procedure",
+    "status": "verifie",
+    "answerable": true,
+    "question": "Comment et quand un homme peut-il souscrire l'option de monogamie ou de limitation de polygamie ?",
+    "reference_answer": "L'option peut être souscrite à l'occasion d'un mariage ou postérieurement. Elle ne peut être reçue que si l'homme justifie que le nombre de ses épouses ne dépasse pas celui qu'il entend se fixer. La déclaration se fait auprès de l'officier de l'état civil ou, hors des localités où se trouve un centre d'état civil, auprès de l'autorité déléguée (art. 135).",
+    "source_document": "code_famille",
+    "expected_evidence": [
+      [
+        "Article 135",
+        "déclaration d'option se formule auprès de l'officier"
+      ]
+    ],
+    "note": ""
+  },
+  {
+    "id": "C01",
+    "type": "conditions",
+    "status": "verifie",
+    "answerable": true,
+    "question": "Dans quels cas la nullité absolue du mariage doit-elle être prononcée ?",
+    "reference_answer": "Quelle que soit la forme du mariage, sa nullité doit être prononcée : 1) mariage sans le consentement de l'un des époux ; 2) conjoints de même sexe ; 3) l'un des époux n'avait pas l'âge requis, en l'absence de dispense ; 4) lien de parenté ou d'alliance prohibant le mariage ; 5) la femme était dans les liens d'une union antérieure non dissoute ; 6) le mari ne pouvait plus contracter une nouvelle union en raison de l'article 133 (art. 141).",
+    "source_document": "code_famille",
+    "expected_evidence": [
+      [
+        "Article 141",
+        "Cas de nullité absolue",
+        "Quelle que soit la forme du mariage, sa nullité doit être prononcée"
+      ]
+    ],
+    "note": ""
+  },
+  {
+    "id": "C02",
+    "type": "conditions",
+    "status": "verifie",
+    "answerable": true,
+    "question": "Dans quels cas la nullité relative du mariage peut-elle être prononcée ?",
+    "reference_answer": "1) Vice du consentement (violence ou erreur) ; 2) défaut d'autorisation familiale ; 3) non-paiement de la portion de la dot exigible à la conclusion du mariage lorsque les époux en ont fait une condition de leur union ; 4) impuissance du mari ; 5) maladie grave et incurable rendant la cohabitation préjudiciable, sciemment dissimulée par le conjoint au moment du mariage (art. 138).",
+    "source_document": "code_famille",
+    "expected_evidence": [
+      [
+        "Article 138",
+        "Cas de nullités relatives",
+        "nullité du mariage peut être prononcée"
+      ]
+    ],
+    "note": ""
+  },
+  {
+    "id": "C03",
+    "type": "conditions",
+    "status": "verifie",
+    "answerable": true,
+    "question": "Pour quelles causes le divorce peut-il être prononcé ?",
+    "reference_answer": "Absence déclarée ; adultère ; condamnation à une peine infamante ; défaut d'entretien de la femme par le mari ; refus d'exécuter les engagements pris en vue du mariage ; abandon de la famille ou du domicile conjugal ; mauvais traitements, excès, sévices ou injures graves ; stérilité définitive médicalement établie ; maladie grave et incurable découverte pendant le mariage ; incompatibilité d'humeur rendant intolérable le maintien du lien conjugal (art. 166).",
+    "source_document": "code_famille",
+    "expected_evidence": [
+      [
+        "Article 166",
+        "Causes du divorce",
+        "Le divorce peut-être prononcé"
+      ]
+    ],
+    "note": ""
+  },
+  {
+    "id": "C04",
+    "type": "conditions",
+    "status": "verifie",
+    "answerable": true,
+    "question": "Quelles conditions le consentement des époux doit-il remplir dans un divorce par consentement mutuel ?",
+    "reference_answer": "Il n'est valable que s'il émane d'une volonté libre, éclairée et exempte de vice. Il doit porter non seulement sur la rupture du lien conjugal mais aussi sur la situation des anciens époux quant à leurs biens et sur le sort des enfants ; les époux sont libres de régler ces questions sous réserve de l'ordre public et des bonnes mœurs (art. 158).",
+    "source_document": "code_famille",
+    "expected_evidence": [
+      [
+        "Article 158",
+        "volonté libre, éclairée et exempte de vice"
+      ]
+    ],
+    "note": ""
+  },
+  {
+    "id": "M01",
+    "type": "multi_passages",
+    "status": "verifie",
+    "answerable": true,
+    "question": "Un homme peut-il avoir plusieurs épouses et, si oui, combien au maximum ?",
+    "reference_answer": "Oui, selon le régime choisi : sous le régime de la polygamie, il ne peut avoir simultanément plus de quatre épouses ; il peut aussi opter pour la limitation de polygamie ou la monogamie. Faute d'option, le mariage est placé sous le régime de la polygamie (art. 133). Il ne peut contracter un nouveau mariage si le nombre de ses épouses dépasse celui autorisé par la loi compte tenu de ses options (art. 113).",
+    "source_document": "code_famille",
+    "expected_evidence": [
+      [
+        "Article 133",
+        "plus de quatre épouses"
+      ],
+      [
+        "Article 113",
+        "nombre d'épouses supérieur à celui autorisé"
+      ]
+    ],
+    "note": ""
+  },
+  {
+    "id": "M02",
+    "type": "multi_passages",
+    "status": "verifie",
+    "answerable": true,
+    "question": "Une femme divorcée peut-elle se remarier immédiatement ?",
+    "reference_answer": "Non. Elle doit attendre l'expiration du délai de viduité de 300 jours à compter de la dissolution du précédent mariage, réductible dans les cas prévus à l'article 112, et ne peut se remarier avant la mention de la dissolution sur le registre de l'état civil (art. 113).",
+    "source_document": "code_famille",
+    "expected_evidence": [
+      [
+        "Article 112",
+        "viduité de 300 jours"
+      ],
+      [
+        "Article 113",
+        "mention sur le registre de l'état civil"
+      ]
+    ],
+    "note": ""
+  },
+  {
+    "id": "M03",
+    "type": "multi_passages",
+    "status": "verifie",
+    "answerable": true,
+    "question": "À quelles conditions une personne mineure peut-elle se marier ?",
+    "reference_answer": "Elle doit avoir l'âge minimum (plus de 18 ans pour l'homme, plus de 16 ans pour la femme, sauf dispense d'âge accordée pour motif grave par le Président du tribunal régional après enquête, art. 111) et obtenir le consentement de la personne qui exerce la puissance paternelle à son égard (art. 109), tout en consentant personnellement au mariage (art. 108).",
+    "source_document": "code_famille",
+    "expected_evidence": [
+      [
+        "Article 109",
+        "sans le consentement de la personne qui exerce"
+      ],
+      [
+        "Article 111",
+        "dispense d'âge"
+      ]
+    ],
+    "note": ""
+  },
+  {
+    "id": "U01",
+    "type": "absente",
+    "status": "verifie",
+    "answerable": false,
+    "question": "Quelle est la durée du congé de maternité d'une salariée au Sénégal ?",
+    "reference_answer": "L'information n'est pas disponible dans les documents fournis (relève du droit du travail, hors corpus).",
+    "source_document": null,
+    "expected_evidence": [],
+    "note": "Vérifié par recherche : 'congé de maternité' absent des documents lisibles du corpus."
+  },
+  {
+    "id": "U02",
+    "type": "absente",
+    "status": "verifie",
+    "answerable": false,
+    "question": "Quel est le taux de l'impôt sur le revenu pour un couple marié ?",
+    "reference_answer": "L'information n'est pas disponible dans les documents fournis (relève du droit fiscal, hors corpus).",
+    "source_document": null,
+    "expected_evidence": [],
+    "note": "Vérifié par recherche : 'impôt sur le revenu' absent des documents lisibles du corpus."
+  },
+  {
+    "id": "A01",
+    "type": "ambigue",
+    "status": "verifie",
+    "answerable": true,
+    "question": "À partir de quel âge une fille peut-elle être mariée ?",
+    "reference_answer": "Une femme doit être âgée de plus de 16 ans (contre plus de 18 ans pour un homme), sauf dispense d'âge accordée pour motif grave par le Président du tribunal régional après enquête (art. 111).",
+    "source_document": "code_famille",
+    "expected_evidence": [
+      [
+        "Article 111",
+        "femme âgée de plus de 16 ans"
+      ]
+    ],
+    "note": ""
+  },
+  {
+    "id": "A02",
+    "type": "ambigue",
+    "status": "verifie",
+    "answerable": true,
+    "question": "Qui dirige le foyer et décide pour la famille ?",
+    "reference_answer": "Le mari est le chef de la famille et exerce ce pouvoir dans l'intérêt commun du ménage et des enfants (art. 152).",
+    "source_document": "code_famille",
+    "expected_evidence": [
+      [
+        "Article 152",
+        "Le mari est le chef de la famille"
+      ]
+    ],
+    "note": ""
+  }
+]
