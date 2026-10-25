@@ -1,127 +1,402 @@
-# Assistant RAG juridique sénégalais
+# ⚖️ Assistant juridique intelligent — RAG
 
-Atelier pratique « LLM & Écosystème ». Ce dépôt suit la structure conseillée par le plan de travail.
-Cette version contient la **partie de la Personne 1 (corpus et préparation des données)**.
+**Projet d'assistant juridique fondé sur le Retrieval-Augmented Generation (RAG), conçu pour rechercher des informations dans un corpus documentaire juridique et générer des réponses sourcées en français.**
 
+[![Python](https://img.shields.io/badge/Python-3.11-blue)](https://www.python.org/)
+[![ChromaDB](https://img.shields.io/badge/Vector%20Database-ChromaDB-green)](https://www.trychroma.com/)
+[![Ollama](https://img.shields.io/badge/LLM-Ollama-black)](https://ollama.com/)
+[![Streamlit](https://img.shields.io/badge/Interface-Streamlit-red)](https://streamlit.io/)
+
+## 1. Présentation du projet
+
+Ce projet consiste à développer un assistant conversationnel capable de répondre à des questions juridiques en français en s'appuyant sur un corpus documentaire public, notamment des textes juridiques sénégalais.
+
+Contrairement à un chatbot qui s'appuie uniquement sur les connaissances acquises pendant son entraînement, l'assistant utilise une approche **RAG (Retrieval-Augmented Generation)** : il recherche d'abord des passages pertinents dans une base documentaire, puis transmet ces passages à un modèle de langage pour produire une réponse contextualisée.
+
+L'objectif est de proposer un outil qui facilite la recherche d'informations juridiques, conserve les références des documents consultés et limite les réponses non justifiées par les sources disponibles.
+
+> **Avertissement :** cet assistant est un outil expérimental d'information documentaire. Ses réponses ne constituent pas un avis juridique professionnel. Les textes doivent être vérifiés dans leurs versions officielles et à jour avant toute utilisation juridique.
+
+## 2. Objectifs
+
+Le projet vise à :
+
+- constituer et préparer un corpus documentaire juridique exploitable ;
+- découper les documents en passages adaptés à la recherche ;
+- transformer les passages en représentations vectorielles (*embeddings*) ;
+- indexer les passages dans une base vectorielle ;
+- retrouver les extraits pertinents à partir d'une question en langage naturel ;
+- générer des réponses fondées sur les passages récupérés ;
+- afficher les références des sources utilisées ;
+- refuser de répondre lorsque les informations disponibles sont insuffisantes ;
+- évaluer la pertinence des résultats et la fidélité des réponses générées.
+
+## 3. Technologies utilisées
+
+| Technologie | Rôle |
+|---|---|
+| Python 3.11 | Langage principal |
+| Sentence Transformers | Calcul des embeddings des passages et des questions |
+| ChromaDB | Stockage et recherche vectorielle |
+| Ollama | Exécution locale du modèle de langage |
+| Qwen 2.5 7B | Génération des réponses |
+| Requests | Communication HTTP avec l'API Ollama |
+| Streamlit | Interface utilisateur web |
+| Git et GitHub | Gestion du code et collaboration |
+
+**Important :** le modèle de génération et le modèle d'embeddings sont deux composants distincts. Qwen 2.5 7B sert à générer les réponses. Le modèle d'embeddings doit être celui défini dans `src/config.py` et correspondre au modèle utilisé pour construire l'index vectoriel.
+
+## 4. Architecture du système RAG
+
+Le fonctionnement général du système suit les étapes ci-dessous.
+
+```text
+Corpus juridique public
+          |
+          v
+1. Ingestion et préparation
+          |
+          v
+articles.jsonl
+          |
+          v
+2. Découpage en passages
+          |
+          v
+chunks.jsonl
+          |
+          v
+3. Calcul des embeddings
+          |
+          v
+4. Indexation dans ChromaDB
+          |
+          v
+5. Question de l'utilisateur
+          |
+          v
+6. Recherche des passages pertinents
+          |
+          v
+7. Construction du contexte
+          |
+          v
+8. Génération par Qwen via Ollama
+          |
+          v
+9. Réponse sourcée et affichage
+          |
+          v
+10. Vérification des citations et des limites
 ```
-llm-assistant/
-├── data/raw/            # sources originales (15 fichiers fournis par l'équipe)
-├── data/processed/      # textes extraits/nettoyés + articles.jsonl pour la personne 2
-│   └── ocr/             #   cache OCR des PDF scannés (corrigeable à la main)
-├── data/manifest.csv    # registre des sources
-├── src/ingest.py        # extraction/nettoyage (+ OCR en lot et contrôle de traçabilité)
+
+### Explication des étapes
+
+**1. Ingestion du corpus**
+
+Les documents sont collectés et préparés pour être exploitables par le système. Les informations textuelles et les métadonnées utiles sont conservées dans un format structuré.
+
+**2. Découpage en passages (*chunking*)**
+
+Les documents sont divisés en unités plus petites afin de permettre une recherche ciblée. Le découpage doit préserver autant que possible le sens juridique des articles et de leurs subdivisions.
+
+**3. Calcul des embeddings**
+
+Chaque passage est converti en représentation numérique permettant de comparer son contenu avec celui d'une question.
+
+**4. Indexation vectorielle**
+
+Les représentations sont enregistrées dans ChromaDB pour permettre leur récupération lors d'une requête.
+
+**5. Recherche**
+
+La question est vectorisée à l'aide du même modèle d'embeddings que celui utilisé pour l'indexation. Les passages candidats sont récupérés et classés selon leur pertinence.
+
+**6. Construction du contexte**
+
+Les passages retenus, accompagnés de leurs références, sont assemblés pour constituer le contexte transmis au modèle de langage.
+
+**7. Génération**
+
+Ollama exécute Qwen 2.5 7B pour produire une réponse à partir de la question et du contexte documentaire.
+
+**8. Contrôle des sources**
+
+Les citations produites doivent correspondre aux extraits réellement transmis au modèle. Une vérification automatique des numéros de citations ne garantit pas, à elle seule, que leur contenu justifie effectivement la réponse.
+
+## 5. État actuel du projet
+
+Le corpus compte actuellement **4 367 unités**, selon le dernier décompte communiqué.
+
+| Élément | État |
+|---|---|
+| Préparation initiale du corpus | Réalisée |
+| Fichier `articles.jsonl` | Disponible |
+| Découpage en passages | Réalisé précédemment ; à actualiser si le corpus a changé |
+| Fichier `chunks.jsonl` | Disponible ; nombre actuel de passages à vérifier |
+| Base vectorielle ChromaDB | Créée précédemment ; synchronisation à vérifier |
+| Fonction de recherche | Implémentée et testée sur des exemples |
+| Génération avec Ollama et Qwen | Module préparé ; validation systématique nécessaire |
+| Vérification des citations | Contrôle élémentaire implémenté ; qualité à évaluer |
+| Interface Streamlit | Préparée ; test de bout en bout nécessaire |
+| Évaluation sur un jeu de questions | À compléter |
+| Rapport final et démonstration | À finaliser |
+
+Un premier test de recherche a notamment retrouvé l'article 1 du Code de la famille pour une question relative au commencement de la personnalité juridique. Ce résultat constitue un test fonctionnel initial, et non une preuve de performance générale.
+
+**Point de vigilance :** le nombre d'unités du corpus, le nombre de passages après découpage et le nombre de documents indexés dans ChromaDB sont trois mesures différentes. Elles doivent être vérifiées séparément.
+
+## 6. Organisation des fichiers
+
+L'organisation cible du projet est la suivante. Certains emplacements doivent être confirmés à partir de l'arborescence effective du dépôt.
+
+```text
+Atelier_Assistant_LLM/
+│
+├── README.md
 ├── requirements.txt
-└── README.md
+├── .gitignore
+│
+├── data/
+│   ├── processed/
+│   │   ├── articles.jsonl
+│   │   └── chunks.jsonl
+│   │
+│   └── vectorstore/
+│       └── ...
+│
+└── src/
+    ├── config.py
+    ├── ingest.py
+    ├── retrieval.py
+    ├── rag.py
+    └── app.py
 ```
 
-Les autres éléments du plan viendront des autres membres : `data/evaluation/questions.json`, `src/chunking.py`, `src/indexing.py`, `src/rag.py`, `src/evaluate.py`, `app.py` et `reports/`.
+### Rôle des fichiers
 
-## Installation et lancement (VS Code)
+- `README.md` : documentation du projet et instructions d'utilisation.
+- `requirements.txt` : dépendances Python.
+- `data/processed/articles.jsonl` : unités documentaires préparées.
+- `data/processed/chunks.jsonl` : passages obtenus après découpage.
+- `data/vectorstore/` : stockage persistant de l'index vectoriel.
+- `src/config.py` : paramètres de configuration.
+- `src/ingest.py` : ingestion et préparation des documents.
+- `src/retrieval.py` : recherche et classement des passages.
+- `src/rag.py` : construction du contexte et génération des réponses.
+- `src/app.py` : interface Streamlit, si le fichier est placé dans `src/`.
 
-Il faut Python 3.10 ou plus récent. Tesseract OCR (langue `fra`) est facultatif : il ne sert qu'à OCR de **nouvelles** pages scannées, car les 424 pages déjà traitées sont dans le cache.
+Les noms de fichiers et leur emplacement doivent correspondre au dépôt réel. Si l'interface se trouve à la racine du projet, sa commande de lancement sera différente.
 
-Ouvrir le dossier `llm-assistant` dans VS Code (Fichier > Ouvrir le dossier). Ensuite, menu **Terminal > Exécuter la tâche…** :
+## 7. Installation et configuration
 
-| Tâche VS Code | Commande équivalente (PowerShell) |
-|---|---|
-| 1. Installer l'environnement Python | `python -m venv .venv` puis `.venv\Scripts\python -m pip install -r requirements.txt` |
-| 2. Ingestion + contrôle de traçabilité (`Ctrl+Maj+B`) | `.venv\Scripts\python src\ingest.py` |
-| 3. Contrôle de traçabilité seul | `.venv\Scripts\python src\ingest.py --controle --sample 3` |
-| 4. OCR des pages scannées manquantes, puis ingestion | `.venv\Scripts\python src\ingest.py --ocr` |
+### Prérequis
 
-Le résultat attendu est « 3919 unités écrites » puis « Traçabilité : 3905/3919 unités retrouvées (99.6 %) ».
-**Exécuter et déboguer** (F5) permet de suivre l'ingestion pas à pas, sur tout le manifeste ou sur un seul document (`--only <id>`).
+Avant de commencer, installer :
 
-## Procédure suivie (plan, section 1)
+1. Python 3.11 : https://www.python.org/downloads/
+2. Git : https://git-scm.com/downloads
+3. Ollama : https://ollama.com/download
 
-1. Documents publics fournis par l'équipe, enregistrés tels quels dans `data/raw/`.
-2. Registre `data/manifest.csv` : id, titre, organisme, URL, format, date de consultation, version/date du texte. Il contient aussi le type (normatif ou explicatif), les pages, le filtre, les options et le SHA-256.
-3. Extraction avec PyMuPDF (colonnes respectées), pypdf en secours, BeautifulSoup pour le HTML, et OCR tesseract pour les scans.
-4. Nettoyage des en-têtes, pieds de page, numéros de page et sommaires, **sans toucher** aux titres ni à la numérotation des articles.
-5. Textes nettoyés et unités par article dans `data/processed/`.
-6. Contrôle : chaque unité est recherchée dans sa page source (`traceability_report.csv`), et des pages ont été vérifiées à la main sur l'image.
+Une connexion Internet est nécessaire pour récupérer le dépôt, installer les bibliothèques et télécharger les modèles lors de la première installation. Une fois les composants téléchargés, une partie du fonctionnement peut s'effectuer localement.
 
-**Ajouter un document** : placer le fichier dans `data/raw/`, ajouter sa ligne dans le manifeste (options `ocr=oui`, `intitules=oui` ou `pages=oui`, selon le cas), puis relancer la tâche 2 (ou la 4 pour un scan).
+### Étape 1 — Cloner le dépôt
 
-## Corpus (Personne 1)
+Dans PowerShell ou un terminal :
 
-| Fichier de `data/processed/` | Contenu |
-|---|---|
-| `articles.jsonl` | **le livrable pour la personne 2** : 3 919 unités normalisées, une par article (ou une par page pour les documents sans articles) |
-| `<id>.txt` | le texte nettoyé de chaque document, avec ses marqueurs `[[page N]]` |
-| `<id>.json` | les métadonnées, la qualité, les pages et les articles de chaque document |
-| `quality_report.csv` | les contrôles par document : pages, pages OCR, articles détectés, doublons, sauts de numérotation, statut |
-| `traceability_report.csv` | pour chaque unité, si son texte est retrouvé dans sa page source |
-| `exemples_passages.md` | 12 unités commentées pour la personne 2, et des questions de test |
-| `ocr/` | le cache OCR (une page = un .txt) ; les corrections manuelles sont listées dans `ocr/CORRECTIONS.md` |
-
-### Sources et versions
-
-| id (manifeste) | Document | Type | Version retenue | Extraction |
-|---|---|---|---|---|
-| `cf-*` (14 extraits) | Code de la famille, découpé par livre et titre | normatif | Loi 72-61 du 12/06/1972, version consolidée du Ministère de la Justice | texte natif |
-| `cf-export-txt` | Code de la famille, export .txt | (non ingéré) | doublon du PDF, vérifié identique à 100 % | non |
-| `constitution` | Constitution du 22/01/2001 | normatif | consolidée par le Conseil constitutionnel **jusqu'à la LC 2018-14** | texte natif |
-| `constitution-historique` | Notes historiques de la Constitution (p. 48-54) | explicatif | idem | texte natif |
-| `an-reglement-interieur` | Règlement intérieur de l'Assemblée nationale | normatif | Loi organique 2025-11 du 18/08/2025 | texte natif |
-| `cocc` | Code des obligations civiles et commerciales | normatif | édition non datée ; certains articles sont remplacés par les AU OHADA reproduits | export .txt |
-| `code-construction` | Code de la construction | normatif | Loi 2023-21 du 29/12/2023 | OCR |
-| `code-urbanisme` | Code de l'urbanisme | normatif | Loi 2023-20 du 29/12/2023, JO 7694 du 17/01/2024 | OCR |
-| `code-electoral-legislatif` / `-reglementaire` | Code électoral, édition 2023 | normatif | loi 2021-35 modifiée en 2022 et 2023 ; décret 2021-1196 modifié en 2023 | OCR |
-| `ohada-au-dcg` | AU droit commercial général | normatif | 15/12/2010, JO OHADA n° 23 | OCR |
-| `ohada-au-suretes` | AU sûretés | normatif | 15/12/2010, JO OHADA n° 22 | OCR |
-| `guide-adoption-internationale` | Guide de l'adoption internationale (DESPS) | explicatif | édition 2019 | texte natif |
-| `snpe` | Stratégie nationale de protection de l'enfant | politique publique | 2013, édition 2016 | texte natif |
-| `desps-outils` | Outils d'intervention harmonisés (DESPS) | explicatif | 2012 | texte natif |
-| `desps-audit` | Rapport d'audit des centres (DESPS) | rapport | février 2018 | export .txt |
-| `somisen-code-conduite` | Code de conduite et d'éthique SOMISEN | règlement interne | 2025 | OCR (scan de basse qualité) |
-
-Le plan de travail (PDF) a été exclu du corpus, car ce n'est pas une source juridique.
-
-### Format d'une unité (`articles.jsonl`)
-
-```python
-import sys; sys.path.insert(0, "src")
-from ingest import load_units
-units = load_units()          # liste de dicts
+```powershell
+git clone https://github.com/rokhayacoumbadiouf-bit/Atelier_Assistant_LLM.git
+cd Atelier_Assistant_LLM
 ```
 
-| Champ | Sens |
+### Étape 2 — Créer un environnement virtuel
+
+```powershell
+py -3.11 -m venv .venv
+```
+
+Activer l'environnement :
+
+```powershell
+.venv\Scripts\Activate.ps1
+```
+
+Si PowerShell bloque l'activation, utiliser un terminal Command Prompt et exécuter :
+
+```bat
+.venv\Scripts\activate.bat
+```
+
+### Étape 3 — Installer les dépendances Python
+
+Mettre à jour pip :
+
+```powershell
+python -m pip install --upgrade pip
+```
+
+Installer les bibliothèques à partir du fichier de dépendances :
+
+```powershell
+python -m pip install -r requirements.txt
+```
+
+Le fichier `requirements.txt` doit contenir les dépendances réellement nécessaires au projet. À défaut, les bibliothèques principales identifiées sont `sentence-transformers`, `chromadb`, `requests` et `streamlit`.
+
+### Étape 4 — Installer le modèle de génération
+
+Télécharger Qwen 2.5 7B avec Ollama :
+
+```powershell
+ollama pull qwen2.5:7b
+```
+
+Vérifier que le modèle est disponible :
+
+```powershell
+ollama list
+```
+
+Le modèle doit apparaître sous le nom `qwen2.5:7b`.
+
+Le modèle peut nécessiter plusieurs gigaoctets de stockage et une quantité suffisante de mémoire vive. Les performances dépendent de la configuration matérielle.
+
+### Étape 5 — Vérifier le modèle d'embeddings
+
+Ouvrir `src/config.py` et repérer le paramètre `EMBEDDING_MODEL_NAME`.
+
+Le modèle configuré doit être identique à celui qui a servi à construire l'index ChromaDB. Il est possible que les poids du modèle soient téléchargés lors de sa première utilisation.
+
+**Ne pas changer le modèle d'embeddings sans vérifier la compatibilité avec l'index existant.** Si le modèle doit changer, les embeddings des passages doivent être recalculés et la base réindexée de façon cohérente.
+
+### Étape 6 — Vérifier les données
+
+Confirmer que les fichiers suivants sont présents :
+
+- `data/processed/articles.jsonl`
+- `data/processed/chunks.jsonl`, si le découpage a déjà été effectué
+- `data/vectorstore/`, si l'index existant est fourni
+
+Si les données ou l'index ne sont pas inclus dans le dépôt, il faut récupérer les fichiers nécessaires auprès de l'équipe ou exécuter les scripts de préparation et d'indexation disponibles dans le projet.
+
+Ne pas relancer l'indexation sans avoir vérifié les scripts, les chemins et le nom de la collection configurée.
+
+## 8. Lancement de l'application
+
+Si `app.py`, `rag.py` et `retrieval.py` sont placés dans le dossier `src/`, lancer depuis la racine du dépôt :
+
+```powershell
+python -m streamlit run src/app.py
+```
+
+Si `app.py` est placé à la racine, utiliser plutôt :
+
+```powershell
+python -m streamlit run app.py
+```
+
+Streamlit indique ensuite l'adresse locale à ouvrir dans le navigateur.
+
+### Vérifications en cas de problème
+
+- **Module introuvable :** vérifier l'environnement virtuel et l'emplacement des fichiers Python.
+- **Erreur de connexion à Ollama :** vérifier qu'Ollama est installé, que son service fonctionne et que le modèle est téléchargé.
+- **Modèle introuvable :** vérifier le nom utilisé dans `src/rag.py` et la sortie de `ollama list`.
+- **Aucun passage pertinent :** vérifier le corpus, l'index, le modèle d'embeddings et les paramètres de recherche.
+- **Erreur ChromaDB :** vérifier le chemin de la base, le nom de la collection et la compatibilité de l'index avec le modèle utilisé.
+- **Réponse sans citation correcte :** vérifier les extraits fournis au modèle et la correspondance entre leurs numéros et les sources affichées.
+
+## 9. Recherche et génération : points de contrôle
+
+### Qualité de la recherche
+
+La pertinence des résultats est essentielle : même un bon modèle de langage ne peut pas produire une réponse fiable si les passages récupérés sont hors sujet ou incomplets.
+
+La fonction de recherche doit notamment être évaluée sur :
+- la présence du passage juridique attendu parmi les premiers résultats ;
+- la pertinence des extraits récupérés ;
+- la conservation des références et métadonnées ;
+- le comportement face aux formulations différentes d'une même question ;
+- le choix des seuils de distance et de classement.
+
+Les seuils de similarité doivent être calibrés sur les résultats observés. Une distance vectorielle ne doit pas être interprétée automatiquement comme une probabilité de pertinence.
+
+### Fiabilité de la génération
+
+Le modèle doit être guidé pour :
+- répondre uniquement à partir du contexte fourni ;
+- citer les extraits qui soutiennent ses affirmations ;
+- signaler les informations absentes ou insuffisantes ;
+- éviter de fabriquer des articles, des références ou des URL ;
+- distinguer ce que disent les documents de ce qu'ils ne permettent pas d'établir.
+
+Le contrôle automatique du format des citations est utile, mais une vérification de leur pertinence juridique reste nécessaire.
+
+### Limites du corpus
+
+Le corpus peut contenir des erreurs de reconnaissance de caractères (OCR), des documents incomplets ou des versions qui ne sont plus en vigueur. La présence d'un texte dans la base ne garantit donc ni son actualité ni son applicabilité à une situation donnée.
+
+L'assistant doit éviter de présenter une disposition comme étant en vigueur sans source permettant de le confirmer.
+
+## 10. Évaluation du système
+
+Pour mesurer la qualité du RAG, un jeu d'environ **20 questions juridiques avec réponses de référence** doit être constitué.
+
+Chaque question devrait être évaluée selon plusieurs critères :
+
+| Critère | Question à vérifier |
 |---|---|
-| `unit_id` | identifiant stable, par exemple `code-electoral-legislatif::art-L.53` ou `snpe::p12` |
-| `doc_id`, `titre_document`, `type_document` | le document (même id que dans le manifeste) ; type : normatif, explicatif, politique publique, rapport ou règlement interne |
-| `source_url`, `version_texte`, `date_consultation` | la traçabilité et la version |
-| `article`, `intitule` | le numéro (`1`, `L.53`, `R.12`, `LO.142`, `202 AU/DCG`) et le titre de l'article, s'il en a un |
-| `partie`, `livre`, `titre`, `chapitre`, `section`, `paragraphe`, `rubrique` | la position dans la structure du texte |
-| `modification` | la note de modification (par exemple dans la Constitution consolidée) |
-| `page_start`, `page_end` | les pages du fichier dans `data/raw/` (numéros de page PDF) |
-| `citation` | la référence prête à afficher, par exemple « Code électoral, art. L.53 (p. 30) » |
-| `text` | le texte nettoyé (sans en-têtes, pieds de page ni numéros de page) |
-| `extraction` | « texte natif » ou « ocr à vérifier » |
-| `statut_version` | « texte tel que publié par la source » (ou « remplacé par … » si un texte plus récent du corpus le modifie) |
+| Pertinence de la recherche | Le passage attendu figure-t-il parmi les résultats ? |
+| Pertinence du contexte | Les extraits récupérés permettent-ils de répondre à la question ? |
+| Fidélité de la réponse | La réponse respecte-t-elle le contenu des sources ? |
+| Exactitude des citations | Les références existent-elles et correspondent-elles aux extraits ? |
+| Gestion de l'incertitude | Le système refuse-t-il ou nuance-t-il sa réponse lorsque les sources sont insuffisantes ? |
+| Latence | Combien de temps faut-il pour obtenir une réponse ? |
 
-### Contrôles
+Les résultats, les erreurs observées et les améliorations envisagées devront être consignés dans un rapport d'évaluation.
 
-- **Lisibilité** : les 15 documents sont lisibles. Sept PDF sont des scans ou ont une couche texte cassée et ont été passés en OCR (424 pages), ce que signalent le statut `ocr_a_verifier` dans `quality_report.csv` et le champ `extraction`.
-- **Traçabilité** (`python src/ingest.py --controle`) : sur 3 919 unités, **3 905 (99,6 %)** sont retrouvées intégralement dans leurs pages sources. Les 14 autres sont retrouvées en partie. Il s'agit de pages explicatives avec des tableaux, de préambules OHADA et SOMISEN, et de 4 articles de l'urbanisme à cheval sur deux colonnes. Aucune unité n'est introuvable.
-- **Numérotation** : tous les sauts restants viennent des sources elles-mêmes :
-  - Code de la famille : l'art. 688 est absent du PDF.
-  - COCC : les art. 392-432, 473-495 et 584-638 sont abrogés et remplacés par les articles AU/DCG reproduits.
-  - AU sûretés : l'art. 179 est perdu dans le scan.
-  - SOMISEN : le n° 30 est imprimé deux fois.
-- **Versions** : la Constitution n'intègre pas les révisions postérieures à 2018. Le Code électoral est l'édition 2023. Le COCC n'est pas daté.
+## 11. Collaboration et contribution
 
-### Conseils pour la personne 2 (découpage et indexation)
+Le projet est développé dans le cadre d'un travail collaboratif.
 
-- La médiane est de 362 caractères par unité : **un article = un chunk** convient. Seules 78 unités dépassent 3 000 caractères, par exemple les articles de définitions L.2 de l'urbanisme et de la construction. Pour celles-là, il vaut mieux découper par alinéa en répétant `citation` et la hiérarchie.
-- Il est utile de préfixer chaque chunk par son contexte, par exemple « Code électoral > Partie législative > Titre I > Chapitre II : art. L.53 : … ». Cela améliore la recherche sur les questions générales.
-- Filtrer ou pondérer selon `type_document` : une réponse juridique doit citer en priorité les textes **normatifs**. Le code SOMISEN est un règlement interne d'entreprise.
-- Les unités marquées « ocr à vérifier » peuvent contenir des coquilles. Afficher toujours `citation` et `source_url` pour que l'utilisateur puisse vérifier.
+Dépôt GitHub :
 
-### Limites connues
+https://github.com/rokhayacoumbadiouf-bit/Atelier_Assistant_LLM
 
-- Le corpus couvre plusieurs domaines (famille, constitutionnel, électoral, urbanisme, OHADA, protection de l'enfance…), parce qu'il reprend tous les documents fournis. Le plan recommandait un seul domaine.
-- L'OCR n'a pas été relu en entier : seules 6 corrections ponctuelles ont été faites (voir `data/processed/ocr/CORRECTIONS.md`).
-- Le COCC et le rapport d'audit DESPS viennent d'exports .txt. Leurs « pages » sont des blocs de l'export, pas les pages imprimées, et les intitulés du COCC sont déduits automatiquement.
-- Quelques titres de hiérarchie sont tronqués quand ils tiennent sur deux lignes dans la source.
-- Le premier corpus, centré sur le droit de la famille (avec le Code pénal et les lois 2013-05 et 2020-05), n'est pas dans le projet. Il est archivé à part.
+Pour contribuer :
+
+1. Cloner le dépôt.
+2. Créer et activer un environnement virtuel.
+3. Installer les dépendances.
+4. Vérifier la configuration et la disponibilité des données.
+5. Tester la fonctionnalité sur laquelle on travaille.
+6. Documenter les modifications apportées.
+7. Envoyer les changements sur une branche de travail et ouvrir une pull request si ce mode de collaboration est retenu par l'équipe.
+
+Il est recommandé de ne pas versionner l'environnement virtuel `.venv/`, les secrets, ni les fichiers volumineux générés automatiquement sans décision collective. Le traitement du corpus et de l'index doit être documenté afin que les membres de l'équipe puissent reproduire les étapes nécessaires.
+
+## 12. Améliorations envisagées
+
+Les pistes de travail prioritaires sont :
+
+- améliorer le découpage des documents pour préserver la structure des articles ;
+- évaluer et optimiser le classement des passages ;
+- ajuster les paramètres de recherche sur un jeu de questions représentatif ;
+- renforcer la vérification des citations ;
+- améliorer la gestion des questions hors corpus ;
+- tester la robustesse des réponses face aux erreurs OCR ;
+- mesurer la latence et documenter les limites de performance ;
+- finaliser l'interface et les messages d'erreur ;
+- compléter la documentation technique et le rapport d'évaluation.
+
+## 13. Conclusion
+
+Ce projet met en œuvre les principaux composants d'un assistant juridique basé sur le RAG : préparation du corpus, découpage, embeddings, indexation vectorielle, récupération de passages et génération de réponses.
+
+Le travail restant consiste principalement à vérifier la synchronisation des données et de l'index, à valider le fonctionnement de bout en bout, à mesurer la qualité de la recherche et des réponses, puis à documenter les résultats et les limites du système.
+
+La priorité n'est pas seulement de faire fonctionner le chatbot, mais de garantir que ses réponses sont **traçables, justifiées par des sources identifiables et prudentes lorsque les informations disponibles ne suffisent pas**.
+
+---
+
+*Document de travail : les nombres de passages indexés, le modèle d'embeddings exact, l'état de l'interface et les résultats de l'évaluation doivent être confirmés à partir de la version courante du dépôt avant de présenter ce README comme un état final du projet.*
