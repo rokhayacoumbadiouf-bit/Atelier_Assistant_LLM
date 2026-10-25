@@ -39,7 +39,7 @@ Le projet vise à :
 | Sentence Transformers | Calcul des embeddings des passages et des questions |
 | ChromaDB | Stockage et recherche vectorielle |
 | Ollama | Exécution locale du modèle de langage |
-| Qwen 2.5 7B | Génération des réponses |
+| Qwen 2.5 (7B prévu ; 3B utilisé pour l'évaluation, PC de 8 Go) | Génération des réponses |
 | Requests | Communication HTTP avec l'API Ollama |
 | Streamlit | Interface utilisateur web |
 | Git et GitHub | Gestion du code et collaboration |
@@ -139,8 +139,8 @@ Le corpus compte actuellement **4 367 unités**, selon le dernier décompte comm
 | Génération avec Ollama et Qwen | Module préparé ; validation systématique nécessaire |
 | Vérification des citations | Contrôle élémentaire implémenté ; qualité à évaluer |
 | Interface Streamlit | Préparée ; test de bout en bout nécessaire |
-| Évaluation sur un jeu de questions | À compléter |
-| Rapport final et démonstration | À finaliser |
+| Évaluation sur un jeu de questions | **Réalisée** : 20 questions, 2 passages d'évaluation (voir section 10) |
+| Rapport final et démonstration | Rapport rédigé (`reports/rapport.md`) ; démonstration à préparer |
 
 Un premier test de recherche a notamment retrouvé l'article 1 du Code de la famille pour une question relative au commencement de la personnalité juridique. Ce résultat constitue un test fonctionnel initial, et non une preuve de performance générale.
 
@@ -158,19 +158,30 @@ Atelier_Assistant_LLM/
 ├── .gitignore
 │
 ├── data/
+│   ├── raw/                      (documents sources d'origine)
 │   ├── processed/
 │   │   ├── articles.jsonl
 │   │   └── chunks.jsonl
-│   │
-│   └── vectorstore/
-│       └── ...
+│   ├── vectorstore/              (index ChromaDB)
+│   ├── manifest.csv              (registre des sources)
+│   └── evaluation/
+│       └── questions.json        (jeu de 20 questions d'évaluation)
+│
+├── reports/
+│   ├── rapport.md                (rapport d'évaluation)
+│   ├── results_run1.csv, summary_run1.md        (évaluation, top_k = 5)
+│   └── results_run2_k8.csv, summary_run2_k8.md  (amélioration testée, top_k = 8)
 │
 └── src/
     ├── config.py
     ├── ingest.py
+    ├── chunking.py
+    ├── indexation.py
     ├── retrieval.py
     ├── rag.py
-    └── app.py
+    ├── app.py
+    ├── evaluate.py               (évaluation : Recall@k, notation guidée, résumé)
+    └── outils_notes.py           (contrôle des références, correction de notes)
 ```
 
 ### Rôle des fichiers
@@ -185,6 +196,11 @@ Atelier_Assistant_LLM/
 - `src/retrieval.py` : recherche et classement des passages.
 - `src/rag.py` : construction du contexte et génération des réponses.
 - `src/app.py` : interface Streamlit, si le fichier est placé dans `src/`.
+- `src/chunking.py` et `src/indexation.py` : découpage en passages et indexation dans ChromaDB.
+- `data/evaluation/questions.json` : jeu de 20 questions avec réponses de référence et preuves attendues.
+- `src/evaluate.py` : exécution du jeu de questions, calcul du Recall@k, notation guidée et résumé.
+- `src/outils_notes.py` : contrôle des numéros d'articles attendus et correction de notes.
+- `reports/` : résultats d'évaluation et rapport.
 
 Les noms de fichiers et leur emplacement doivent correspondre au dépôt réel. Si l'interface se trouve à la racine du projet, sa commande de lancement sera différente.
 
@@ -209,6 +225,14 @@ git clone https://github.com/rokhayacoumbadiouf-bit/Atelier_Assistant_LLM.git
 cd Atelier_Assistant_LLM
 ```
 
+Le dépôt pèse environ 160 Mo. Si le clonage échoue (« early EOF »), relancer avec un clone léger :
+
+```powershell
+git config --global http.postBuffer 524288000
+git config --global http.version HTTP/1.1
+git clone --depth 1 https://github.com/rokhayacoumbadiouf-bit/Atelier_Assistant_LLM.git
+```
+
 ### Étape 2 — Créer un environnement virtuel
 
 ```powershell
@@ -221,7 +245,14 @@ Activer l'environnement :
 .venv\Scripts\Activate.ps1
 ```
 
-Si PowerShell bloque l'activation, utiliser un terminal Command Prompt et exécuter :
+Si PowerShell bloque l'activation (« l'exécution de scripts est désactivée »), autoriser les scripts pour la fenêtre en cours uniquement, puis réactiver :
+
+```powershell
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+.venv\Scripts\Activate.ps1
+```
+
+Ou bien utiliser un terminal Command Prompt et exécuter :
 
 ```bat
 .venv\Scripts\activate.bat
@@ -260,6 +291,8 @@ ollama list
 Le modèle doit apparaître sous le nom `qwen2.5:7b`.
 
 Le modèle peut nécessiter plusieurs gigaoctets de stockage et une quantité suffisante de mémoire vive. Les performances dépendent de la configuration matérielle.
+
+**PC de 8 Go de mémoire :** le modèle 7B est trop lourd. L'évaluation a été réalisée avec `qwen2.5:3b` (`ollama pull qwen2.5:3b`). `src/evaluate.py` utilise `qwen2.5:3b` par défaut ; pour utiliser un autre modèle, définir la variable d'environnement avant de lancer l'évaluation (par exemple `$env:OLLAMA_MODEL="qwen2.5:7b"`). L'application Streamlit utilise, elle, le nom du modèle défini dans `src/rag.py` (`OLLAMA_MODEL`).
 
 ### Étape 5 — Vérifier le modèle d'embeddings
 
@@ -340,20 +373,42 @@ L'assistant doit éviter de présenter une disposition comme étant en vigueur s
 
 ## 10. Évaluation du système
 
-Pour mesurer la qualité du RAG, un jeu d'environ **20 questions juridiques avec réponses de référence** doit être constitué.
+Un jeu de **20 questions juridiques avec réponses de référence** a été constitué (`data/evaluation/questions.json`) : 5 factuelles, 4 procédures, 4 conditions multiples, 3 multi-passages, 2 hors corpus, 2 ambiguës. Il a été écrit avant les essais. Les numéros d'articles attendus ont été contrôlés automatiquement dans le corpus (une référence sur 21 était erronée et a été corrigée).
 
-Chaque question devrait être évaluée selon plusieurs critères :
+Chaque question est évaluée selon les critères suivants :
 
 | Critère | Question à vérifier |
 |---|---|
-| Pertinence de la recherche | Le passage attendu figure-t-il parmi les résultats ? |
-| Pertinence du contexte | Les extraits récupérés permettent-ils de répondre à la question ? |
-| Fidélité de la réponse | La réponse respecte-t-elle le contenu des sources ? |
-| Exactitude des citations | Les références existent-elles et correspondent-elles aux extraits ? |
-| Gestion de l'incertitude | Le système refuse-t-il ou nuance-t-il sa réponse lorsque les sources sont insuffisantes ? |
+| Pertinence de la recherche | Le passage attendu figure-t-il parmi les résultats ? (Recall@k, calcul automatique) |
+| Fidélité de la réponse | La réponse respecte-t-elle le contenu des sources ? (note manuelle 0–2) |
+| Exactitude et complétude | La réponse dit-elle la même chose que la référence, sans rien omettre ? (notes 0–2) |
+| Exactitude des citations | Les références existent-elles et correspondent-elles aux extraits ? (note 0–2) |
+| Gestion de l'incertitude | Le système refuse-t-il lorsque les sources sont insuffisantes ? |
 | Latence | Combien de temps faut-il pour obtenir une réponse ? |
 
-Les résultats, les erreurs observées et les améliorations envisagées devront être consignés dans un rapport d'évaluation.
+### Relancer l'évaluation
+
+```powershell
+python -m src.evaluate run --out reports/results_run1.csv                      # pose les 20 questions (top_k = 5)
+python -m src.evaluate noter --results reports/results_run1.csv                # notation guidée à la main (0, 1, 2)
+python -m src.evaluate summarize --results reports/results_run1.csv            # calcule le résumé
+python src/outils_notes.py verifier                                            # contrôle les numéros d'articles attendus
+python -m src.evaluate run --top-k 8 --out reports/results_run2_k8.csv         # variante testée : 8 passages
+```
+
+L'application doit pouvoir répondre (Ollama lancé, modèle téléchargé, index présent) avant de lancer `run`. Compter 10 à 15 minutes pour les 20 questions avec `qwen2.5:3b` sur un PC de 8 Go.
+
+### Résultats du premier passage (top_k = 5, `qwen2.5:3b`)
+
+| Indicateur | Valeur |
+|---|---|
+| Passage nécessaire retrouvé (Recall@5) | 0,94 (17 questions sur 18) |
+| Exactitude / fidélité moyennes (0–2) | 1,50 / 1,65 |
+| Complétude / citations moyennes (0–2) | 1,40 / 1,20 |
+| Refus corrects sur les questions hors corpus | 2 sur 2 |
+| Latence moyenne | 45,8 s par question |
+
+Les questions à une seule règle sont très bien traitées ; celles qui demandent d'énumérer ou de combiner plusieurs règles le sont moins. Passer à 8 passages améliore la recherche (1,00) mais pas les réponses sur les cas examinés, et augmente la latence de 68 %. Le détail, les erreurs analysées et les limites figurent dans `reports/rapport.md`.
 
 ## 11. Collaboration et contribution
 
@@ -399,4 +454,4 @@ La priorité n'est pas seulement de faire fonctionner le chatbot, mais de garant
 
 ---
 
-*Document de travail : les nombres de passages indexés, le modèle d'embeddings exact, l'état de l'interface et les résultats de l'évaluation doivent être confirmés à partir de la version courante du dépôt avant de présenter ce README comme un état final du projet.*
+*Document de travail : les nombres de passages indexés, le modèle d'embeddings exact et l'état de l'interface doivent être confirmés par leurs responsables à partir de la version courante du dépôt avant de présenter ce README comme un état final du projet. Les résultats d'évaluation ci-dessus proviennent de `reports/`.*
